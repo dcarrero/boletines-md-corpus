@@ -1,0 +1,395 @@
+---
+fuente: "BOE"
+fecha: "2024-09-19"
+diario_numero: "227"
+total_documentos: 221
+---
+
+# BOE núm. 227 — 2024-09-19
+
+## II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Acuerdo de 11 de abril de 2024, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria anticipada de la Magistrada doña María del Milagro Rubio Gil.](BOE-A-2024-18725.md)
+
+### MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE
+
+- [Resolución de 13 de septiembre de 2024, de la Subsecretaría, por la que se resuelve convocatoria de libre designación, efectuada por Resolución de 28 de junio de 2024.](BOE-A-2024-18726.md)
+
+### MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES
+
+- [Orden EFD/986/2024, de 12 de septiembre, por la que, a propuesta de la Consejería de Educación, Formación Profesional y Universidades de la Comunidad Autónoma de Cantabria, en ejecución de sentencia, se modifica la Orden EFD/122/2024, de 8 de febrero, por la que se nombran funcionarios de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño, Profesores Especialistas en Sectores Singulares de Formación Profesional, Maestros de Taller de Artes Plásticas y Diseño y de Maestros, a los seleccionados en los procedimientos selectivos extraordinarios de estabilización convocados por Orden EDU/60/2022, de 15 de noviembre.](BOE-A-2024-18727.md)
+
+### MINISTERIO DE INDUSTRIA Y TURISMO
+
+- [Orden ITU/987/2024, de 17 de septiembre, por la que se dispone el cese de don Luis Antonio Rico Urios como Director del Gabinete de la Secretaria de Estado de Industria.](BOE-A-2024-18728.md)
+- [Orden ITU/988/2024, de 17 de septiembre, por la que se nombra Director del Gabinete de la Secretaria de Estado de Industria a don Jaime David Peris Pascual.](BOE-A-2024-18729.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Resolución de 12 de septiembre de 2024, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 7 de junio de 2024.](BOE-A-2024-18730.md)
+
+### MINISTERIO DE CULTURA
+
+- [Resolución de 11 de septiembre de 2024, de la Subsecretaría, por la que se resuelve concurso específico, convocado por Resolución de 26 de febrero de 2024, en el Organismo Autónomo Biblioteca Nacional de España.](BOE-A-2024-18731.md)
+- [Resolución de 11 de septiembre de 2024, de la Subsecretaría, por la que se resuelve concurso general, convocado por Resolución de 26 de febrero de 2024, en el Organismo Autónomo Biblioteca Nacional de España.](BOE-A-2024-18732.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Resolución de 4 de septiembre de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de junio de 2024.](BOE-A-2024-18733.md)
+
+### MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA
+
+- [Resolución de 10 de septiembre de 2024, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, de la Escala de Titulados Superiores del Instituto Nacional de Seguridad e Higiene en el Trabajo.](BOE-A-2024-18734.md)
+- [Resolución de 13 de septiembre de 2024, de la Agencia Española de Supervisión de Inteligencia Artificial, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 2 de julio de 2024.](BOE-A-2024-18735.md)
+
+### AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS
+
+- [Resolución de 12 de septiembre de 2024, de la Agencia Española de Protección de Datos, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de junio de 2024.](BOE-A-2024-18736.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Alicante, por la que se nombra Catedrática de Universidad a doña Chelo Vargas Sierra.](BOE-A-2024-18737.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Alicante, por la que se nombra Profesor Titular de Universidad a don Angelo Gonçalo Araujo Da Silva Costa.](BOE-A-2024-18738.md)
+
+## II. Autoridades y personal. - B. Oposiciones y concursos
+
+### MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES
+
+- [Orden PJC/989/2024, de 9 de septiembre, por la que se corrigen errores en la Orden PJC/791/2024, de 18 de julio, por la que se aprueba la relación definitiva de personas admitidas y excluidas, y se publican las sedes de examen, del proceso selectivo para ingreso, por el sistema general de acceso libre, mediante oposición, al Cuerpo de Auxilio Judicial de la Administración de Justicia, convocado por Orden PJC/64/2024, de 25 de enero.](BOE-A-2024-18739.md)
+- [Orden PJC/990/2024, de 9 de septiembre, por la que se corrigen errores en la Orden PJC/792/2024, de 18 de julio, por la que se aprueba la relación definitiva de personas admitidas y excluidas, y se publican las sedes de examen, del proceso selectivo para ingreso, por el sistema general de acceso libre, mediante oposición, al Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, convocado por Orden PJC/64/2024, de 25 de enero.](BOE-A-2024-18740.md)
+- [Orden PJC/991/2024, de 9 de septiembre, por la que se corrigen errores en la Orden PJC/793/2024, de 18 de julio, por la que se aprueba la relación definitiva de personas admitidas y excluidas, y se publican las sedes de examen, del proceso selectivo para ingreso, por el sistema general de acceso libre mediante oposición, al Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, convocado por Orden PJC/64/2024, de 25 de enero.](BOE-A-2024-18741.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA
+
+- [Resolución de 12 de septiembre de 2024, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.](BOE-A-2024-18742.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Resolución de 7 de septiembre de 2024, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.](BOE-A-2024-18743.md)
+
+### MINISTERIO DE CULTURA
+
+- [Resolución de 17 de septiembre de 2024, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.](BOE-A-2024-18744.md)
+
+### MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES
+
+- [Resolución de 12 de septiembre de 2024, del Servicio Español para la Internacionalización de la Educación, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.](BOE-A-2024-18745.md)
+
+### COMUNIDAD AUTÓNOMA DE CATALUÑA
+
+- [Resolución de 15 de septiembre de 2024, del Departamento de Justicia y Calidad Democrática, por la que se convoca concurso específico para la provisión de puesto de trabajo en la Oficina Judicial de Cervera.](BOE-A-2024-18746.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Resolución de 11 de septiembre de 2024, de la Diputación Provincial de León, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.](BOE-A-2024-18747.md)
+- [Resolución de 16 de septiembre de 2024, del Cabildo Insular de La Palma (Santa Cruz de Tenerife), de corrección de errores de la de 3 de septiembre de 2024, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.](BOE-A-2024-18748.md)
+- [Resolución de 21 de agosto de 2024, del Ayuntamiento de Ciudad Real, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18749.md)
+- [Resolución de 2 de septiembre de 2024, del Ayuntamiento de Lugo, referente a la convocatoria para proveer una plaza.](BOE-A-2024-18750.md)
+- [Resolución de 2 de septiembre de 2024, del Ayuntamiento de Lugo, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18751.md)
+- [Resolución de 3 de septiembre de 2024, del Ayuntamiento de Guitiriz (Lugo), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18752.md)
+- [Resolución de 5 de septiembre de 2024, de la Diputación Provincial de Alicante, Consorcio Provincial para el Servicio de Extinción de Incendios y Salvamento, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18753.md)
+- [Resolución de 5 de septiembre de 2024, de la Diputación Provincial de Alicante, Consorcio Provincial para el Servicio de Extinción de Incendios y Salvamento, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18754.md)
+- [Resolución de 9 de septiembre de 2024, del Ayuntamiento de L'Ametlla del Vallès (Barcelona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18755.md)
+- [Resolución de 9 de septiembre de 2024, del Ayuntamiento de L'Ametlla del Vallès (Barcelona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18756.md)
+- [Resolución de 9 de septiembre de 2024, de la Mancomunidad de Municipios Sostenibles de Cantabria (Cantabria), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18757.md)
+- [Resolución de 9 de septiembre de 2024, del Ayuntamiento de Abarán (Murcia), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18758.md)
+- [Resolución de 9 de septiembre de 2024, del Ayuntamiento de Sena de Luna (León), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18759.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de Tardelcuende (Soria), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18760.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de San Javier (Murcia), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18761.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de Pedro Bernardo (Ávila), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18762.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de Sant Vicenç dels Horts (Barcelona), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18763.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de Sant Vicenç dels Horts (Barcelona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18764.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de Manlleu (Barcelona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18765.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de Renedo de Esgueva (Valladolid), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18766.md)
+- [Resolución de 10 de septiembre de 2024, del Ayuntamiento de Antas (Almería), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18767.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Lantejuela (Sevilla), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18768.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Càlig (Castellón/Castelló), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18769.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Busot (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18770.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Villanueva de Perales (Madrid), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18771.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Haro (La Rioja), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18772.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Sevilla, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18773.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Lobón (Badajoz), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18774.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Benaguasil (Valencia/València), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18775.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Alcorcón (Madrid), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18776.md)
+- [Resolución de 11 de septiembre de 2024, del Consejo Insular de Mallorca (Illes Balears), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18777.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de San Cristóbal de Segovia (Segovia), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18778.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Valle de Trápaga-Trapagaran (Bizkaia), referente a la convocatoria para proveer una plaza.](BOE-A-2024-18779.md)
+- [Resolución de 11 de septiembre de 2024, del Ayuntamiento de Argamasilla de Alba (Ciudad Real), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18780.md)
+- [Resolución de 13 de septiembre de 2024, del Ayuntamiento de Polinyà de Xúquer (Valencia/València), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18781.md)
+- [Resolución de 17 de septiembre de 2024, del Ayuntamiento de Fines (Almería), que deja sin efecto la de 10 de julio de 2024, referente a la convocatoria para proveer una plaza.](BOE-A-2024-18782.md)
+- [Resolución de 29 de agosto de 2024, del Ayuntamiento de Huétor Santillán (Granada), de corrección de errores de la de 8 de agosto de 2024, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18783.md)
+- [Resolución de 17 de septiembre de 2024, del Ayuntamiento de Burela (Lugo), de corrección de errores de la de 6 de septiembre de 2024, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-18784.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 12 de septiembre de 2024, de la Universidad Politécnica de Madrid, por la que se convoca proceso selectivo para la provisión, por el sistema general de acceso libre, de plazas de personal laboral.](BOE-A-2024-18785.md)
+
+## III. Otras disposiciones
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Resolución de 6 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Marruecos y Barceló Gestión Hotelière Maroc, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18786.md)
+- [Resolución de 9 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Arabia Saudí e Indra Sistemas, SA, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18787.md)
+- [Resolución de 9 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Arabia Saudí y Ayesa Ingeniería y Arquitectura, SAU-Sucursal Arabia, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18788.md)
+- [Resolución de 9 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Arabia Saudí y Typsa Group, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18789.md)
+- [Resolución de 9 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Bulgaria y Sunny Travel Club EOOD, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18790.md)
+- [Resolución de 10 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Costa Rica y TPF Getinsa Euroestudios, SL, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18791.md)
+- [Resolución de 10 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en México y Mapfre México, SA, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18792.md)
+- [Resolución de 10 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Perú e Indra Perú, SA, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18793.md)
+- [Resolución de 11 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre el Instituto Cervantes y la Unión Temporal de Empresas OYM CAP Djinet, para el desarrollo de actividades culturales y académicas en 2024 y 2025.](BOE-A-2024-18794.md)
+- [Resolución de 11 de septiembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Chile y la Cámara Oficial Española de Comercio en Chile, para la celebración de la Fiesta Nacional de España.](BOE-A-2024-18795.md)
+
+### MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE
+
+- [Resolución de 23 de julio de 2024, de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias, por la que se publica el Convenio entre el Ministerio de Transportes y Movilidad Sostenible, el Ayuntamiento de Bilbao y la Sociedad Bilbao Ría 2000, para la integración del ferrocarril y desarrollo de la actuación de renovación urbana en el ámbito urbano de Olabeaga (Bilbao).](BOE-A-2024-18796.md)
+- [Resolución de 23 de julio de 2024, de la Autoridad Portuaria de Valencia, sobre delegación de las competencias.](BOE-A-2024-18797.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Resolución de 11 de septiembre de 2024, de la Dirección General de Trabajo, por la que se registra y publica el I Convenio colectivo de Axent Infraestructuras de Telecomunicaciones, SA.](BOE-A-2024-18798.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA
+
+- [Resolución de 3 de septiembre de 2024, de la Secretaría General de Coordinación Territorial, por la que se publica el Acuerdo de 26 de julio de 2024, de la Comisión Bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de Illes Balears, en relación con el Decreto-ley 3/2024, de 24 de mayo, de medidas urgentes de simplificación y racionalización administrativas de las administraciones públicas de las Illes Balears.](BOE-A-2024-18799.md)
+- [Resolución de 3 de septiembre de 2024, de la Secretaría General de Coordinación Territorial, por la que se publica el Acuerdo de 7 de agosto de 2024, de la Comisión Bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de Illes Balears, en relación con el Decreto-ley 3/2024, de 24 de mayo, de medidas urgentes de simplificación y racionalización administrativas de las administraciones públicas de las Illes Balears.](BOE-A-2024-18800.md)
+
+### MINISTERIO DE CULTURA
+
+- [Resolución de 9 de septiembre de 2024, de la Dirección General del Libro, del Cómic y de la Lectura, por la que se publica el Convenio con la Universidad de Lleida, para regular el suministro de metadatos y miniaturas.](BOE-A-2024-18801.md)
+- [Resolución de 9 de septiembre de 2024, de la Dirección General del Libro, del Cómic y de la Lectura, por la que se publica el Convenio con la Universidad de Valladolid, para regular el suministro de metadatos y miniaturas.](BOE-A-2024-18802.md)
+- [Resolución de 10 de septiembre de 2024, del Instituto Nacional de las Artes Escénicas y de la Música, por la que se publica el Convenio con la Federación Estatal de Asociaciones de Compañías y Empresas Profesionales de Danza, para la organización conjunta de la actividad «Internacionalización de la danza en el circuito de ferias especializadas durante 2024-2025», en el marco del Plan de Recuperación, Transformación y Resiliencia -financiado por la Unión Europea- Next Generation EU.](BOE-A-2024-18803.md)
+- [Resolución de 10 de septiembre de 2024, del Instituto Nacional de las Artes Escénicas y de la Música, por la que se publica el Convenio con Teatros Luchana, SL, para la organización de prácticas para alumnado del Centro de Tecnología del Espectáculo.](BOE-A-2024-18804.md)
+- [Resolución de 11 de septiembre de 2024, de la Dirección General de Patrimonio Cultural y Bellas Artes, por la que se publica el Convenio con la Fundación Bancaria "la Caixa", para la celebración del Congreso "Ciencia y Arte".](BOE-A-2024-18805.md)
+- [Resolución de 11 de septiembre de 2024, del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., por la que se publica el Convenio con el Consejo Insular de Mallorca, para la publicación de contenidos audiovisuales digitales en la plataforma digital de video a demanda del ICAA (PLATFO).](BOE-A-2024-18806.md)
+- [Resolución de 12 de septiembre de 2024, del Instituto Nacional de las Artes Escénicas y de la Música, por la que se publica el Convenio con la Fundación Don Juan de Borbón, para la organización conjunta del ciclo musical: «XXXII Jornadas de Música Contemporánea de Segovia», programado por la Fundación Don Juan de Borbón y el Centro Nacional de Difusión Musical para la temporada 2024-2025.](BOE-A-2024-18807.md)
+- [Orden CLT/992/2024, de 22 de agosto, por la que se ejercita el derecho de tanteo sobre el lote n.º 625, subastado por la sala Balclis, en Barcelona.](BOE-A-2024-18808.md)
+- [Orden CLT/993/2024, de 22 de agosto, por la que se ejercita el derecho de tanteo sobre los lotes n.º 19, 31 y 92, subastados por la sala Juan Naranjo, en Barcelona.](BOE-A-2024-18809.md)
+- [Orden CLT/994/2024, de 26 de agosto, por la que se ejercita el derecho de tanteo sobre los lotes n.º 127, 172 y 174, subastados por la sala Gran Vía de Bilbao.](BOE-A-2024-18810.md)
+- [Orden CLT/995/2024, de 5 de septiembre, por la que se ejercita el derecho de tanteo sobre el lote n.º 644, subastado por la sala Sacliba, SL, (Balclis), en Barcelona.](BOE-A-2024-18811.md)
+- [Orden CLT/996/2024, de 11 de septiembre, por la que se ejercita el derecho de tanteo sobre el lote n.º 229, subastado por la sala Ansorena, en Madrid.](BOE-A-2024-18812.md)
+
+### MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA
+
+- [Resolución de 11 de septiembre de 2024, de ICEX España Exportación e Inversiones, E.P.E., por la que se publica la Adenda de modificación del Convenio con SODERCAN, para la organización de misiones inversas de compradores y prescriptores de opinión del sector agroalimentario a celebrar en Cantabria.](BOE-A-2024-18813.md)
+
+### MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030
+
+- [Resolución de 11 de septiembre de 2024, de la Secretaría de Estado de Derechos Sociales, por la que se publica la Adenda de modificación del Convenio con la Comunidad Autónoma del Principado de Asturias, para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo de Recuperación y Resiliencia.](BOE-A-2024-18814.md)
+
+### MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES
+
+- [Resolución de 12 de septiembre de 2024, de la Universidad Internacional Menéndez Pelayo, O.A., por la que se publica el Convenio con Branding Your Pos, SL, para la realización de prácticas académicas externas por parte de estudiantes de postgrado.](BOE-A-2024-18815.md)
+
+### MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA
+
+- [Resolución de 17 de septiembre de 2024, de la Secretaría General Técnica, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 995/2024, interpuesto ante el Tribunal Superior de Justicia de Madrid, Sala de lo Contencioso-Administrativo, Sección Séptima.](BOE-A-2024-18816.md)
+
+### BANCO DE ESPAÑA
+
+- [Resolución de 18 de septiembre de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 18 de septiembre de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.](BOE-A-2024-18817.md)
+- [Resolución de 18 de septiembre de 2024, del Banco de España, por la que se publican determinados tipos de interés oficiales de referencia del mercado hipotecario.](BOE-A-2024-18818.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica el plan de estudios de Máster Universitario en Ciencia de Datos.](BOE-A-2024-18819.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica el plan de estudios de Máster Universitario en Computación de Imagen Médica/Master in Medical Image Computing.](BOE-A-2024-18820.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica el plan de estudios de Máster Universitario Erasmus Mundus en Análisis Estructural Avanzado y Diseño con Materiales Compuestos (FRP ++)/Erasmus Mundus Master in Advanced Structural Analysis and Design Using Composite Materials (FRP ++).](BOE-A-2024-18821.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Innovación y Seguridad Alimentaria.](BOE-A-2024-18822.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica la modificación del plan de estudios de Máster Universitario en Ingeniería Industrial.](BOE-A-2024-18823.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica la modificación del plan de estudios de Máster Universitario en Mecánica de Materiales y Estructuras.](BOE-A-2024-18824.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica el plan de estudios de Máster Universitario en Sistemas Robóticos Inteligentes/Master in Intelligent Robotic Systems.](BOE-A-2024-18825.md)
+- [Resolución de 9 de septiembre de 2024, de la Universidad de Girona, por la que se publica el plan de estudios de Máster Universitario Erasmus Mundus en Sistemas Robóticos de Campo Inteligentes/Erasmus Mundus Master in Intelligent Field Robotic Systems.](BOE-A-2024-18826.md)
+
+## V. Anuncios. - A. Contratación del Sector Público
+
+### CORTES GENERALES
+
+- [Anuncio de formalización de contratos de: Mesa del Senado. Objeto: Servicios de formación en determinadas tecnologías y herramientas para el personal técnico de la Dirección de Tecnologías de la Información y de las Comunicaciones del Senado. Expediente: 14/2024.](BOE-B-2024-32913.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Anuncio de licitación de: Subdirección General de Adquisiciones de Armamento y Material DGAM. Objeto: Suministro y Montaje de Cámaras de Ayuda a la Conducción para Pizarro VCI/C. Expediente: 2024/0049E.](BOE-B-2024-32914.md)
+- [Anuncio de licitación de: Intendente de Ferrol. Objeto: Concesión de servicio de escuela de baile latino, salón y danza coreográfica en el CDSCA de Ferrol "El Montón". Expediente: 2024/AR42U/00001736E.](BOE-B-2024-32915.md)
+- [Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Ampliación capacidades CEUS. Expediente: 582024071900.](BOE-B-2024-32916.md)
+- [Anuncio de licitación de: Intendente de San Fernando. Objeto: ACUERDO MARCO - Suministro abierto de gases industriales y refrigerantes para buques, aeronaves y dependencias apoyadas por el servicio de Repuestos y Pertrechos del Arsenal de Cádiz (3 Lotes prorrogables). Expediente: 2024/AR43U/00001936E.](BOE-B-2024-32917.md)
+- [Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: Servicio para el vaciado, retirada y transporte a Planta Gestora de aguas oleosas del tanque nº 16 del Servicio de Combustibles del Arsenal de Ferrol. Expediente: 2024/AR42U/00001580E.](BOE-B-2024-32918.md)
+- [Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: CM-5087. ARFER. Adecuación de bóvedas en alojamiento logístico edificio "Balandra". Expediente: 2024/AR42U/00001468E.](BOE-B-2024-32919.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: CBAM #1 del Acuerdo Marco para la Implantación del Sistema de Telemedicina del Ministerio de Defensa en la Infraestructura Integral de Información para la Defensa (I3D) 2023/SP03032003/000001989E. Expediente: 2024/SP03032003/00002021E.](BOE-B-2024-32920.md)
+- [Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Limpieza de galerías de saneamiento del Campus INTA Torrejón. Expediente: 582024021500.](BOE-B-2024-32921.md)
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Oeste. Objeto: Concesión del servicio de cafetería en el Acto. "Pinar de Antequera" (Valladolid), un año desde la fecha de formalización del contrato, prorrogable por dos años más. Expediente: 2024/ETSAE0427/00000749E.](BOE-B-2024-32922.md)
+- [Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Sistema de vibración vertical para unidades espaciales de grandes dimensiones. Expediente: 582023112100.](BOE-B-2024-32923.md)
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Clases prácticas para la obtención del permiso de conducir clase B para los alumnos de la Academia General Militar. Expediente: 2024/ETHC00012/00000096E.](BOE-B-2024-32924.md)
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Clases prácticas para la obtención del permiso de conducir clase B para los alumnos de la Academia General Militar. Expediente: 2024/ETHC00012/00000096E.](BOE-B-2024-32925.md)
+- [Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: Adecuación de la cubierta de la nave del Servicio de Repuestos del Arsenal de Ferrol. Expediente: 2024/AR42U/00001361E.](BOE-B-2024-32926.md)
+- [Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de medios de transporte de personal. Expediente: 2024/ETSAE0906/00000390E.](BOE-B-2024-32927.md)
+- [Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de medios de transporte de personal. Expediente: 2024/ETSAE0906/00000390E.](BOE-B-2024-32928.md)
+- [Anuncio de formalización de contratos de: Sección de Asuntos Económicos de la Jefatura Sistemas de Información, Telecomunicaciones y Asistencia Técnica. Objeto: Contrato Basado 1-24 en el AM 2023ETSAE090400000143E Servicio para generación, a partir de la información geográfica digital vectorial, de productos MGCP Topographic Map, escala 1:50.000. BAM MTM. Expediente: 2024/ETSAE0904/00000680E.](BOE-B-2024-32929.md)
+- [Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: (OP) AM Socorrismo dependencias de la Armada en Madrid. Expediente: 2024/AR21U/00000474E.](BOE-B-2024-32930.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: PY-009-UM-24 León/BM Conde de Gazola/Construcción de garaje I+A UDRUME. Expediente: 2024/SP03032003/00000286E.](BOE-B-2024-32931.md)
+- [Anuncio de licitación de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Sistema dinámico de adquisición de repuestos de automóviles y herramientas de taller para el escuadrón de automóviles de la agrupación del cuartel general del Ejército del Aire y del Espacio. Expediente: 2024/EA15/00001181.](BOE-B-2024-32932.md)
+- [Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de repuestos IVECO lote II. Expediente: 2024/ETSAE0906/00002814E.](BOE-B-2024-32933.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: CBAM #4 en el Lote 1: Servicios e Infraestructuras de Datos, Telefonía y Localización de la I3D, Acuerdo Marco 2021/JCMINISDEF/00000070E. Expediente: 2024/SP03032003/00001499E.](BOE-B-2024-32934.md)
+- [Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Sostenimiento del SECOMSAT (Sistema español de comunicaciones militares por satélites) del Ministerio de Defensa. lote 3. Expediente: 2024/ETSAE0906/00002239E.](BOE-B-2024-32935.md)
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: Suministro de material de ferretería y fontanería para acometer reparaciones en las instalaciones de la Base USBA Menacho (Badajoz). Expediente: 2024/ETSAE0226/00004884E.](BOE-B-2024-32936.md)
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: Suministro de materiales de obra y construcción para acometer reparaciones en las instalaciones de la Base (USBA Menacho) (Badajoz). Expediente: 2024/ETSAE0226/00005031E.](BOE-B-2024-32937.md)
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: Suministro de material de oficina no inventariable. MONI- AALOG 21. Agrupación de Apoyo Logístico nº21 (Sevilla) (tramitación anticipada). Expediente: 2024/ETSAE0226/00005625E.](BOE-B-2024-32938.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Andalucía, Ceuta y Melilla. Objeto: Obras de sustitución de carpinterías exteriores de madera en la Administración de la AEAT de Andújar (Jaén). Expediente: 24230057800.](BOE-B-2024-32939.md)
+- [Anuncio de formalización de contratos de: Dirección del Instituto de Estudios Fiscales. Objeto: Realización del estudio "Opinión Pública y Fiscalidad 2024". Expediente: 20240072.](BOE-B-2024-32940.md)
+- [Anuncio de formalización de contratos de: Dirección General de Racionalización y Centralización de la Contratación-Junta de Contratación Centralizada. Objeto: Servicios postales de carta certificada y ordinaria, envíos publicitarios y franqueo en destino. Expediente: 2024/15.](BOE-B-2024-32941.md)
+- [Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Servicio de mantenimiento preventivo y correctivo de un sistema de inspección no intrusiva en el puerto de Tenerife. Expediente: 24710058700.](BOE-B-2024-32942.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Anuncio de formalización de contratos de: Subdirección General de Planificación y Gestión Económica. Objeto: Servicio de mantenimiento integral de las instalaciones en los centros penitenciarios de: Cáceres y Badajoz, CIS Dulce Chacón (Cáceres) y UAR en los hospitales de NTRA. SRA del Perpetuo Socorro (Badajoz) y San Pedro Alcántara (Cáceres). Expediente: 020120240031.](BOE-B-2024-32943.md)
+- [Anuncio de licitación de: Dirección General de Tráfico. Objeto: Servicio para la realización del Plan de Campañas de divulgación de la Seguridad Vial, comunicación interna y comunicación institucional de la Dirección General de Tráfico 2025/2026. Expediente: 3DGT6AP00016.](BOE-B-2024-32944.md)
+- [Anuncio de licitación de: Comandancia Guardia Civil de Albacete. Objeto: Servicio de cafetería y cocina/comedor en la Comandancia de Albacete. Expediente: GC/AB/02/2024.](BOE-B-2024-32945.md)
+
+### MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE
+
+- [Anuncio de formalización de contratos de: Presidencia de la Autoridad Portuaria de Huelva. Objeto: Prestación del Servicio de "Mantenimiento de piezas, mecanismos y elementos metálicos de la Autoridad Portuaria de Huelva 2024-2029". Expediente: ORD/0157/IN.](BOE-B-2024-32946.md)
+- [Anuncio de licitación de: Centro de Estudios y Experimentación de Obras Públicas (CEDEX). Objeto: Suministro en régimen de alquiler de 7 desfibriladores automatizados con servicio de mantenimiento para los centros del CEDEX. Expediente: 2024Z7Z00115.](BOE-B-2024-32947.md)
+
+### MINISTERIO DE INDUSTRIA Y TURISMO
+
+- [Anuncio de formalización de contratos de: Oficina Española de Patentes y Marcas, O.A. Objeto: Servicios de soporte a la seguridad informática de la Oficina Española de Patentes y Marcas, O.A. Expediente: 20/24.](BOE-B-2024-32948.md)
+- [Anuncio de formalización de contratos de: Oficina Española de Patentes y Marcas, O.A. Objeto: Servicio de mantenimiento hardware del equipamiento de la electrónica de red de área local de la Oficina española de Patentes y Marcas, O.A. Expediente: 65/24.](BOE-B-2024-32949.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadiana. Objeto: Proyecto constructivo para la rehabilitación del desagüe de fondo simple de la presa de Orellana y su adaptación para suministro de caudales ecológicos. Expediente: 202400000019.](BOE-B-2024-32950.md)
+
+### MINISTERIO DE CULTURA
+
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Conservación-restauración del Trascoro de la Catedral de León. Expediente: J240002.](BOE-B-2024-32951.md)
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Servicio de creatividad para la campaña de "Derechos Culturales" del Ministerio de Cultura. Expediente: JS240026.](BOE-B-2024-32952.md)
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Servicio de mantenimiento integral de las instalaciones de la ampliación y de las oficinas del Museo Sorolla. Expediente: JS240019.](BOE-B-2024-32953.md)
+- [Anuncio de formalización de contratos de: Dirección General de Patrimonio Cultural y Bellas Artes. Objeto: Suministro de gas natural para el Archivo General de la Administración. Expediente: MSA240050.](BOE-B-2024-32954.md)
+
+### MINISTERIO DE SANIDAD
+
+- [Anuncio de formalización de contratos de: Gerencia de Atención Sanitaria del Instituto Nacional de Gestión Sanitaria en Ceuta. Objeto: La realización de lecturas y emisión de informes de pruebas diagnósticas que han sido realizadas mediante resonancia magnética (3 teslas) en el Hospital universitario de Ceuta, para pacientes a los que la Gerencia de Atención Sanitaria de Ceuta deba prestar asistencia sanitaria en su ámbito territorial. Es un contrato de Servicios del Anexo IV. Expediente: PASA/2024/038/GCE.](BOE-B-2024-32955.md)
+
+### MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030
+
+- [Anuncio de licitación de: Subdirección General de Análisis Presupuestario y Gestión Financiera del Instituto de Mayores y Servicios Sociales . Objeto: Concesión del Servicio de peluquería del Centro Social de Mayores del IMSERSO en Ceuta. Expediente: 534/2024.](BOE-B-2024-32956.md)
+
+### MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES
+
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de manipulación, mantenimiento y limpieza de animales de laboratorio para varios centros de Madrid, de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT2/25.](BOE-B-2024-32957.md)
+- [Anuncio de licitación de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Suministro periódico de combustible para el desarrollo de campañas en el Buque Oceanográfico "Odón de Buen", perteneciente a la Unidad de Tecnología Marina de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: 32709/24.](BOE-B-2024-32958.md)
+- [Anuncio de licitación de: Dirección del Instituto de Astrofísica de Canarias. Objeto: Suministro e instalación de un sistema de vibraciones con mesa deslizante, en el marco del plan de recuperación, transformación y resiliencia. Expediente: LIC-24-016.](BOE-B-2024-32959.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Anuncio de formalización de contratos de: Instituto Social de la Marina -Dirección Provincial de Vizcaya. Objeto: Contratación del servicio de realización de pruebas complementarias necesarias para los reconocimientos médicos de embarque marítimo y entrega de resultados, para el Instituto Social de la Marina de Bizkaia. Expediente: 482024PA1003.](BOE-B-2024-32960.md)
+- [Anuncio de licitación de: Junta de Contratación del Ministerio de Inclusión, Seguridad Social y Migraciones. Objeto: Servicio de seguridad y vigilancia del Centro de Acogida de Protección Internacional (CAPI) de Alcobendas, por procedimiento abierto , con tramitación urgente del expediente para un período de 12 meses prorrogables por un máximo de 36 meses. Expediente: 202403JC0023.](BOE-B-2024-32961.md)
+
+### MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA
+
+- [Anuncio de formalización de contratos de: Secretaría General de la Mutualidad de Funcionarios Civiles del Estado (MUFACE). Objeto: Contratación de determinados servicios bancarios para la Mutualidad General de Funcionarios Civiles del Estado (MUFACE). Expediente: 63/2024.](BOE-B-2024-32962.md)
+- [Anuncio de formalización de contratos de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Suministro de extensiones de fibra para la mejora de la conectividad de la red de ciencia y tecnologia de Galicia. Expediente: 030/23-RI.](BOE-B-2024-32963.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE DEFENSA
+
+- [Extracto de la Resolución de 17 de septiembre de 2024, del Mando de Adiestramiento y Doctrina, por la que se convocan las becas para la realización del Máster Universitario en Gestión por Procesos para la Transformación Digital (BPM), para el año 2024.](BOE-B-2024-32964.md)
+- [Extracto de la Orden Ministerial 27/2024, de 18 de septiembre, por la que se convoca el Premio Medios de Comunicación de los Premios Defensa 2024](BOE-B-2024-32965.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Anuncio de la Delegación de Economía y Hacienda en La Rioja de inicio de expediente de investigación patrimonial de cinco fincas rústicas sitas en el término municipal de Torrecilla en Cameros (La Rioja) y una finca rústica sita en el municipio de San Vicente de la Sonsierra (La Rioja).](BOE-B-2024-32966.md)
+- [Resolución de la Delegación de Economía y Hacienda de Valladolid por la que se anuncia acuerdo de inicio de expediente de investigación de la parcela rústica nº 5128 del polígono 4 del término municipal de Montealegre de Campos (Valladolid.](BOE-B-2024-32967.md)
+- [Resolución de la Delegación de Economía y Hacienda de Valladolid por la que se anuncia acuerdo de inicio de expediente de investigación de la parcela rústica nº 5141 del polígono 3 del término municipal de Castronuño (Valladolid).](BOE-B-2024-32968.md)
+
+### MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE
+
+- [Resolución de la Dirección General del Sector Ferroviario por la que se abre Información Pública y se convoca a los propietarios de los bienes y derechos afectados al levantamiento de las actas previas correspondientes al Expediente de Expropiación Forzosa 342ADIF2498 motivado por las obras del "Proyecto de construcción de protecciones contra desprendimientos en el talud del P.K. 491/950 al 492/108 de la línea 08-770 Oviedo - Santander de la Red de Ancho Métrico en Cantabria" en el término municipal de Reocín (Cantabria).](BOE-B-2024-32969.md)
+- [Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación del "Proyecto Constructivo de supresión de los pasos a nivel de los PP.KK. 68/071, 68/388 y 68/776 de la Línea de Red Convencional Zaragoza-Barcelona. Término municipal de Grañén (Huesca)".](BOE-B-2024-32970.md)
+- [Anuncio del ADIF-AV por el que se somete a información pública a efectos de declaración de la necesidad de ocupación el Proyecto "Proyecto Modificado de Mejora Integral de la Infraestructura de la Línea de Alta Velocidad Madrid- Sevilla. Tramo C: Guadalmez - Córdoba".](BOE-B-2024-32971.md)
+- [Resolución de la Dirección General del Sector Ferroviario por la que se abre Información Pública y se convoca a los propietarios de los bienes y derechos afectados al levantamiento de las actas previas correspondientes al Expediente de Expropiación Forzosa 044ADIF2415 motivado por las obras del "Proyecto Básico y Constructivo de una base de mantenimiento y un edificio de servicios itinerantes de circulación en el Centro Logístico de Murcia Mercancías" en los términos municipales de Alcantarilla y Murcia (Murcia).](BOE-B-2024-32972.md)
+- [Anuncio de la Autoridad Portuaria de Santander, por el que se somete a información pública la solicitud presentada por la Sociedad Consignatarios de Barcos de Santander, S.A. (Cobasa).](BOE-B-2024-32973.md)
+- [Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación del "Proyecto de reparación del túnel Nº 15 de Gravet. Línea: Lleida-Pirineus - Bif. Vilanova. Tramo: Manresa-Barna. Sants".](BOE-B-2024-32974.md)
+- [Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación del "Proyecto de tratamiento del terraplén situado entre los PP.KK. 155+100 y 155+640. Línea Madrid-Chamartín - Barna-Est. de França. Tramo Tardienta - Lleida".](BOE-B-2024-32975.md)
+- [Anuncio de la Subdirección General de Aeropuertos y Navegación Aérea, sobre señalamiento por el que se fija fecha para el levantamiento de las Actas Previas a la Ocupación en el expediente de Expropiación Forzosa núm. 118-AENA/22, "Expediente de expropiación forzosa. Refuerzo y contención de talud zona sur. Aeropuerto de Sabadell", en el término municipal de Sabadell (Barcelona).](BOE-B-2024-32976.md)
+- [Anuncio de la Subdirección General de Gestión del Transporte por Carretera y Ferrocarril, por la que se convoca Información Pública sobre la solicitud de autorización para que el servicio público de transporte regular de uso general de viajeros por carretera VAC-023 (Madrid-Toledo) atienda tráficos correspondientes al servicio público de transporte regular de uso general de viajeros por carretera VAC-152 (Madrid-Piedrabuena).](BOE-B-2024-32977.md)
+- [Anuncio de la Subdirección General de Aeropuertos y Navegación Aérea, sobre señalamiento por el que se fija fecha para el levantamiento de las Actas Previas a la Ocupación en el expediente de Expropiación Forzosa núm. 114-AENA/21, "Aeropuerto de La Palma. Expropiación de los terrenos necesarios para la ampliación de la franja de pista", en los términos municipales de Villa de Mazo y Breña Baja (Santa Cruz de Tenerife).](BOE-B-2024-32978.md)
+- [Anuncio del ADIF por el que se somete a información pública a efectos de declaración de la necesidad de ocupación del "Proyecto Constructivo para la supresión del paso a nivel del p.k. 31/575 de la línea RFIG 336 El Reguerón – Alacant-Terminal. Término municipal de Crevillente (Alicante)".](BOE-B-2024-32979.md)
+- [Resolución de la Dirección General del Sector Ferroviario por la que se abre Información Pública y se convoca a los propietarios de los bienes y derechos afectados al levantamiento de las actas previas correspondientes al Expediente de Expropiación Forzosa 337ADIF2498 motivado por las obras del "Proyecto de ampliación de gálibo en túneles y pasos superiores de la línea 610 - Bifurcación Teruel - Sagunto. Tramo: Teruel - Sagunto. Pasos Superiores" en los términos municipales de La Puebla de Valverde, Sarrión, Albentosa (Teruel), Barracas, Caudiel, Jérica, Navajas, Segorbe y Soneja (Castellón).](BOE-B-2024-32980.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Extracto del Acuerdo de 28 de junio de 2024 de la Comisión de Subvenciones de la Fundación Estatal para la Prevención de Riesgos Laborales F.S.P., autorizado por Resolución de la Secretaría de Estado de Trabajo de 25 de junio de 2024, por el que se convocan subvenciones destinadas a la realización de acciones territoriales para Ceuta y Melilla para el año 2024 en el ámbito de la prevención de riesgos laborales](BOE-B-2024-32981.md)
+- [Extracto del Acuerdo de 28 de junio de 2024 de la Comisión de Subvenciones de la Fundación Estatal para la Prevención de Riesgos Laborales F.S.P., autorizado por Resolución de la Secretaría de Estado de Trabajo de 25 de junio de 2024, por el que se convocan subvenciones para el desarrollo de las actuaciones en el ámbito intersectorial contempladas en la Estrategia Española de Seguridad y Salud en el Trabajo 2023-2027 para el año 2024, en el ámbito de la prevención de riesgos laborales](BOE-B-2024-32982.md)
+- [Extracto del Acuerdo de 28 de junio de 2024 de la Comisión de Subvenciones de la Fundación Estatal para la Prevención de Riesgos Laborales F.S.P., autorizado por Resolución de la Secretaría de Estado de Trabajo de 25 de junio de 2024, por el que se convocan subvenciones para el desarrollo de las actuaciones en el ámbito sectorial contempladas en la Estrategia Española de Seguridad y Salud en el Trabajo 2023-2027 para el año 2024, en el ámbito de la prevención de riesgos laborales](BOE-B-2024-32983.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Extracto del Real Decreto 921/2024, de 17 de septiembre, por el que se modifican diversas bases reguladoras de subvenciones en materia de desarrollo rural y se aprueba la convocatoria para el ejercicio 2024 de las ayudas aprobadas por el Real Decreto 146/2019, de 15 de marzo.](BOE-B-2024-32984.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA
+
+- [Extracto de la Resolución de 17 de septiembre de 2024 de la Secretaría General de Coordinación Territorial, por la que se aprueba la convocatoria de las subvenciones para la recuperación de daños en infraestructuras municipales y red viaria provincial e insular, previstas en el ACM de 5 de marzo de 2024, por el que se declara ZAGEPC el territorio afectado por incendios forestales, un incendio urbano, inundaciones y otros fenómenos acaecidos entre el 21 de junio de 2023 y el 26 de febrero de 2024](BOE-B-2024-32985.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de una concesión de aguas en el término municipal de Jerte (Cáceres). Referencia C-0268/2023.](BOE-B-2024-32986.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de una concesión de aguas en el término municipal de Casas del Castañar (Cáceres). Referencia C-0143/2023.](BOE-B-2024-32987.md)
+- [Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una autorización para siembras en terrenos de dominio público hidráulico, en el T.M. de Olivares de Júcar (Cuenca).](BOE-B-2024-32988.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de una concesión de aguas en el término municipal de Casas del Castañar (Cáceres). Referencia C-0289/2023.](BOE-B-2024-32989.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la Información Pública de la solicitud de actuaciones en Dominio Público Hidráulico en el término municipal de Fuenlabrada (Madrid) Referencia O-0355/2024.](BOE-B-2024-32990.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la resolución de la solicitud de una concesión de aguas en el término municipal de Cabezabellosa (Cáceres). Referencia C-0497/2017 (358580/17).](BOE-B-2024-32991.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de concesión de un aprovechamiento de aguas públicas, de referencia MC-0110/2022, con destino a abastecimiento, en el término municipal de San Pedro del Valle (Salamanca).](BOE-B-2024-32992.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de concesión de un aprovechamiento de aguas subterráneas, de referencia C-0186/2023, con destino a riego, en el término municipal de Villada (Palencia).](BOE-B-2024-32993.md)
+- [Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. por el que se hace público el otorgamiento de la concesión para aprovechamiento de agua procedente del río Neira, en la parroquia de Baralla (Santa Mª Madanela), término municipal de Baralla (Lugo), con destino a riego del área recreativa de Baralla. Expediente: A/27/36993.](BOE-B-2024-32994.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de concesión de un aprovechamiento de aguas subterráneas, de referencia MC-0139/2022, con destino a riego, en el término municipal de Toro (Zamora).](BOE-B-2024-32995.md)
+- [Anuncio de la Demarcación de Costas en Valencia, sobre el otorgamiento al Ayuntamiento de Sagunto, de la concesión para ocupación , en el T.M. de Sagunto (Valencia).REF: CNC02/21/46/0002.](BOE-B-2024-32996.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de concesión de un aprovechamiento de aguas subterráneas, de referencia C-0495/2018, con destino a abastecimiento, en el término municipal de Castrillo de la Valduerna (León).](BOE-B-2024-32997.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de un aprovechamiento de aguas subterráneas, de referencia MC-0150/2022, con destino a otros usos de carácter público, en el término municipal de Santovenia de la Valdoncina (León).](BOE-B-2024-32998.md)
+- [Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una autorización para aprovechamiento de pastos en terrenos de dominio público hidráulico, en los TT.MM. de Benigembla, Murla y Parcent (Alicante).](BOE-B-2024-32999.md)
+- [Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una autorización para aprovechamiento de pastos en terrenos de dominio público hidráulico, en el T.M. de Quesa (Valencia).](BOE-B-2024-33000.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas, para uso ganadero, en el término municipal de Palacios de la Sierra (Burgos). Ref. Expte.: C-0054/2024 (INTEGRA-AYE) BU.](BOE-B-2024-33001.md)
+- [Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de autorización para la corta de 50 eucaliptos, en el DPH y ambas márgenes del Rego da Fraga, parcela 153-polígono 1 de la parroquia de Loboso (Santo André) del T.M. de A Pastoriza (Lugo).](BOE-B-2024-33002.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de concesión de un aprovechamiento de aguas subterráneas, de referencia C-0456/2019, con destino a otros usos de carácter privado, en el término municipal de Villalmanzo (Burgos).](BOE-B-2024-33003.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para uso ganadero, en el término municipal de Villangómez (Burgos). Ref. Expte.: C-0181/2024 (INTEGRA-AYE) BU.](BOE-B-2024-33004.md)
+- [Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para el aprovechamiento de 0,50 l/s de agua a derivar del río Uma, en la parroquia de Vilacova (San Xoán), término municipal de Salvaterra de Miño (Pontevedra), con destino a riego.](BOE-B-2024-33005.md)
+- [Anuncio del Servicio Provincial de Costas de Gipuzkoa sobre Resolución de otorgamiento de concesión de dominio público marítimo-terrestre con destino a la renovación y legalización de la canalización de agua potable ubicada en el Puente de Santa Catalina que cruza la ría del Urumea en el término municipal de San Sebastián (Gipuzkoa). Referencia: CNC02/22/20/0008.](BOE-B-2024-33006.md)
+
+### COMUNIDAD AUTÓNOMA DEL PRINCIPADO DE ASTURIAS
+
+- [Anuncio de la Consejería de Transición Ecológica, Industria y Desarrollo Económico relativo a la convocatoria de Concurso Público de derechos mineros de referencia C.P. 01/2023.](BOE-B-2024-33007.md)
+
+### UNIVERSIDADES
+
+- [Anuncio de la Universidad Miguel Hernández de Elche sobre extravío de título universitario de Diplomado en Terapia Ocupacional.](BOE-B-2024-33008.md)
+- [Anuncio de la Universidad de Almería sobre extravío de título universitario.](BOE-B-2024-33009.md)
+- [Anuncio de la Sección de Títulos de la Universidad de Alcalá sobre extravío de título universitario.](BOE-B-2024-33010.md)
+- [Anuncio de la Facultad de Enfermería y Fisioterapia de la Universidad Salamanca sobre extravío de título universitario.](BOE-B-2024-33011.md)
+- [Anuncio de Facultad de Economía, Empresa y Turismo de la Universidad de La Laguna sobre extravío de título universitario.](BOE-B-2024-33012.md)
+- [Anuncio de la Escuela Universitaria de Enfermería de la Fundación de Gestión Sanitaria de el Hospital de la Santa Cruz y Sant Pablo de la Universidad Autonoma de Barcelona sobre extravío de título universitario.](BOE-B-2024-33013.md)
+- [Anuncio de de la Universitat de València sobre extravío de título universitario.](BOE-B-2024-33014.md)
+- [Anuncio de la Universidad Alfonso X el Sabio sobre extravío de título universitario.](BOE-B-2024-33015.md)
+- [Anuncio de la Escuela Politécnica Superior de la Universidad de Sevilla sobre extravío de título universitario.](BOE-B-2024-33016.md)
+- [Anuncio de la Universidad de Almería sobre extravío de título universitario.](BOE-B-2024-33017.md)
+- [Anuncio de la Facultad de Matemáticas e Informática de la Universidad de Barcelona sobre extravío de título universitario.](BOE-B-2024-33018.md)
+- [Anuncio de la Facultad de Economía y Empresa de la Universidad de Oviedo sobre extravío de título universitario.](BOE-B-2024-33019.md)
+- [Anuncio de la Escuela Internacional de Doctorado de la Universidad de Sevilla sobre extravío de título universitario.](BOE-B-2024-33020.md)
+- [Anuncio de la Universidad de Córdoba sobre extravío de título universitario.](BOE-B-2024-33021.md)
+- [Anuncio de la Unidad de Títulos de la Universidad de Alicante sobre extravío de título universitario.](BOE-B-2024-33022.md)
+- [Anuncio de la Facultad de Ciencias de la Actividad Física y del Deporte de la Universidad Politécnica de Madrid sobre extravío de título universitario.](BOE-B-2024-33023.md)
+
+### OTROS ENTES
+
+- [Anuncio de la Comunidad de Usuarios de Aguas Subterráneas Norte del Duero Masa de Agua Tordesillas sobre exposición al público del Reglamento y Ordenanzas.](BOE-B-2024-33024.md)
+- [Anuncio de la Comunidad de Usuarios de Aguas Subterráneas Sur del Duero Masa de Agua Tierra del Vino sobre exposición al público del Reglamento y Ordenanzas.](BOE-B-2024-33025.md)
+- [Anuncio de la Comunidad de Usuarios de Aguas Subterráneas Sur del Duero Masa de Agua Los Arenales-Tierras de Medina y La Moraña sobre exposición al público del Reglamento y ordenanzas.](BOE-B-2024-33026.md)
+- [Anuncio de la Comunidad de Regantes Carrasca Potril e Inchar sobre convocatoria de Junta.](BOE-B-2024-33027.md)
+- [Anuncio de la Comunidad de Regantes Las Rejas sobre convocatoria de Junta.](BOE-B-2024-33028.md)
+- [Anuncio de la Comunidad de Regantes de Roquetas del Canal de la Derecha del Ebro sobre convocatoria de Junta.](BOE-B-2024-33029.md)
+- [Anuncio de la Comunidad de Regantes de Roquetas del Canal de la Derecha del Ebro sobre convocatoria de Junta.](BOE-B-2024-33030.md)
+- [Anuncio de la Comunidad de Regantes de Vélez de Benaudalla sobre convocatoria de Junta.](BOE-B-2024-33031.md)
