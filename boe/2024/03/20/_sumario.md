@@ -1,0 +1,426 @@
+---
+fuente: "BOE"
+fecha: "2024-03-20"
+diario_numero: "70"
+total_documentos: 238
+---
+
+# BOE núm. 70 — 2024-03-20
+
+## I. Disposiciones generales
+
+### JEFATURA DEL ESTADO
+
+- [Instrumento de ratificación del Protocolo al Tratado del Atlántico Norte sobre la adhesión del Reino de Suecia, hecho en Bruselas el 5 de julio de 2022.](BOE-A-2024-5478.md)
+
+### MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES
+
+- [Real Decreto 272/2024, de 19 de marzo, por el que se aprueban los Estatutos de la Fundación Estatal para la Prevención de Riesgos Laborales, F.S.P.](BOE-A-2024-5479.md)
+
+### MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES
+
+- [Resolución de 13 de marzo de 2024, de la Secretaría General de Universidades, por la que se publica el Acuerdo del Consejo de Ministros, de 12 de marzo de 2024, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos.](BOE-A-2024-5480.md)
+
+### MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA
+
+- [Real Decreto 273/2024, de 19 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Memoria Democrática.](BOE-A-2024-5481.md)
+- [Real Decreto 274/2024, de 19 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Educación, Formación Profesional y Deportes.](BOE-A-2024-5482.md)
+
+### TRIBUNAL SUPREMO
+
+- [Sentencia de 16 de diciembre de 2020, de la Sala Tercera del Tribunal Supremo, que declara estimar en parte el recurso contencioso-administrativo número 391/2019 contra el Real Decreto 470/2019, de 2 de agosto, por el que se aprueba el Reglamento de destinos del personal de la Guardia Civil.](BOE-A-2024-5483.md)
+
+### COMUNIDAD AUTÓNOMA DEL PAÍS VASCO
+
+- [Resolución de 14 de marzo de 2024, de la Dirección de Tráfico del Departamento de Seguridad, por la que se corrige la de 20 de febrero de 2024, por la que se establecen medidas especiales de regulación de tráfico durante el año 2024 en la Comunidad Autónoma del País Vasco.](BOE-A-2024-5484.md)
+
+## II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Real Decreto 275/2024, de 19 de marzo, por el que se dispone el cese de don Alejandro Abellán García de Diego como Director General de Coordinación del Mercado Interior y otras Políticas Comunitarias.](BOE-A-2024-5485.md)
+- [Real Decreto 276/2024, de 19 de marzo, por el que se dispone el cese de don José María Laviña Rodríguez como Embajador de España en Belice.](BOE-A-2024-5486.md)
+- [Real Decreto 277/2024, de 19 de marzo, por el que se dispone el cese de doña Olga Cabarga Gómez como Embajadora de España en la República de Gambia.](BOE-A-2024-5487.md)
+- [Real Decreto 278/2024, de 19 de marzo, por el que se dispone el cese de don Rafael Dezcallar de Mazarredo como Embajador de España en Mongolia.](BOE-A-2024-5488.md)
+- [Real Decreto 279/2024, de 19 de marzo, por el que se dispone el cese de don Alejandro Enrique Alvargonzález San Martín como Embajador de España en la República del Perú.](BOE-A-2024-5489.md)
+- [Real Decreto 280/2024, de 19 de marzo, por el que se nombra Director General de Coordinación del Mercado Interior y otras Políticas Comunitarias a don Antonio Rodríguez de Liévana Sahagún.](BOE-A-2024-5490.md)
+- [Real Decreto 281/2024, de 19 de marzo, por el que se designa Embajador de España en la República del Perú a don Alejandro Abellán García de Diego.](BOE-A-2024-5491.md)
+
+### MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES
+
+- [Real Decreto 283/2024, de 19 de marzo, por el que se promueve a la categoría de Fiscal de Sala a doña María Teresa Gisbert Jordá y se le nombra Fiscal de Sala de la Fiscalía de Sala de Menores de la Fiscalía General del Estado.](BOE-A-2024-5492.md)
+- [Real Decreto 282/2024, de 19 de marzo, por el que se nombra Fiscal adscrita al Fiscal de Sala contra los Delitos relativos a la Ordenación del Territorio y la Protección del Patrimonio Histórico, del Medio Ambiente e Incendios Forestales de la Fiscalía General del Estado a doña Sara Calzada Martín.](BOE-A-2024-5493.md)
+- [Real Decreto 284/2024, de 19 de marzo, por el que se nombra Inspectora Fiscal de la Inspección Fiscal de la Fiscalía General del Estado a doña María del Carmen de la Fuente Méndez.](BOE-A-2024-5494.md)
+- [Real Decreto 285/2024, de 19 de marzo, por el que se nombra Fiscal de la Fiscalía del Tribunal Supremo (Sección de lo Penal) a don Felipe Briones Vives.](BOE-A-2024-5495.md)
+- [Real Decreto 286/2024, de 19 de marzo, por el que se nombra Fiscal de la Fiscalía del Tribunal Supremo (Sección de lo Social) a doña María Elena Carrascoso López.](BOE-A-2024-5496.md)
+- [Real Decreto 287/2024, de 19 de marzo, por el que se nombra Teniente Fiscal de la Fiscalía Especial Antidroga a doña María Dolores López Salcedo.](BOE-A-2024-5497.md)
+- [Real Decreto 288/2024, de 19 de marzo, por el que se nombra Fiscal de la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada a doña María del Mar Scharfhausen Peláez.](BOE-A-2024-5498.md)
+- [Real Decreto 289/2024, de 19 de marzo, por el que se nombra Fiscal de la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada a doña María Fátima Valencia Fernández.](BOE-A-2024-5499.md)
+- [Real Decreto 290/2024, de 19 de marzo, por el que se nombra Fiscal de la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada a don Jorge Andújar Hernández.](BOE-A-2024-5500.md)
+- [Real Decreto 291/2024, de 19 de marzo, por el que se nombra Teniente Fiscal de la Fiscalía de la Comunidad Foral de Navarra a doña Ana Carmen Arbonies Leranoz.](BOE-A-2024-5501.md)
+- [Real Decreto 292/2024, de 19 de marzo, por el que se nombra Teniente Fiscal de la Fiscalía de la Comunidad Autónoma de las Illes Balears a don Adrián Salazar Larracoechea.](BOE-A-2024-5502.md)
+- [Real Decreto 293/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de Sevilla a don Luis Fernández Arévalo.](BOE-A-2024-5503.md)
+- [Real Decreto 294/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de Toledo a don Antonio Jesús Huélamo Buendía.](BOE-A-2024-5504.md)
+- [Real Decreto 295/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de Ciudad Real a don Miguel Ángel Carballo Cuervo.](BOE-A-2024-5505.md)
+- [Real Decreto 296/2024, de 19 de marzo, por el que se nombra Fiscal Jefa de la Fiscalía Provincial de Zamora a doña María Ángeles Cordero Borges.](BOE-A-2024-5506.md)
+- [Real Decreto 297/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de Huelva a don Alfredo Flores Prada.](BOE-A-2024-5507.md)
+- [Real Decreto 298/2024, de 19 de marzo, por el que se nombra Fiscal Jefa de la Fiscalía Provincial de Madrid a doña María Pilar Rodríguez Fernández.](BOE-A-2024-5508.md)
+- [Real Decreto 299/2024, de 19 de marzo, por el que se nombra Fiscal Jefa de la Fiscalía Provincial de Cáceres a doña Olga Suárez Herranz.](BOE-A-2024-5509.md)
+- [Real Decreto 300/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de A Coruña a don Miguel Armenteros León.](BOE-A-2024-5510.md)
+- [Real Decreto 301/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de Albacete a don Faustino García García.](BOE-A-2024-5511.md)
+- [Real Decreto 302/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de Área de la Fiscalía de Área de Jerez de la Frontera a don Francisco García Cantero.](BOE-A-2024-5512.md)
+- [Real Decreto 303/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de Área de la Fiscalía de Área de Elche/Elx a don José Antonio Artieda Gracia.](BOE-A-2024-5513.md)
+- [Real Decreto 304/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de Área de la Fiscalía de Área de Santiago de Compostela a don Antonio Roma Valdés.](BOE-A-2024-5514.md)
+- [Real Decreto 305/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de Área de la Fiscalía de Área de Gijón a don Alberto Rodríguez Fernández.](BOE-A-2024-5515.md)
+- [Real Decreto 306/2024, de 19 de marzo, por el que se nombra Fiscal Jefa de Área de la Fiscalía de Área de Algeciras a doña María Aurora Andrés Fernández.](BOE-A-2024-5516.md)
+- [Real Decreto 307/2024, de 19 de marzo, por el que se nombra Fiscal Jefa de Área de la Fiscalía de Área de Terrassa a doña Laia Ladrón Pijuán.](BOE-A-2024-5517.md)
+- [Real Decreto 308/2024, de 19 de marzo, por el que se nombra Fiscal Jefe de Área de la Fiscalía de Área de Vigo a don Óscar Vladimir Vallejo Torres.](BOE-A-2024-5518.md)
+- [Real Decreto 309/2024, de 19 de marzo, por el que se nombra Fiscal Jefa de Área de la Fiscalía de Área de Melilla a doña Laura Santa Pau Vázquez.](BOE-A-2024-5519.md)
+- [Resolución de 14 de marzo de 2024, de la Dirección de la Agencia Estatal Boletín Oficial del Estado, por la que se resuelve el concurso específico, convocado por Resolución de 16 de noviembre de 2023.](BOE-A-2024-5520.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Real Decreto 310/2024, de 19 de marzo, por el que se promueve al empleo de General Auditor del Cuerpo Jurídico Militar a la Coronel Auditor doña María Rosario Herrera Abián.](BOE-A-2024-5521.md)
+
+### MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES
+
+- [Orden EFD/254/2024, de 14 de marzo, por la que, a propuesta de la Consejería de Educación de la Comunidad de Castilla y León, en ejecución de sentencia, se nombra funcionaria de carrera del Cuerpo de Catedráticos de Enseñanza Secundaria a doña María Inés Santa Olalla Tovar.](BOE-A-2024-5522.md)
+- [Orden EFD/255/2024, de 14 de marzo, por la que, a propuesta de la Consejería de Educación y Empleo de la Comunidad Autónoma de La Rioja, se nombran funcionarios de carrera del Cuerpo de Profesores de Enseñanza Secundaria al personal funcionario de carrera del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional que han sido integrados en virtud del procedimiento convocado por Resolución 38/2023, de 14 de marzo.](BOE-A-2024-5523.md)
+- [Orden EFD/256/2024, de 14 de marzo, por la que, a propuesta de la Consejería de Educación, Ciencia y Formación Profesional de la Comunidad Autónoma de Extremadura, se nombra personal funcionario de carrera del Cuerpo de Maestros a las personas seleccionadas en el procedimiento selectivo convocado por Resolución de 15 de febrero de 2022.](BOE-A-2024-5524.md)
+- [Orden EFD/257/2024, de 14 de marzo, por la que, en aceptación de renuncia, se declara la pérdida de la condición de funcionaria de carrera del Cuerpo de Maestros de doña Ester Güell Colls.](BOE-A-2024-5525.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA
+
+- [Resolución de 13 de marzo de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de febrero de 2024.](BOE-A-2024-5526.md)
+- [Resolución de 13 de marzo de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de enero de 2024.](BOE-A-2024-5527.md)
+
+### MINISTERIO DE CULTURA
+
+- [Real Decreto 311/2024, de 19 de marzo, por el que se dispone el nombramiento de vocales de la Sección Primera de la Comisión de Propiedad Intelectual.](BOE-A-2024-5528.md)
+
+### MINISTERIO DE IGUALDAD
+
+- [Real Decreto 312/2024, de 19 de marzo, por el que se dispone el cese de doña María Pilar Rodríguez Martín como Directora del Gabinete de la Ministra de Igualdad.](BOE-A-2024-5529.md)
+- [Real Decreto 313/2024, de 19 de marzo, por el que se nombra Directora del Gabinete de la Ministra de Igualdad a doña María del Carmen Vaquero López.](BOE-A-2024-5530.md)
+
+### MINISTERIO FISCAL
+
+- [Decreto de 7 de marzo de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegada especialista de Criminalidad Informática en la Fiscalía Provincial de Guadalajara a doña Marta Rivero Velasco.](BOE-A-2024-5531.md)
+- [Decreto de 11 de marzo de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegada contra los Delitos de Odio y Discriminación en la Fiscalía Provincial de Las Palmas a doña Ruth Susana Díaz Pérez.](BOE-A-2024-5532.md)
+- [Decreto de 11 de marzo de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegada contra los Delitos de Odio y Discriminación en la Fiscalía Provincial de Soria a doña Rita Berdonces Alfaro.](BOE-A-2024-5533.md)
+- [Decreto de 11 de marzo de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegada de Vigilancia Penitenciaria en la Fiscalía Provincial de Zaragoza a doña María Victoria Ventura Alarma.](BOE-A-2024-5534.md)
+- [Decreto de 11 de marzo de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegado contra los Delitos de Odio y Discriminación en la Fiscalía Provincial de Almería a don David Calvo López.](BOE-A-2024-5535.md)
+- [Decreto de 11 de marzo de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegado Especialista Autonómico de Seguridad y Salud en el Trabajo de la Fiscalía de la Comunidad Autónoma de Cataluña a don Carlos Urbano Garzón.](BOE-A-2024-5536.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 8 de marzo de 2024, de la Universidad de Granada, por la que se nombran Catedráticas y Catedráticos de Universidad.](BOE-A-2024-5537.md)
+- [Resolución de 8 de marzo de 2024, de la Universidad de Granada, por la que se nombran Profesoras y Profesores Titulares de Universidad.](BOE-A-2024-5538.md)
+- [Resolución de 8 de marzo de 2024, de la Universidad de Jaén, por la que se nombra Profesora Titular de Universidad a doña María Catalina Osuna Pérez.](BOE-A-2024-5539.md)
+- [Resolución de 11 de marzo de 2024, de la Universidad de Córdoba, por la que se nombran Profesoras y Profesores Titulares de Universidad.](BOE-A-2024-5540.md)
+- [Resolución de 11 de marzo de 2024, de la Universidad Autónoma de Barcelona, por la que se nombra Catedrático de Universidad a don Josep Oriol Roca Sagalés.](BOE-A-2024-5541.md)
+
+## II. Autoridades y personal. - B. Oposiciones y concursos
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Acuerdo de 14 de marzo de 2024, del Tribunal calificador del proceso selectivo convocado por Acuerdo de 8 de febrero de 2023, de la Comisión Permanente del Consejo General del Poder Judicial, para la provisión de plazas, entre juristas de reconocida competencia con más de diez años de ejercicio profesional en las materias propias de los órganos del orden jurisdiccional contencioso-administrativo, para el acceso a la Carrera Judicial por la categoría de Magistrado/a, por el que se establece la fecha y lugar de celebración y lectura del dictamen; y por el que se corrigen errores y, en estimación de recursos, se modifica el Acuerdo de 14 de diciembre de 2023, por el que se aprueba la relación de aspirantes convocados a la realización del dictamen.](BOE-A-2024-5542.md)
+- [Acuerdo de 15 de marzo de 2024, de la Comisión de Selección prevista en el artículo 305 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, por el que se publica la relación definitiva de aspirantes que han superado el primer ejercicio de las pruebas selectivas para el ingreso en la Escuela Judicial y en el Centro de Estudios Jurídicos, convocadas por Acuerdo de 27 de octubre de 2023 y se dispone lo necesario para que dé comienzo el segundo ejercicio.](BOE-A-2024-5543.md)
+
+### MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES
+
+- [Orden PJC/258/2024, de 8 de marzo, por la que se aprueba la relación definitiva de personas admitidas y excluidas, y se anuncia fecha, hora y lugar de celebración del primer y segundo ejercicios del proceso selectivo para acceso, por el turno libre, por el sistema selectivo de concurso oposición, en el Cuerpo Especial de Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses, convocado por Orden JUS/1320/2022, de 28 de diciembre.](BOE-A-2024-5544.md)
+
+### MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA
+
+- [Resolución de 18 de marzo de 2024, del Instituto Nacional de Administración Pública, por la que se aprueba la relación provisional de personas admitidas y excluidas, se anuncia lugar de celebración del primer ejercicio y se designa al Tribunal calificador, del proceso selectivo para el acceso a la Escala Auxiliar de Organismos Autónomos para el cambio de régimen jurídico del personal laboral fijo incluido en el Anexo II del IV Convenio Único para el personal laboral de la Administración General del Estado, convocado por Resolución de 15 de diciembre de 2023, de la Secretaría de Estado de Función Pública.](BOE-A-2024-5545.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Resolución de 11 de marzo de 2024, del Ayuntamiento de Toledo, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.](BOE-A-2024-5546.md)
+- [Resolución de 26 de febrero de 2024, del Ayuntamiento de Reus (Tarragona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-5547.md)
+- [Resolución de 4 de marzo de 2024, de la Entidad Turismo y Planificación Costa del Sol, SLU, de la Diputación Provincial de Málaga (Málaga), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5548.md)
+- [Resolución de 8 de marzo de 2024, del Ayuntamiento de Torremolinos (Málaga), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5549.md)
+- [Resolución de 11 de marzo de 2024, del Ayuntamiento de Sabadell (Barcelona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-5550.md)
+- [Resolución de 11 de marzo de 2024, del Ayuntamiento de Sabadell (Barcelona), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5551.md)
+- [Resolución de 11 de marzo de 2024, del Ayuntamiento de Sabadell (Barcelona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-5552.md)
+- [Resolución de 11 de marzo de 2024, del Ayuntamiento de Banyoles (Girona), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5553.md)
+- [Resolución de 12 de marzo de 2024, del Ayuntamiento de Mogán (Las Palmas), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5554.md)
+- [Resolución de 12 de marzo de 2024, del Ayuntamiento de Figueres (Girona), referente a la convocatoria para proveer una plaza.](BOE-A-2024-5555.md)
+- [Resolución de 12 de marzo de 2024, del Ayuntamiento de Santa Cruz del Comercio (Granada), referente a la convocatoria para proveer una plaza.](BOE-A-2024-5556.md)
+- [Resolución de 12 de marzo de 2024, del Ayuntamiento de Leganés (Madrid), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5557.md)
+- [Resolución de 12 de marzo de 2024, del Ayuntamiento de Leganés (Madrid), referente a la convocatoria para proveer una plaza.](BOE-A-2024-5558.md)
+- [Resolución de 12 de marzo de 2024, del Ayuntamiento de Leganés (Madrid), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5559.md)
+- [Resolución de 13 de marzo de 2024, del Ayuntamiento de Valladolid, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5560.md)
+- [Resolución de 15 de marzo de 2024, del Ayuntamiento de Figueres (Girona), referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5561.md)
+- [Resolución de 19 de marzo de 2024, del Ayuntamiento de León, que deja sin efecto la de 4 de marzo de 2024, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5562.md)
+- [Resolución de 15 de marzo de 2024, del Ayuntamiento de Reus (Tarragona), de corrección de errores de la de 27 de febrero de 2024, referente a la convocatoria para proveer una plaza.](BOE-A-2024-5563.md)
+- [Resolución de 15 de marzo de 2024, de la Mancomunidad Integral de Servicios Cijara (Badajoz), de corrección de errores de la de 29 de febrero de 2024, referente a la convocatoria para proveer varias plazas.](BOE-A-2024-5564.md)
+
+## III. Otras disposiciones
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Acuerdo de 14 de marzo de 2024, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se atribuye en virtud de lo previsto en el artículo 98.1 de la Ley Orgánica del Poder Judicial, al Juzgado de Primera Instancia número 6 de Ibiza, de nueva creación, los asuntos relativos al derecho de familia, a las medidas de apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica e internamientos, pero con carácter exclusivo y no excluyente.](BOE-A-2024-5565.md)
+
+### MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES
+
+- [Real Decreto 314/2024, de 19 de marzo, por el que se indulta a don Antonio Gutiérrez Gallego.](BOE-A-2024-5566.md)
+- [Real Decreto 315/2024, de 19 de marzo, por el que se indulta a doña Marta Lecanda Gago.](BOE-A-2024-5567.md)
+- [Real Decreto 316/2024, de 19 de marzo, por el que se indulta a doña Montserrat Olmos Cervantes.](BOE-A-2024-5568.md)
+- [Real Decreto 317/2024, de 19 de marzo, por el que se indulta a don José Manuel Repiso Solero.](BOE-A-2024-5569.md)
+- [Real Decreto 318/2024, de 19 de marzo, por el que se indulta a doña Zoraida Ojeda Jiménez.](BOE-A-2024-5570.md)
+- [Real Decreto 319/2024, de 19 de marzo, por el que se indulta a doña Omairy Maríñez Rodríguez.](BOE-A-2024-5571.md)
+- [Resolución de 27 de febrero de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación de la registradora de la propiedad de Mancha Real, por la que se suspende la inscripción de una instancia solicitando rectificación de asientos.](BOE-A-2024-5572.md)
+- [Resolución de 27 de febrero de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación negativa de la registradora de la propiedad accidental de Valencia n.º 10, por la que se suspende la inscripción del testimonio de los decretos de adjudicación y de adición del mismo, así como del correspondiente mandamiento de cancelación de cargas.](BOE-A-2024-5573.md)
+- [Resolución de 27 de febrero de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Zafra a inscribir una escritura de liquidación de sociedad de gananciales.](BOE-A-2024-5574.md)
+- [Resolución de 27 de febrero de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de San Vicente de la Barquera-Potes, por la que se suspende la inscripción de una declaración de obra nueva y la rectificación de la descripción de la finca sobre la que se declara.](BOE-A-2024-5575.md)
+- [Resolución de 28 de febrero de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Córdoba n.º 3 a inscribir la adjudicación de herencia a favor del Estado como heredero intestado.](BOE-A-2024-5576.md)
+- [Resolución de 28 de febrero de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Chiclana de la Frontera n.º 1, por la que se califica negativamente la inscripción de una declaración de obra nueva, previa tramitación de un expediente previsto en el artículo 199 de le Ley Hipotecaria.](BOE-A-2024-5577.md)
+- [Resolución de 29 de febrero de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Illescas n.º 1, por la que se califica negativamente una escritura de novación de préstamo hipotecario.](BOE-A-2024-5578.md)
+- [Resolución de 11 de marzo de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en las Oficinas del Registro Civil del Partido Judicial de Caravaca de la Cruz, para el funcionamiento de las mismas conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.](BOE-A-2024-5579.md)
+- [Resolución de 11 de marzo de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en la Oficina General de Jumilla, para el funcionamiento de la misma conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.](BOE-A-2024-5580.md)
+- [Resolución de 11 de marzo de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en las Oficinas del Registro Civil del Partido Judicial de Totana, para el funcionamiento de las mismas conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.](BOE-A-2024-5581.md)
+- [Resolución de 11 de marzo de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se acuerda la entrada en servicio efectiva de la aplicación informática Dicireg en la Oficina General de Yecla, para el funcionamiento de la misma conforme a las previsiones contenidas en la Ley 20/2011, de 21 de julio, del Registro Civil.](BOE-A-2024-5582.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Orden DEF/259/2024, de 11 de marzo, por la que se establecen las bases reguladoras para la concesión de ayudas para la formación en el ámbito de la preparación física, el entrenamiento deportivo, la investigación y la dietética aplicada a la actividad física para el personal militar profesional del Ejército de Tierra.](BOE-A-2024-5583.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Resolución de 13 de marzo de 2024, del Consorcio de la Zona Franca de Barcelona, por la que se publica la Adenda al Convenio con la Fundación Policía Española.](BOE-A-2024-5584.md)
+- [Resolución de 11 de marzo de 2024, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se aprueban las normas de conservación y se autoriza la destrucción de series documentales conservadas en el Comisionado para el Mercado de Tabacos.](BOE-A-2024-5585.md)
+
+### MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE
+
+- [Resolución de 7 de febrero de 2024, de la Autoridad Portuaria de Ferrol-San Cibrao, por la que se publica la aprobación del Pliego de prescripciones particulares del servicio portuario de remolque en el puerto de Ferrol.](BOE-A-2024-5586.md)
+- [Resolución de 8 de febrero de 2024, de la Autoridad Portuaria de Ferrol-San Cibrao, por la que se publica la aprobación del Pliego de prescripciones particulares del servicio portuario de amarre y desamarre en el puerto de Ferrol.](BOE-A-2024-5587.md)
+- [Resolución de 8 de febrero de 2024, de la Autoridad Portuaria de Ferrol-San Cibrao, por la que se publica la aprobación del Pliego de prescripciones particulares del servicio portuario de practicaje en el puerto de Ferrol.](BOE-A-2024-5588.md)
+- [Resolución de 8 de febrero de 2024, de la Autoridad Portuaria de Ferrol-San Cibrao, por la que se publica la aprobación del Pliego de prescripciones particulares del servicio portuario de remolque en el puerto de San Cibrao.](BOE-A-2024-5589.md)
+- [Resolución de 13 de febrero de 2024, de la Autoridad Portuaria de Valencia, por la que se publica la aprobación del Pliego de condiciones particulares para la prestación del servicio comercial de avituallamiento de agua a buques en los puertos gestionados por la Autoridad Portuaria de Valencia.](BOE-A-2024-5590.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Resolución de 8 de marzo de 2024, de la Secretaría General de Pesca, por la que se dispone la asignación de cuotas de atún rojo y publicación del censo específico de la flota autorizada para el ejercicio de la pesca del atún rojo creado por el Real Decreto 46/2019, de 8 de febrero, por el que se regula la pesquería de atún rojo en el atlántico oriental y mediterráneo.](BOE-A-2024-5591.md)
+- [Resolución de 8 de marzo de 2024, de la Secretaría General de Pesca, por la que se publica la actualización de los anexos de reparto de posibilidades de pesca en NAFO, conforme a lo dispuesto en la Orden Ministerial de 21 de diciembre de 1999, por la que se ordena la actividad pesquera de la flota española que faena en la zona de regulación de la organización de la pesca del Atlántico noroccidental.](BOE-A-2024-5592.md)
+- [Resolución de 8 de marzo de 2024, de la Secretaría General de Pesca, por la que se publica la actualización del censo de la flota arrastrera congeladora de NAFO, conforme a lo dispuesto en la Orden Ministerial de 21 de diciembre de 1999, por la que se ordena la actividad pesquera de la flota española que faena en la zona de regulación de la organización de la pesca del Atlántico noroccidental.](BOE-A-2024-5593.md)
+- [Resolución de 8 de marzo de 2024, de la Secretaría General de Pesca, por la que se publica la actualización del censo de la flota bacaladera, conforme a lo dispuesto en la Orden Ministerial de 8 de junio de 1981, por la que se ordena la actividad pesquera de la flota bacaladera.](BOE-A-2024-5594.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Resolución de 6 de marzo de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de determinación de afección ambiental del proyecto "Planta Solar Fotovoltaica Hibridación Torozos A, de 35,2 MW de potencia instalada, para su hibridación con el Parque Eólico Torozos A, de 41,8 MW, y para una parte de su infraestructura de evacuación", en la provincia de Valladolid.](BOE-A-2024-5595.md)
+- [Resolución de 7 de marzo de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto "El Refugio" de 125 MWp, y su infraestructura de evacuación, en los términos municipales de Fuensalida, Santa Cruz del Retamar, La Torre de Esteban Hambrán y Méntrida (Toledo).](BOE-A-2024-5596.md)
+- [Resolución de 7 de marzo de 2024, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto "Parque eólico Alto del Fraile de 44 MW, y su infraestructura de evacuación, en las provincias de Zaragoza y Navarra".](BOE-A-2024-5597.md)
+- [Resolución de 7 de marzo de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Luminora Solar Tres, SL, autorización administrativa previa y autorización administrativa de construcción para la instalación fotovoltaica Luminora Solar Tres, de 88,669 MW de potencia instalada, y sus infraestructuras de evacuación, en los términos municipales de Murcia y Torre Pacheco (Murcia) y se declara, en concreto, la utilidad pública de las infraestructuras de evacuación.](BOE-A-2024-5598.md)
+- [Resolución de 11 de marzo de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Nueva Era Solar M&D IV, SL, autorización administrativa previa y autorización administrativa de construcción para la instalación solar fotovoltaica "Cabra 0", de 226,44 MW de potencia instalada, y su infraestructura de evacuación, en Montemayor, Espejo, Castro del Río y Cabra (Córdoba).](BOE-A-2024-5599.md)
+
+### MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA
+
+- [Resolución de 8 de marzo de 2024, del Instituto Nacional de Estadística, por la que se delegan competencias.](BOE-A-2024-5600.md)
+
+### MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES
+
+- [Resolución de 11 de marzo de 2024, del Instituto de Astrofísica de Canarias, por la que se publica el Convenio para la cooperación educativa con la Universidad de La Laguna, para la realización de prácticas externas curriculares.](BOE-A-2024-5601.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Resolución de 10 de marzo de 2024, de la Secretaría General de Inclusión, por la que se publica la Adenda al Convenio con la Comunidad Autónoma del País Vasco, para la realización de un proyecto para la inclusión social en el marco del Plan de Recuperación, Transformación y Resiliencia.](BOE-A-2024-5602.md)
+- [Resolución de 12 de marzo de 2024, de la Secretaría General Técnica, por la que se publica la Adenda de modificación al Convenio con la Universidad de Valencia, para la realización de prácticas académicas externas en el Centro de Acogida a Refugiados de Mislata, Valencia.](BOE-A-2024-5603.md)
+
+### MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA
+
+- [Resolución de 5 de marzo de 2024, de la Entidad Pública Empresarial Red.es, M.P., por la que se publica el Convenio con la Universidad de Salamanca, para la realización de prácticas académicas externas.](BOE-A-2024-5604.md)
+
+### BANCO DE ESPAÑA
+
+- [Resolución de 19 de marzo de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 19 de marzo de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.](BOE-A-2024-5605.md)
+- [Resolución de 19 de marzo de 2024, del Banco de España, por la que se publican determinados tipos de interés oficiales de referencia del mercado hipotecario.](BOE-A-2024-5606.md)
+
+## V. Anuncios. - A. Contratación del Sector Público
+
+### MINISTERIO DE DEFENSA
+
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado 71 del Acuerdo Marco 1004220002100 "Adquisición de equipamiento de conmutadores de red para Paseo de la Castellana 109". Expediente: 2023/SP03032003/00000531E.](BOE-B-2024-9960.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado 3 Lote 2: Servidores y otro equipamiento hardware MULTIFABRICANTE. Expediente: 2023/SP03032003/00000832E.](BOE-B-2024-9961.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado 61 del Acuerdo Marco 1004220002100 "Adquisición, instalación y puesta en servicio de equipamiento para dotar a varias ubicaciones de la Comunidad de Madrid de infraestructura de comunicaciones para conectarse con seguridad a otros nodos de la I3D". Expediente: 2023/SP03032003/00000846E.](BOE-B-2024-9962.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Lote 2. Servicios de transporte de material clasificado, garantizado mediante cadena de custodia. Expediente: 2023/SP03032003/00001074E.](BOE-B-2024-9963.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado núm. 1 en el Lote 1: Servicios de soporte a la operación del Sistema de Información de Sanidad Militar (SISANDEF) del Acuerdo Marco de Servicios de Soporte a la Operación de la Infraestructura Integral de Información para la D. Expediente: 2023/SP03032003/00001242E.](BOE-B-2024-9964.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado núm. 1 en el Lote 4: Servicios de soporte a la operación del Dominio Corporativo de la I3D. Expediente: 2023/SP03032003/00001243E.](BOE-B-2024-9965.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado núm. 1 en el Lote 5: Servicios de soporte a la operación de la Plataforma de Clave Pública (PKIDEF) y Plataforma de Servicios de Seguridad del Ministerio de Defensa (PSSDEF). Expediente: 2023/SP03032003/00001245E.](BOE-B-2024-9966.md)
+- [Anuncio de formalización de contratos de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: TA Acuerdo Marco para el sostenimiento del sistema Sonar AN/SQQ-32 y sus equipos auxiliares en los cazaminas clase "SEGURA" de la Armada. Expediente: 2022/AR40U/00002704E.](BOE-B-2024-9967.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado núm. 1 en el Lote 7: Servicios de soporte a la operación de Sistemas de Información Clasificados de la I3D. Expediente: 2023/SP03032003/00001248E.](BOE-B-2024-9968.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado núm. 1 en el Lote 7: Servicios de soporte a la operación de Sistemas de Información Clasificados de la I3D. Expediente: 2023/SP03032003/00001249E.](BOE-B-2024-9969.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Contrato Basado nº 1 en el Acuerdo Marco para la adquisición de dispositivos criptográficos de la Infraestructura Integral de Información para la Defensa (I3D). Expediente: 2023/SP03032003/00001448E.](BOE-B-2024-9970.md)
+- [Anuncio de licitación de: Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Explotación del servicio de Bar/ Restaurante de la Residencia Militar Logística "Los Alijares". Expediente: 2024/ETSAE0038/00000161E.](BOE-B-2024-9971.md)
+- [Anuncio de licitación de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: (2024CL002) Servicios logístico almacén y administración en las instalaciones del cloin. Expediente: 2024/EA22/00000101E.](BOE-B-2024-9972.md)
+- [Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Suministro e instalación de una cámara de niebla salina para la unidad de homologación. Expediente: 582023112200.](BOE-B-2024-9973.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Anuncio de licitación de: Delegación Especial de la Agencia Estatal de Administración Tributaria en Castilla La Mancha. Objeto: Obra de sustitución de los conductos de climatización, instalación de un sistema de ventilación y sustitución de luminarias, en la Adm. Valdepeñas (Ciudad Real). Expediente: 24A70013400.](BOE-B-2024-9974.md)
+- [Anuncio de licitación de: Delegación Especial de la Agencia Estatal de Administración Tributaria en Castilla La Mancha. Objeto: Obras de sustitución de los conductos de climatización e instalación de un sistema de ventilación, en la Adm. Alcázar de San Juan (Ciudad Real). Expediente: 24A70013300.](BOE-B-2024-9975.md)
+- [Anuncio de licitación de: Comisión Ejecutiva del Consorcio de la Ciudad de Toledo. Objeto: Obras de restauración del alfarje, puerta-celosía, pinturas murales y pavimentos de la Capilla de San Juan del Convento de la Concepción Francisca. Expediente: 1275135X.](BOE-B-2024-9976.md)
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Valencia. Objeto: Servicio de Transporte y Movimiento Interno Delegación Especial de Valencia. Expediente: 23B70098300.](BOE-B-2024-9977.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Anuncio de formalización de contratos de: Dirección General de Política Interior. Objeto: Servicio de devolución de gastos de franqueo a votantes CERA-ERTA con motivo de la celebración de Elecciones Generales el 23 de julio de 2023. Expediente: ECG/15/2023.](BOE-B-2024-9978.md)
+- [Anuncio de formalización de contratos de: Gerencia de la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo, M.P. Objeto: Contrato de servicio de cáterin para la alimentación de los residentes de Centro de Inserción Social "Carmela Arias y Diaz Rábago", en la localidad de A Coruña. Expediente: 2023/00071.](BOE-B-2024-9979.md)
+
+### MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE
+
+- [Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 12-SO-3220; 54.482/23 Autovía de Navarra A-15. Tramo: Fuensaúco Villar Del Campo. Provincia Soria. Expediente: B54234232200.](BOE-B-2024-9980.md)
+- [Anuncio de licitación de: Autoridad Portuaria de Vigo. Objeto: Peiraos do Solpor O/1.286. Expediente: 2246/2023.](BOE-B-2024-9981.md)
+- [Anuncio de formalización de contratos de: ADIF -Consejo de Administración. Objeto: Perfilado de carril en Redes de Ancho Convencional y Ancho Métrico. 3 lotes. Expediente: 2.23/28520.0053.](BOE-B-2024-9982.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicios para la realización de investigaciones geotécnicas para los proyectos de construcción, obras y mantenimiento de las infraestructuras de la red ferroviaria de interés general (RFIG). Expediente: 3.23/27520.0013.](BOE-B-2024-9983.md)
+- [Anuncio de licitación de: ADIF Alta Velocidad - Consejo de Administración. Objeto: Ejecución de las obras del proyecto de construcción de plataforma de la conexión de las Líneas de Alta Velocidad Madrid-Valladolid y Madrid- Olmedo-Zamora-Galicia en el entorno de Olmedo (Valladolid). Fase I. Expediente: 3.24/20830.0014.](BOE-B-2024-9984.md)
+- [Anuncio de licitación de: ADIF Alta Velocidad - Consejo de Administración. Objeto: Servicios de consultoría y asistencia técnica para la redacción del proyecto de plataforma de la Línea de Alta Velocidad Nogales de Pisuerga-Reinosa (3 lotes). Expediente: 3.23/30830.0307.](BOE-B-2024-9985.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicio de mantenimiento integral de la estación de Villanueva de Córdoba - Los Pedroches. Expediente: 2.23/30108.0243.](BOE-B-2024-9986.md)
+- [Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 51-CR-0305; 30.459/22; Conservación y explotación de las carreteras y obras menores relacionadas con esos servicios, en el sector: CR-03. Provincia de Ciudad Real. Expediente: C30231303050.](BOE-B-2024-9987.md)
+
+### MINISTERIO DE INDUSTRIA Y TURISMO
+
+- [Anuncio de licitación de: Junta de Contratación del Ministerio de Industria, Comercio y Turismo. Objeto: Servicio de mantenimiento de sistemas de protección, detección y extinción de incendios del Complejo Cuzco. Expediente: J23.068.01.](BOE-B-2024-9988.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Anuncio de licitación de: Junta de Contratación del Ministerio de Agricultura, Pesca y Alimentación. Objeto: Servicio de seguridad, vigilancia y mantenimiento de equipos e instalaciones de seguridad, en diversas sedes del MAPA. Expediente: 202400000002.](BOE-B-2024-9989.md)
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Agricultura, Pesca y Alimentación. Objeto: Contratación de trabajos para la realización del estand del Ministerio de Agricultura, Pesca y Alimentación en la feria SEAFOOD EXPO GLOBAL, 2024. Expediente: 202306039730.](BOE-B-2024-9990.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA
+
+- [Anuncio de formalización de contratos de: Delegación del Gobierno en Cataluña. Objeto: Suministro de actas de sesión y escrutinio, destinadas a las mesas electorales de la provincia de Barcelona, para las Elecciones al Parlamento Europeo de 2024. Expediente: DGC - EPE 2/24.](BOE-B-2024-9991.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Rehabilitación de la toma intermedia del embalse de Eugui Na/ Esteribar. Expediente: 119/23-OB.](BOE-B-2024-9992.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Control y vigilancia de las obras del proyecto de acondicionamiento del desagüe de fondo en el cuerpo de la presa del Ebro. Expediente: 120/23-S.](BOE-B-2024-9993.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal de Meteorología. Objeto: Servicio de difusión radiofónica de la información meteorológica de la Agencia Estatal de Meteorología a través de emisoras de radio. Expediente: 202300000187.](BOE-B-2024-9994.md)
+
+### MINISTERIO DE CULTURA
+
+- [Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: CNDM- Concierto 9 de abril de Universo Barroco Cámara en la sala de cámara del ANM. Expediente: 2024AC000017.](BOE-B-2024-9995.md)
+- [Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: CDN- Dirección de escena de la obra "Los gatos mueren como las personas" con fecha prevista de estreno el 8 de mayo. Expediente: 2024AC000010.](BOE-B-2024-9996.md)
+- [Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: CNDM- Actuación Vespres d'Arnadi, cor de Cambra del Palau de la Música Catalanay Cor infantil de L'Orfeo Catala. Expediente: 2024AC000015.](BOE-B-2024-9997.md)
+- [Anuncio de licitación de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: La prestación de los servicios de redacción de estudios de seguridad y salud y de coordinación de seguridad y salud para las obras a ejecutar en las diferentes unidades del Instituto Nacional de Artes Escénicas y de la Música (INAEM). Expediente: M240005.](BOE-B-2024-9998.md)
+- [Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: OCNE- Actuación de la Orquesta Sinfónica de Bilbao los días 15, 16 y 17 de marzo. Expediente: 2024AC000009.](BOE-B-2024-9999.md)
+
+### MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA
+
+- [Anuncio de licitación de: Instituto Nacional de Estadística INE. Objeto: Impresión, manipulado y distribución de cuestionarios e impresos del INE, durante tres años. 2024-2027. Expediente: 2024N0075002.](BOE-B-2024-10000.md)
+
+### MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030
+
+- [Anuncio de formalización de contratos de: Dirección Ejecutiva de la Agencia Española de Seguridad Alimentaria y Nutrición. Objeto: Suministro e instalación de un equipo de secuenciación para el Servicio de Microbiología del Centro Nacional (CNA) de la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN OA). Expediente: 0100023AD064.](BOE-B-2024-10001.md)
+- [Anuncio de licitación de: Dirección General del Instituto de Mayores y Servicios Sociales. Objeto: Servicio de teleasistencia, de ayuda a domicilio y de prevención de las situaciones de dependencia en la Dirección Territorial del Imserso en Melilla. Expediente: 111/2024.](BOE-B-2024-10002.md)
+
+### MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES
+
+- [Anuncio de licitación de: Agencia Estatal de Investigación. Objeto: Suministro y análisis de información de carácter económico-financiero y mercantil de las entidades empresariales solicitantes y beneficiarias de ayudas a la I+D+i. Expediente: 2024C00000011.](BOE-B-2024-10003.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Anuncio de formalización de contratos de: Instituto Social de la Marina -Dirección Provincial de Barcelona. Objeto: El objeto del presente contrato lo constituye la ejecución de los servicios de mantenimiento integral que se indican en el Pliego de Prescripciones Técnicas que rige la contratación para las dependencias de la Dirección Provincial y Direcciones Locales dependientes del Instituto Social de la Marina de Barcelona. Expediente: 082023PA1003.](BOE-B-2024-10004.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Alicante. Objeto: Servicios de mantenimiento preventivo y servicio de reparaciones, de las instalaciones eléctricas situadas en las dependencias de la TGSS en la provincia de Alicante. (Dirección Provincial, Administraciones y Oficina Integral de la Seguridad Social de Torrevieja) . Expediente: 24000011.](BOE-B-2024-10005.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Alicante. Objeto: servicios de mantenimiento preventivo y servicio de reparaciones de los aparatos elevadores montacargas y líneas de vida instalados en las dependencias de TGSS en la provincia de Alicante. Expediente: 24000012.](BOE-B-2024-10006.md)
+- [Anuncio de licitación de: Instituto Social de la Marina -Dirección Provincial de Almería. Objeto: Fijar las condiciones para la prestación de los servicios de limpieza y de desratización, desinfección y desinfectación en las dependencias de la Dirección Provincial del Instituto Social de la Marina de Almería en el edificio de la Dirección Provincial en la localidad de Almería (puerto pesquero s/n); así como en los edificios de las direcciones locales de Adra, Carboneras y Garrucha. Expediente: 042024PA10011656.](BOE-B-2024-10007.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Alicante. Objeto: Mantenimiento preventivo y servicio de reparaciones de las instalaciones eléctricas en la Oficina Integral de la Seguridad Social sita en la calle Mayor, nº 3 de Alicante. Expediente: 24000055.](BOE-B-2024-10008.md)
+- [Anuncio de licitación de: TGSS-Dirección Provincial de Pontevedra. Objeto: Limpieza e higienización integral del inmueble sede de la Dirección Provincial del I.S.M. de Vilagarcía de Arousa ubicado en la avenida da Mariña, 23, así como el servicio de desratización, desinsectación y desinfección para el periodo del 1 de julio de 2024 al 30 de junio de 2025. Expediente: 36PA24SER038.](BOE-B-2024-10009.md)
+
+### MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA
+
+- [Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Suministro de enlaces de fibra óptica entre las sedes de la Universidad Autónoma de Madrid, la Universidad de Alcalá de Henares y RediMadrid. Expediente: 079/23-RI.](BOE-B-2024-10010.md)
+- [Anuncio de formalización de contratos de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de mantenimiento del ascensor de Red.es en Almendralejo. Expediente: 066/23-AF.](BOE-B-2024-10011.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE DEFENSA
+
+- [Extracto de la Resolución de 15 de marzo, de la Jefatura de Estado Mayor del Ejército del Aire y del Espacio, por la que se publica la convocatoria de los 'Premios Ejército del Aire y del Espacio 2024'.](BOE-B-2024-10012.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Extracto del Acuerdo de 12 de marzo de 2024 del Consejo de Administración del Consorcio de Santiago por el que se aprueban las bases reguladoras de la concesión de subvención directa a la Universidad de Santiago de Compostela USC para el desarrollo del Programa ConCiencia en el ejercicio 2024](BOE-B-2024-10013.md)
+
+### MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE
+
+- [Anuncio de la Demarcación de Carreteras del Estado en Madrid sobre Resolución de la Dirección General de Carreteras por la que se aprueba el expediente de información pública y definitivamente el proyecto de trazado: "Remodelación del enlace de la Autovía A-6 con la M-500 y reordenación de conexiones entre los pp.kk. 8,000 y 9,000. Madrid" de clave 33-M-14880.](BOE-B-2024-10014.md)
+- [Anuncio de la Autoridad Portuaria de Castellón sobre solicitud de modificación sustancial de concesión administrativa de ocupación de dominio público portuario (referencia C63B).](BOE-B-2024-10015.md)
+- [Anuncio de la Autoridad Portuaria de Gijón por el que se inicia trámite de competencia de proyectos en relación con la solicitud presentada por HYMET MUSEL, S.L., para el otorgamiento en régimen de concesión administrativa para la construcción y explotación de planta para la producción de metanol en el Puerto de El Musel (Gijón).](BOE-B-2024-10016.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Resolución de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del Ministerio de Agricultura, Pesca y Alimentación, por la que se acuerda someter a información pública el Estudio de Impacto Ambiental y el "Proyecto de distribución de agua con bombeos fotovoltaicos en Palomares para la Junta Central de Usuarios de Aguas del Valle del Almanzora. Comunidades de Regantes del Bajo Almanzora, Vera, S.A.T. nº 2503 de Antas y S.A.T. Agrolujo (Almería)".](BOE-B-2024-10017.md)
+- [Extracto de la Resolución de 18 de marzo del 2024, del Fondo Español de Garantía Agraria O.A. (FEGA), por la que se convocan subvenciones para la realización de proyectos de investigación aplicada en el sector apícola y sus productos dentro de la Intervención Sectorial Apícola, en el marco del plan estratégico de la Política Agrícola Común.](BOE-B-2024-10018.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA
+
+- [Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Castilla-La Mancha sobre información pública de la solicitud de Autorización Administrativa Previa Y Autorización Administrativa de Construcción de los proyectos modificados de las plantas solares fotovoltaicas "FV Sagra I" de 125,49 MWinst; "FV Sagra II" de 129,2 MWinst; "FV Sagra III" de 112,941 MWinst y "FV Sagra IV" de 112,941 MWinst y sus infraestructuras de evacuación en los términos municipales de Cobeja, Alameda de la Sagra, Añover de Tajo, Pantoja, Numancia de la Sagra, Esquivias, Yeles, Seseña y Borox (Toledo) y Torrejón de Velasco, Pinto y Parla (Madrid), cuyo peticionario MITRA GAMMA, S.L.U. (Expedientes: PFot-475, PFot-476, PFot-477 y PFot-478 respectivamente).](BOE-B-2024-10019.md)
+- [Anuncio del Área Funcional de Industria y Energía de la Delegación del Gobierno en Galicia por el que se somete al trámite de Información Pública (IP) la solicitud de autorización administrativa previa (AAP), la solicitud de autorización administrativa de construcción (AAC), y el estudio de impacto ambiental (EIA), de la instalación «Parque Eólico ABALAR», de 78 MW de potencia instalada, y su infraestructura de evacuación asociada, en los términos municipales de Vimianzo, Muxía y Dumbría, en la provincia de A Coruña, promovido por la mercantil « MOWE ENERGIA V, S.L.U. ». Referencia del expediente: PEol-918 .](BOE-B-2024-10020.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública sobre autorización administrativa para la instalación provisional de asentamiento apícola zona en dominio público hidráulico del Río Gargáligas, en el T.M. de Acedera (Badajoz).](BOE-B-2024-10021.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de concesión de un aprovechamiento de aguas subterráneas, de referencia C-0334/2021 [CP-425/2021-LE (ALBERCA-AYE)], con destino a uso industrial, en el término municipal de Villarejo de Órbigo (León).](BOE-B-2024-10022.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para uso ganadero, en el término municipal de Ferreras de Abajo (Zamora).](BOE-B-2024-10023.md)
+- [Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública sobre autorización administrativa para la instalación provisional de asentamiento apícola en zona de dominio público hidráulico del Río Gargáligas, en el T.M. de Acedera (Badajoz).](BOE-B-2024-10024.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la resolución de la solicitud de una concesión de aguas en el Término Municipal de Cuerva (Toledo). Referencia C-0075/2022.](BOE-B-2024-10025.md)
+- [Anuncio de la Confederación Hidrográfica del Guadiana por el que se somete a información pública solicitud de concesión de aprovechamiento de aguas subterráneas en Bolaños de Calatrava (Ciudad Real). REF: SA-1469/2018 (601).](BOE-B-2024-10026.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para riego, en el término municipal de Anguix (Burgos).](BOE-B-2024-10027.md)
+- [Anuncio de Confederación Hidrográfica del Guadiana por el que se somete a información pública el procedimiento de solicitud de modificación de características de un aprovechamiento de aguas superficiales CONC. 65/87 (1294/2020).](BOE-B-2024-10028.md)
+- [Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico de información pública de procedimiento de autorización de obras. A/33/46644.](BOE-B-2024-10029.md)
+- [Anuncio de la Demarcación de Costas en Asturias, relativo a la aprobación definitiva del "Proyecto de demolición del Mirador de La Peñona y adecuación del entorno del museo de Las Anclas en Sali-nas, t.m. de Castrillón (Asturias)". Código de expediente: 33-0612.](BOE-B-2024-10030.md)
+- [Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para aprovechamiento de 5,03 l/s de agua procedente de 5 pozos de barrena sitos en la parcela 1A del Polígono Industrial de Meira, término municipal de Meira (Lugo) con destino a usos industriales (industria láctea). A/27/06854.](BOE-B-2024-10031.md)
+- [Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas en el término municipal de Lumbier (Navarra), 2022-A-197.](BOE-B-2024-10032.md)
+- [Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas en el término municipal de Lumbier (Navarra), 2022-A-198.](BOE-B-2024-10033.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para riego, en el término municipal de Valverde del Majano (Segovia).](BOE-B-2024-10034.md)
+- [Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas en el término municipal de Lumbier (Navarra), 2023-A-4.](BOE-B-2024-10035.md)
+- [Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas en el término municipal de Lumbier (Navarra), 2023-A-38.](BOE-B-2024-10036.md)
+- [Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para aprovechamiento de 1,643 l/s de agua procedente de un pozo "Pozo Morouzo" sito en el lugar de Prados, parroquia de Mougán (Santa María Madanela), término municipal de Guntín (Lugo) para riego de 4,3857 ha. A/27/42454.](BOE-B-2024-10037.md)
+- [Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Barrundia (Álava).](BOE-B-2024-10038.md)
+- [Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas, en el término municipal de Santiuste de San Juan Bautista (Segovia).](BOE-B-2024-10039.md)
+- [Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para el aprovechamiento de 0,218 l/s de agua procedente de dos pozos, lugar de Cabanas, parroquia de Moreda (San Salvador), término municipal de Monforte de Lemos (Lugo) para riego de la finca Viña Palleiro y La Granja. A/27/42860.](BOE-B-2024-10040.md)
+- [Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para aprovechamiento de 0,34 l/s de agua procedente de los manantiales Cruz da Zaragola, en la parroquia de Os Remedios (Nosa Señora dos Remedios), término municipal de Mondoñedo (Lugo), con destino a usos ganaderos. A/27/39758.](BOE-B-2024-10041.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la resolución de la solicitud de una concesión de aguas en el término municipal de Villanueva de Bogas (Toledo). Referencia C-0511/2021.](BOE-B-2024-10042.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la resolución de la solicitud de una concesión de aguas en el término municipal de Consuegra (Toledo). Referencia C-0532/2017.](BOE-B-2024-10043.md)
+- [Anuncio de la Confederación Hidrográfica del Tajo O.A. de la resolución de la solicitud de la modificación de características de una concesión de aguas, en el término municipal de Cuerva (Toledo). Referencia M-0056/2019.](BOE-B-2024-10044.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Resolución de la Dirección Provincial de la Tesorería General de la Seguridad Social de Salamanca por la que se convoca subasta pública para la enajenación de un inmueble de su propiedad.](BOE-B-2024-10045.md)
+
+### COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA
+
+- [Anuncio de la Dirección de Transportes y del Sector Postal de la Comisión Nacional de los Mercados y la Competencia por el que se notifica la apertura de trámite de audiencia en el procedimiento sobre la determinación del modo de entrega de los Envíos postales ordinarios en la urbanización Camino Haza del Horno y Camino Huerta La Coja, referencia STP/DTSP/044/23 perteneciente al término municipal de Sevilla.](BOE-B-2024-10046.md)
+
+### COMUNIDAD AUTÓNOMA DE ANDALUCÍA
+
+- [Anuncio de la Delegación Territorial en Sevilla de Economía, Hacienda y Fondos Europeos, y de Industria, Energía y Minas de la Junta de Andalucía en Sevilla por la que se convoca para el Levantamiento de Actas Previas a la Ocupación de determinadas fincas afectadas por la implantación de instalación de energía eléctrica denominada Proyecto Sustitución de trama de LAMT 25kV "REJANO" de S.E. "OSUNA", entre los Apoyos A275872 y A275716, P-7876M, ubicada en el Término Municipal de Pedrera (Sevilla).](BOE-B-2024-10047.md)
+
+### UNIVERSIDADES
+
+- [Anuncio de la Universidad de Santiago de Compostela sobre extravío de título universitario.](BOE-B-2024-10048.md)
+- [Anuncio de la Facultad de Economia y Empresa de la universidad del País Vasco /Euskal Herriko Unibertsitatea sobre extravío de título universitario.](BOE-B-2024-10049.md)
+- [Anuncio de la Facultad de Relaciones Laborales y Trabajo Social, sección Álava, de la Universidad del País Vasco / Euskal Herriko Unibertsitatea sobre extravío de título universitario.](BOE-B-2024-10050.md)
+- [Anuncio de Escuela Técnica Superior de Arquitectura de la Universidad Politécnica de Madrid sobre extravío de título universitario.](BOE-B-2024-10051.md)
+- [Anuncio de la Facultade de Socioloxía de la Universidad de A Coruña sobre extravío de título universitario.](BOE-B-2024-10052.md)
+- [Anuncio de la Facultad de Derecho de la Universidad de Granada sobre extravío de título universitario.](BOE-B-2024-10053.md)
+- [Anuncio de la Facultad de Psicología y Logopedia de la Universidad de Murcia sobre extravío de título universitario.](BOE-B-2024-10054.md)
+- [Anuncio de la Facultad de Ciencias de la Salud de la Universidad de La Laguna sobre extravío de título universitario.](BOE-B-2024-10055.md)
+- [Anuncio de la Escuela Politécnica de Ingeniería de Gijón de la Universidad de Oviedo sobre extravío de título universitario.](BOE-B-2024-10056.md)
+- [Anuncio de la Universidad de Valladolid sobre extravío de título universitario.](BOE-B-2024-10057.md)
+- [Anuncio de la Facultad de Psicología de la Universidad Nacional de Educación a Distancia sobre extravío de título universitario.](BOE-B-2024-10058.md)
+- [Anuncio de la Sección de Títulos de la Universidad de Alcalá sobre extravío de título universitario.](BOE-B-2024-10059.md)
+- [Anuncio de la Facultad de Educación de la Universidad Nacional de Educación a Distancia sobre extravío de título universitario.](BOE-B-2024-10060.md)
+- [Anuncio de la Universidad de Valladolid sobre extravío de título universitario.](BOE-B-2024-10061.md)
+
+### OTROS ENTES
+
+- [Anuncio de la Comunidad de Usuarios de Barcela sobre convocatoria de Asamblea Extraordinaria.](BOE-B-2024-10062.md)
+- [Anuncio de la Comunidad de Regantes Litera de la Villa de Seròs sobre convocatoria de Junta.](BOE-B-2024-10063.md)
+- [Anuncio de la Comunidad de Regantes La Purísima de Yéchar sobre convocatoria de Junta.](BOE-B-2024-10064.md)
+- [Anuncio de la Comunidad de Usuarios de Fonteliña sobre convocatoria de Asamblea General Ordinaria.](BOE-B-2024-10065.md)
+- [Anuncio de la Comunidad de Regantes Armuña Fase 1 sobre convocatoria de Junta.](BOE-B-2024-10066.md)
+- [Anuncio de la Comunidad de Regantes Algallarín el Paraíso sobre convocatoria de Junta.](BOE-B-2024-10067.md)
+- [Anuncio de la Comunidad de Regantes Bolós de Almenar sobre convocatoria de Asamblea General Ordinaria.](BOE-B-2024-10068.md)
