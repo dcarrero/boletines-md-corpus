@@ -1,0 +1,344 @@
+---
+fuente: "BOE"
+fecha: "2023-10-25"
+diario_numero: "255"
+total_documentos: 174
+---
+
+# BOE núm. 255 — 2023-10-25
+
+## I. Disposiciones generales
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Real Decreto 779/2023, de 10 de octubre, por el que se establece la comunicación de enfermedades de los animales de declaración obligatoria y se regula su notificación.](BOE-A-2023-21844.md)
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA
+
+- [Real Decreto 792/2023, de 24 de octubre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 11/2021, de 28 de diciembre, de lucha contra el dopaje en el deporte.](BOE-A-2023-21845.md)
+
+## II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias
+
+### PRESIDENCIA DEL GOBIERNO
+
+- [Real Decreto 800/2023, de 24 de octubre, por el que se dispone que la Ministra de Justicia sustituya al Ministro de Cultura y Deporte en la propuesta al Consejo de Ministros del Real Decreto por el que se regula la concesión directa de subvenciones para gastos de funcionamiento de fundaciones y asociaciones vinculadas con partidos políticos con representación en las Cortes Generales que realicen actividades de estudio y desarrollo del pensamiento político y social.](BOE-A-2023-21846.md)
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Resolución de 18 de octubre de 2023, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 27 de marzo de 2023.](BOE-A-2023-21847.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Orden JUS/1152/2023, de 18 de octubre, por la que se resuelve el concurso específico, para el Cuerpo de Letrados de la Administración de Justicia, convocado por Orden JUS/591/2023, de 22 de mayo.](BOE-A-2023-21848.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Resolución de 19 de octubre de 2023, de la Dirección General de la Función Pública, por la que se publica la adjudicación de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.](BOE-A-2023-21849.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Resolución de 19 de octubre de 2023, de la Dirección General de la Policía, por la que se nombra policía alumno a don Juan Ignacio Timón Iglesias.](BOE-A-2023-21850.md)
+
+### CONSEJO DE SEGURIDAD NUCLEAR
+
+- [Resolución de 18 de octubre de 2023, del Consejo de Seguridad Nuclear, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de agosto de 2023.](BOE-A-2023-21851.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 5 de octubre de 2023, de la Universidad de A Coruña, por la que se nombra Profesora Titular de Universidad a doña María Paloma Moré Corral.](BOE-A-2023-21852.md)
+- [Resolución de 10 de octubre de 2023, de la Universidad de La Rioja, por la que se nombra Profesor Titular de Universidad a don Alfonso Jesús Gil López.](BOE-A-2023-21853.md)
+- [Resolución de 13 de octubre de 2023, de la Universidad de Santiago de Compostela, por la que se nombran Catedráticas y Catedráticos de Universidad.](BOE-A-2023-21854.md)
+- [Resolución de 13 de octubre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Catedrática de Universidad a doña María Asunción Sacristán Navarro.](BOE-A-2023-21855.md)
+- [Resolución de 13 de octubre de 2023, de la Universidad de Granada, por la que se nombran Profesoras Titulares de Universidad.](BOE-A-2023-21856.md)
+- [Resolución de 13 de octubre de 2023, de la Universidad Jaume I, por la que se nombra Profesora Titular de Universidad a doña Tania Portolés Nicolau.](BOE-A-2023-21857.md)
+
+## II. Autoridades y personal. - B. Oposiciones y concursos
+
+### MINISTERIO DE JUSTICIA
+
+- [Orden JUS/1153/2023, de 18 de octubre, por la que se modifica la composición de la Comisión de Selección de las pruebas de acceso a las Carreras Judicial y Fiscal.](BOE-A-2023-21858.md)
+- [Orden JUS/1154/2023, de 18 de octubre, por la que se aprueba la relación provisional de personas admitidas y excluidas en el proceso selectivo extraordinario para acceso por el turno libre, al Cuerpo de Auxilio Judicial de la Administración de Justicia, por el sistema de concurso oposición, convocado por Orden JUS/1327/2022, de 28 de diciembre.](BOE-A-2023-21859.md)
+- [Orden JUS/1155/2023, de 18 de octubre, por la que se aprueba la relación provisional de personas admitidas y excluidas en el proceso selectivo extraordinario para acceso por el turno libre, al Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, por el sistema de concurso oposición, convocado por Orden JUS/1327/2022, de 28 de diciembre.](BOE-A-2023-21860.md)
+- [Orden JUS/1156/2023, de 18 de octubre, por la que se aprueba la relación provisional de personas admitidas y excluidas en el proceso selectivo extraordinario para acceso por el turno libre, al Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, por el sistema de concurso oposición, convocado por Orden JUS/1327/2022, de 28 de diciembre.](BOE-A-2023-21861.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Resolución de 23 de octubre de 2023, de la Secretaría de Estado de Función Pública, por la que se aprueba la relación definitiva de personas admitidas y excluidas del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo, en los grupos profesionales M2, M1 y E2 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado en el Ministerio de Universidades, convocado por Resolución de 26 de mayo de 2023.](BOE-A-2023-21862.md)
+
+### MINISTERIO DE CONSUMO
+
+- [Resolución de 19 de octubre de 2023, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.](BOE-A-2023-21863.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Resolución de 4 de octubre de 2023, del Ayuntamiento de Borriol (Castellón), referente a la convocatoria para proveer varias plazas.](BOE-A-2023-21864.md)
+- [Resolución de 4 de octubre de 2023, del Ayuntamiento de La Calzada de Oropesa (Toledo), referente a la convocatoria para proveer varias plazas.](BOE-A-2023-21865.md)
+- [Resolución de 10 de octubre de 2023, del Ayuntamiento de Almadén (Ciudad Real), referente a la convocatoria para proveer una plaza.](BOE-A-2023-21866.md)
+- [Resolución de 16 de octubre de 2023, del Ayuntamiento de Aldea del Fresno (Madrid), referente a la convocatoria para proveer varias plazas.](BOE-A-2023-21867.md)
+- [Resolución de 16 de octubre de 2023, del Ayuntamiento de Amorebieta-Etxano (Bizkaia), referente a la convocatoria para proveer varias plazas.](BOE-A-2023-21868.md)
+- [Resolución de 16 de octubre de 2023, del Ayuntamiento de Tartanedo (Guadalajara), referente a la convocatoria para proveer varias plazas.](BOE-A-2023-21869.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 16 de octubre de 2023, de la Universidad de Alicante, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios.](BOE-A-2023-21870.md)
+- [Resolución de 6 de octubre de 2023, de la Universidad de A Coruña, por la que se corrigen errores en la de 15 de septiembre de 2023, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios.](BOE-A-2023-21871.md)
+- [Resolución de 5 de octubre de 2023, de la Universidad de A Coruña, por la que se convocan pruebas selectivas para ingreso, por el sistema general de acceso libre, en la Escala Técnica de Grado Medio.](BOE-A-2023-21872.md)
+
+## III. Otras disposiciones
+
+### MINISTERIO DE JUSTICIA
+
+- [Resolución de 4 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación del registrador de la propiedad de Ibiza n.º 2, por la que se deniega la inscripción de una cancelación de hipoteca mediante instancia privada.](BOE-A-2023-21873.md)
+- [Resolución de 4 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de San Fernando n.º 1, por la que se deniega la inscripción de la georreferenciación de una finca registral y la consiguiente rectificación de la descripción de la finca, una vez tramitado el expediente del artículo 199 de la Ley Hipotecaria, en el que se han practicado alegaciones contra la inscripción de la georreferenciación de la finca.](BOE-A-2023-21874.md)
+- [Resolución de 5 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación de la registradora de la propiedad de Monóvar, por la que se suspende la inscripción de una escritura de aceptación y adjudicación de herencia.](BOE-A-2023-21875.md)
+- [Resolución de 5 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación de la registradora de la propiedad de El Puerto de Santa María n.º 4, por la que se suspende la inscripción de una escritura de cancelación de afecciones.](BOE-A-2023-21876.md)
+- [Resolución de 5 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación del registrador de la propiedad de Colmenar Viejo n.º 1, por la que se suspende la inscripción de una escritura de aceptación, partición y adjudicación de herencia.](BOE-A-2023-21877.md)
+- [Resolución de 5 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación negativa emitida por el registrador mercantil y de bienes muebles I de Cádiz, en relación con la escritura de ampliación del capital social de una compañía a causa del plazo de vigencia de una de las certificaciones que acreditan el desembolso.](BOE-A-2023-21878.md)
+- [Resolución de 5 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por la registradora de la propiedad de Albacete n.º 3, por la que se deniega la cancelación de cargas posteriores a la anotación preventiva de embargo, ordenada en mandamiento dictado en un procedimiento de ejecución de títulos judiciales.](BOE-A-2023-21879.md)
+- [Resolución de 6 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Bilbao n.º 3 a inscribir determinada adjudicación por extinción de comunidad.](BOE-A-2023-21880.md)
+- [Resolución de 6 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa del registrador de la propiedad de Tías a inscribir una escritura de compraventa.](BOE-A-2023-21881.md)
+- [Resolución de 6 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Segovia n.º 3, por la que se califica negativamente la inscripción de una escritura de aceptación de herencia y formalización de operaciones particionales.](BOE-A-2023-21882.md)
+- [Resolución de 6 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Segovia n.º 3, por la que se califica negativamente la inscripción de una escritura de aceptación de herencia y formalización de operaciones particionales.](BOE-A-2023-21883.md)
+- [Resolución de 6 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Segovia n.º 3, por la que se califica negativamente la inscripción de una escritura de compraventa.](BOE-A-2023-21884.md)
+- [Resolución de 6 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Algete, por la que se rechaza la inscripción de la venta de una participación indivisa de una finca sin licencia de parcelación o declaración de innecesaridad y sin que se cumpla con los requisitos de la legislación de unidades mínimas de cultivo.](BOE-A-2023-21885.md)
+- [Resolución de 7 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación del registrador de la propiedad de Las Palmas de Gran Canaria n.º 2, por la que se suspende la inscripción de una escritura autorizada por un notario de Senegal, de un convenio amistoso de partición entre herederos.](BOE-A-2023-21886.md)
+- [Resolución de 7 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Callosa d'en Sarrià, por la que se suspende la inscripción de una escritura de declaración de obra nueva por antigüedad.](BOE-A-2023-21887.md)
+- [Resolución de 7 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Castellón de la Plana n.º 3, por la que se suspende la inmatriculación de una finca cuya georreferenciación catastral no coincide con la realidad aparente de la ortofoto oficial.](BOE-A-2023-21888.md)
+- [Resolución de 7 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Calafell, por la que se suspende la inscripción de una escritura de extinción de derecho de vuelo, rectificación y modificación del título constitutivo de división horizontal y segregación.](BOE-A-2023-21889.md)
+- [Resolución de 7 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Cuenca, por la que se deniega la inscripción de una escritura de rectificación.](BOE-A-2023-21890.md)
+- [Resolución de 8 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Valladolid n.º 5, por la que se deniega la inscripción de una certificación del acta de adjudicación.](BOE-A-2023-21891.md)
+- [Resolución de 8 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Pontevedra n.º 2, por la que se suspende la inscripción de una escritura de compraventa.](BOE-A-2023-21892.md)
+- [Resolución de 8 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Torrelodones, por la que se deniega la inscripción de la georreferenciación de una finca registral y consiguiente rectificación de la descripción.](BOE-A-2023-21893.md)
+- [Resolución de 11 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Béjar a inscribir la adjudicación de determinados inmuebles mediante convenio regulador de los efectos de un divorcio.](BOE-A-2023-21894.md)
+- [Resolución de 11 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Gijón n.º 5, por la que se deniega la inscripción de la constitución de un derecho de usufructo sobre una finca afectada por un proyecto de reparcelación.](BOE-A-2023-21895.md)
+- [Resolución de 11 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por el registrador mercantil y de bienes muebles I de Palma de Mallorca, por la que se suspende una escritura de constitución de sociedad de responsabilidad limitada.](BOE-A-2023-21896.md)
+- [Resolución de 11 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por el registrador de la propiedad de Sevilla n.º 9, por la que se suspende la inscripción de un testimonio de auto judicial dictado en procedimiento de expediente de dominio.](BOE-A-2023-21897.md)
+- [Resolución de 12 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Astorga, por la que se suspende la inscripción de una escritura de aceptación y adjudicación de herencias y cesación de indivisión.](BOE-A-2023-21898.md)
+- [Resolución de 12 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Astorga, por la que se suspende la inmatriculación de una finca en virtud de escritura de publica de herencia.](BOE-A-2023-21899.md)
+- [Resolución de 12 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación emitida por el registrador de bienes muebles I de Madrid, por la que se suspende la inscripción de una prenda sin desplazamiento constituida en póliza intervenida por el recurrente.](BOE-A-2023-21900.md)
+- [Resolución de 13 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Madrid n.º 10, por la que se deniega la iniciación de un expediente de doble inmatriculación y otro de conciliación registral del artículo 103 bis de la Ley Hipotecaria.](BOE-A-2023-21901.md)
+- [Resolución de 13 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por la registradora de la propiedad de El Puerto de Santa María n.º 2, por la que se suspende la inscripción de un decreto de adjudicación dictado en el seno de un procedimiento de ejecución hipotecaria.](BOE-A-2023-21902.md)
+- [Resolución de 15 de septiembre de 2023, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Madrid n.º 2 a inscribir una escritura de compraventa.](BOE-A-2023-21903.md)
+- [Resolución de 11 de octubre de 2023, de la Dirección General para el Servicio Público de Justicia, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 80/2023, interpuesto ante el Juzgado Central de lo Contencioso-Administrativo n.º 8.](BOE-A-2023-21904.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Real Decreto 797/2023, de 24 de octubre, por el que se concede la Gran Cruz del Mérito Militar con distintivo blanco al General Consejero Togado del Cuerpo Jurídico Militar don Emilio Eduardo Fernández-Piñeyro Hernández.](BOE-A-2023-21905.md)
+- [Real Decreto 798/2023, de 24 de octubre, por el que se concede la Gran Cruz de la Real y Militar Orden de San Hermenegildo a los Oficiales Generales que se citan.](BOE-A-2023-21906.md)
+- [Resolución 560/38411/2023, de 5 de octubre, de la Jefatura del Mando de Personal del Ejército de Tierra, sobre delegación de competencias.](BOE-A-2023-21907.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Orden HFP/1157/2023, de 19 de octubre, sobre los índices de precios de la mano de obra y materiales, sobre los índices de precios de los materiales específicos de suministros de fabricación de armamento y equipamiento, así como sobre los índices de precios de componentes de transporte de viajeros por carretera, para el primer trimestre de 2023, aplicables a la revisión de precios de contratos de las Administraciones Públicas.](BOE-A-2023-21908.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Resolución de 18 de octubre de 2023, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría General de Instituciones Penitenciarias y la Fundación Aldaba, para el desarrollo de los programas PRIA-MA y reGENER@r de intervención en el medio abierto y en el ámbito de las penas y medidas alternativas.](BOE-A-2023-21909.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Resolución de 5 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica el II Convenio colectivo de centros y servicios veterinarios.](BOE-A-2023-21910.md)
+- [Resolución de 5 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica la modificación del Convenio colectivo nacional para las empresas dedicadas a los servicios de campo para actividades de reposición y servicios de marketing operacional.](BOE-A-2023-21911.md)
+- [Resolución de 5 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica el IV Convenio colectivo de Dealz España, SLU.](BOE-A-2023-21912.md)
+- [Resolución de 6 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de la Sociedad General de Autores y Editores.](BOE-A-2023-21913.md)
+- [Resolución de 9 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica el III Convenio colectivo de Kone Elevadores, SA.](BOE-A-2023-21914.md)
+- [Resolución de 10 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Michelin España Portugal, SA, para los centros de trabajo de Tres Cantos (Madrid) e Illescas (Toledo).](BOE-A-2023-21915.md)
+- [Resolución de 10 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica el IV Convenio colectivo de Cimodin, SL.](BOE-A-2023-21916.md)
+- [Resolución de 10 de octubre de 2023, de la Dirección General de Trabajo, por la que se registra y publica la revisión salarial para el año 2023 del IX Convenio colectivo de enseñanza y formación no reglada.](BOE-A-2023-21917.md)
+
+### MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO
+
+- [Resolución de 25 de septiembre de 2023, de la Secretaría de Estado de Turismo, por la que se publica el Convenio con Basque Culinary Center, para la preparación estratégica y la participación en el 8.º Foro Mundial de Turismo Gastronómico.](BOE-A-2023-21918.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Resolución de 19 de octubre de 2023, de la Subsecretaría, por la que se publica el Convenio con la Comunidad Autónoma de Extremadura, en materia de estadística para el año 2023.](BOE-A-2023-21919.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Resolución de 17 de octubre de 2023, del Museo Nacional Centro de Arte Reina Sofía, por la que se publica el Convenio con la Comunidad Autónoma de Castilla-La Mancha, para el desarrollo de proyectos culturales conjuntos.](BOE-A-2023-21920.md)
+- [Resolución de 17 de octubre de 2023, de la Dirección General de Patrimonio Cultural y Bellas Artes, por la que se publica el Convenio con la Asociación Cultural Besarilia, para la realización de una actividad cultural en el Museo Nacional del Romanticismo.](BOE-A-2023-21921.md)
+
+### MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030
+
+- [Resolución de 18 de octubre de 2023, del Instituto de Mayores y Servicios Sociales, por la que se publica el Convenio con la Comunidad de Castilla y León, para el desarrollo del Marco de cooperación interadministrativa previsto en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en situación de dependencia; y para el establecimiento y financiación del nivel de protección acordado para el ejercicio 2023.](BOE-A-2023-21922.md)
+
+### MINISTERIO DE CIENCIA E INNOVACIÓN
+
+- [Orden CIN/1158/2023, de 9 de octubre, por la que se modifica la Orden CIN/2502/2010, de 17 de septiembre, por la que se crea la distinción «Ciudad de la Ciencia y la Innovación», se establecen sus bases y se realiza la convocatoria, correspondiente al año 2010.](BOE-A-2023-21923.md)
+
+### BANCO DE ESPAÑA
+
+- [Resolución de 24 de octubre de 2023, del Banco de España, por la que se publican los cambios del euro correspondientes al día 24 de octubre de 2023, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.](BOE-A-2023-21924.md)
+
+## V. Anuncios. - A. Contratación del Sector Público
+
+### CORTES GENERALES
+
+- [Anuncio de licitación de: Junta de Coordinación del Defensor del Pueblo. Objeto: Suministro de vales/cheques de comida para el personal del Defensor del Pueblo. Expediente: 2023Rg800325.](BOE-B-2023-30927.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 12 - Agrupación del Acuartelamiento Aéreo Tablada. Objeto: Contrato administrativo especial para el servicio de la escuela de tenis y pádel en el CDSCM Oficiales Tablada. Expediente: 2023/EA12/00000568E.](BOE-B-2023-30928.md)
+- [Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Adecuación y regularización administrativa 12 ct. Expediente: 582023041600.](BOE-B-2023-30929.md)
+- [Anuncio de licitación de: Dirección General del INTA. Objeto: Varios centros mantenimiento técnico cámaras climáticas. Expediente: 582023059500.](BOE-B-2023-30930.md)
+- [Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: (INVIED) Expediente núm. 202300000216 (03J) Archivo Museo Don Álvaro de Bazán.-Instalación sistema de extinción de incendios en diversas salas. Expediente: 2023/AR21U/00001063.](BOE-B-2023-30931.md)
+- [Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Madrid / Madrid / CESEDEN / Sustitución de calderas de gasoil por gas natural. Expediente: 2023/SP03032003/00000539E.](BOE-B-2023-30932.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: (20239060) Fabricación y suministro de guantes y cascos de protección (EPIS). Expediente: 2023/EA22/00001217E.](BOE-B-2023-30933.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: Reparación del suelo del almacén del CLOIN de la BA de Torrejón (APO 175 2023). Expediente: 2023/EA22/00001279E.](BOE-B-2023-30934.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 12 - Agrupación del Acuartelamiento Aéreo Tablada. Objeto: Adecuación de los acumuladores de Agua Caliente Sanitaria (ACS) en el Acuartelamiento Aéreo de Tablada. Expediente: 2023/EA12/00000865E.](BOE-B-2023-30935.md)
+- [Anuncio de licitación de: Dirección de Asuntos Económicos del Ejército del Aire. Objeto: Suministro de medios para el transporte de medicamentos para ROLE2. Expediente: 2023/EA04/00000668E.](BOE-B-2023-30936.md)
+- [Anuncio de formalización de contratos de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Adquisición equipamiento de red para renovar el NODO FMN de SPMARFOR en los nodos desplegables de los buques. Expediente: 1164/2023.](BOE-B-2023-30937.md)
+- [Anuncio de formalización de contratos de: Sección de Asuntos Económicos del Parque y Centro de Mantenimiento de Sist. Antiaérea, Costa y Misiles. Objeto: Adquisición de Repuestos y Equipos de Control para Sistemas Radar SKYDOR. Expediente: 2023/ETSAE0109/00000219E.](BOE-B-2023-30938.md)
+- [Anuncio de formalización de contratos de: Sección de Asuntos Económicos del Parque y Centro de Mantenimiento de Sist. Antiaérea, Costa y Misiles. Objeto: Adquisición de Repuestos y Equipos de Control para Sistemas Radar SKYDOR. Expediente: 2023/ETSAE0109/00000219E.](BOE-B-2023-30939.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 12 - Agrupación del Acuartelamiento Aéreo Tablada. Objeto: Suministro de neumáticos para vehículos de dotación del Ejército del Aire y del Espacio. Expediente: 2023/EA12/00000699E.](BOE-B-2023-30940.md)
+- [Anuncio de licitación de: Jefatura de Asuntos Económicos de la Fuerza Terrestre. Objeto: Suministro de repuestos diversos para mantenimiento de sistemas hawk y patriot del RAAA-74. Expediente: 2023/ETSAE0206/00001776E.](BOE-B-2023-30941.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Anuncio de formalización de contratos de: Dirección General de la Agencia Estatal de Administración Tributaria. Objeto: Rehabilitación de la sede de la Delegación Especial de la AEAT de Asturias. Expediente: 22700077700.](BOE-B-2023-30942.md)
+- [Anuncio de licitación de: Junta de Contratación de los Servicios Centrales en el Ministerio de Hacienda y Función Pública. Objeto: Servicios de formación on line en materias transversales (ofimática, promoción interna, prevención de riesgos laborales, habilidades y apoyo legislativo) para todos los empleados públicos del Ministerio de Hacienda y Función Pública que así lo soliciten. Expediente: 2023-16.](BOE-B-2023-30943.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Anuncio de formalización de contratos de: Dirección del Centro Penitenciario de Topas (Salamanca). Objeto: Servicio de limpieza de oficinas y otras dependencias en el Centro Penitenciario de Topas. Expediente: 52002023LO01.](BOE-B-2023-30944.md)
+- [Anuncio de formalización de contratos de: Subdirección General de Planificacion y Gestion de Infraestructuras y Medios para la Seguridad. Objeto: Contratación del suministro de licencias del producto para análisis en fuentes abiertas (TadaWeb), para Unidades de la Dirección General de la Policía. Expediente: X23PIQAE0004.](BOE-B-2023-30945.md)
+- [Anuncio de formalización de contratos de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Adquisición de una estación de trabajo DCS5, material inventariable (capítulo VI), para la Comisaría General de Policía Científica. Expediente: Z23PC006/T20.](BOE-B-2023-30946.md)
+- [Anuncio de formalización de contratos de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Adquisición de instrumentos musicales y accesorios para la Banda Sinfónica de la Policía Nacional. Expediente: Z23SU027/T20.](BOE-B-2023-30947.md)
+- [Anuncio de formalización de contratos de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Adquisición de instrumentos musicales y accesorios para la Banda Sinfónica de la Policía Nacional. Expediente: Z23SU027/T20.](BOE-B-2023-30948.md)
+- [Anuncio de formalización de contratos de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Adquisición de instrumentos musicales y accesorios para la Banda Sinfónica de la Policía Nacional. Expediente: Z23SU027/T20.](BOE-B-2023-30949.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Anuncio de licitación de: Dirección General de Carreteras. Objeto: 39-O-6430; 54.732/23. Actuaciones para el desarrollo del plan de acción contra el ruido de la fase II en la autopista AP-66. P.K. 65+500 a 66+500 T.M. de Lena. Provincia de Asturias. Plan de Recuperación, Transformación y Resiliencia, Next Generation EU. Expediente: C54233364300.](BOE-B-2023-30950.md)
+- [Anuncio de licitación de: Dirección General de Carreteras. Objeto: 33-CA-4290; 54.646/23. Construcción de carril bici y mejora de seguridad vial en cruces de NR-4 PP.KK 0+000 al 1+250. Jerez de la Frontera. Provincia de Cádiz. Plan de Recuperación, Transformación y Resiliencia, Next Generation EU. Expediente: C54231142900.](BOE-B-2023-30951.md)
+- [Anuncio de licitación de: Dirección General de Carreteras. Objeto: 30.668/23; SV-525/23 Evaluación de la seguridad viaria de las vías de gran capacidad y otras carreteras principales en servicio de Red de Carreteras del Estado. Expediente: C30239029390.](BOE-B-2023-30952.md)
+- [Anuncio de licitación de: ADIF - Presidencia. Objeto: Plan de evolución de la red ip multimedia de red convencional de ADIF. Fase 1: Servicios de ingeniería de detalle ámbito red y suministro, instalación, migración y puesta en producción del equipamiento del core. Expediente: 3.23/27510.0062.](BOE-B-2023-30953.md)
+- [Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Acuerdo marco para el suministro y transporte de carril para obras existentes en distintos ámbitos de la red convencional. Expediente: 3.23/06510.0092.](BOE-B-2023-30954.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicio de mantenimiento de aparatos elevadores en estaciones de Adif y Adif Alta Velocidad dependientes de la Subdirección de Estaciones Centro. Expediente: 2.23/30108.0081.](BOE-B-2023-30955.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicio de mantenimiento de aparatos elevadores en estaciones de Adif y Adif Alta Velocidad dependientes de la Subdirección de Estaciones Centro. Expediente: 2.23/30108.0081.](BOE-B-2023-30956.md)
+- [Anuncio de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias (ADIF), por el que se comunican las nuevas fechas del procedimiento de contratación de "Redacción del proyecto y la ejecución de las obras para la modificación de la funcionalidad de la protección automática de los pasos a nivel que se ven afectados por el proyecto constructivo para la dotación de BAU en el Tramo Infiesto-Cabezón de la Sal". (Expediente: 3.23/07504.0053).](BOE-B-2023-30957.md)
+- [Anuncio de formalización de contratos de: ADIF -Consejo de Administración. Objeto: Ejecución de las obras del proyecto constructivo de plataforma del nuevo acceso ferroviario Sur al Puerto de Castellón. Tramo II (4+698 - 8+ 295,28). Expediente: 3.23/06110.0076.](BOE-B-2023-30958.md)
+- [Anuncio de formalización de contratos de: ADIF -Consejo de Administración. Objeto: Obras de ejecución de los proyectos de ejecución de instalación de ascensores en paso inferior y acabados de las estaciones de Granollers- Canovelles, Franqueses del Vallès y La Garriga (Barcelona). Expediente: 3.23/27507.0066.](BOE-B-2023-30959.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicios de asistencia técnica para el control y vigilancia de las obras de "proyecto de construcción de sistema de control de instalaciones de protección civil y seguridad del túnel urbano de Cádiz". Expediente: 3.22/28507.0328.](BOE-B-2023-30960.md)
+- [Anuncio de la Autoridad Portuaria de Ferrol-San Cibrao por el que se comunica la financiación mediante Fondos de la Unión Europea de varios contratos.](BOE-B-2023-30961.md)
+- [Anuncio de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias (ADIF), por el que se comunican las nuevas fechas del procedimiento de contratación de los "Servicios para la monitorización de aparatos de vía". (Expediente: 4.23/28520.0080).](BOE-B-2023-30962.md)
+- [Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicio de mantenimiento integral de los equipamientos hardware asociados a los Sistemas y Medios de información al viajero en estaciones. Expediente: 2.23/24108.0209.](BOE-B-2023-30963.md)
+- [Anuncio de formalización de contratos de: Dirección General del Instituto Geográfico Nacional. Objeto: Servicio edición 780 hojas Andalucía, Aragón, Principado de Asturias, Illes Balears, Canarias, Cantabria, Castilla y León, Castilla-La Mancha, Cataluña, Ciudad de Ceuta, Ciudad de Melilla, C. Valenciana, Extremadura, Galicia, Comunidad de Madrid, Región de Murcia, C. Foral de Navarra, País Vasco y La Rioja para publicación impresa del MTN25 a partir de MAPABTN25 (3 Lotes). Expediente: 2023-1718043.](BOE-B-2023-30964.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicios para la redacción de los proyectos básico y de construcción de mejora del drenaje transversal de la línea Xátiva-Alcoi en los barrancos de Torrella y Forcall (Embalse de Bellús). Expediente: 3.22/27507.0258.](BOE-B-2023-30965.md)
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Transportes, Movilidad y Agenda Urbana. Objeto: Suministro de impresoras multifuncionales color con destino a la Subdirección General de Tecnologías de la Información y Administración Digital del Ministerio de Transportes, Movilidad y Agenda Urbana. Expediente: 23IPN3IN0181.](BOE-B-2023-30966.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Anuncio de licitación de: Presidencia del Consejo Económico y Social. Objeto: Servicio de mantenimiento integral de las instalaciones y servicios complementarios en el edificio sede del Consejo Económico y Social (CES) en C/Huertas, 73 de Madrid. Expediente: 57-2023.](BOE-B-2023-30967.md)
+- [Anuncio de formalización de contratos de: Dirección Provincial del Servicio Público de Empleo Estatal en Málaga. Objeto: Servicio externo para el mantenimiento higiénico-sanitario en las dependencias de la Dirección Provincial del Servicio Público de Empleo en Málaga. Expediente: PASA 8/2023.](BOE-B-2023-30968.md)
+
+### MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO
+
+- [Anuncio de formalización de contratos de: Oficina Española de Patentes y Marcas, O.A. Objeto: Suministro de material, repuestos y consumibles necesarios para la correcta operación de las instalaciones de la sede de la Oficina Española de Patentes y Marcas, O.A. Expediente: 45/23.](BOE-B-2023-30969.md)
+- [Anuncio de formalización de contratos de: Oficina Española de Patentes y Marcas, O.A. Objeto: Servicio de recogida de residuos generados en las dependencias de la sede de la Oficina Española de Patentes y Marcas, O.A. en Paseo de la Castellana, 75, Madrid,. Expediente: 70/23.](BOE-B-2023-30970.md)
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA
+
+- [Anuncio de formalización de contratos de: Subdirección General de la Oficina Presupuestaria y de Gestión Económica. Objeto: Obras de sustitución de carpinterías exteriores para la mejora del aislamiento térmico en el edificio INIA NORTE. Expediente: MPR20230195.](BOE-B-2023-30971.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL
+
+- [Anuncio de licitación de: Subdelegación del Gobierno en Ourense. Objeto: Servicio de limpieza de las distintas dependencias que ocupa la Subdelegación del Gobierno en Ourense. Expediente: 202332000005.](BOE-B-2023-30975.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de licitación de: Presidencia de la Agencia Estatal de Meteorología. Objeto: Servicio de soporte técnico a la gestión del sistemas de videoconferencia y gestión de comunicaciones y telefonía móvil de la Agencia Estatal de Meteorología. Expediente: 202300000177.](BOE-B-2023-30972.md)
+- [Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Acondicionamiento del desagüe de fondo del cuerpo de presa del Ebro. Expediente: 093/23-OB.](BOE-B-2023-30973.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Anuncio de licitación de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Suministro de gasóleo de calefacción "C" para los Museos del Traje, de América, Cerralbo y de Altamira. Expediente: J230068.](BOE-B-2023-30974.md)
+
+### MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL
+
+- [Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de análisis y seguimiento de los planes anuales de actuación, planificación estratégica y gestión corporativa de Red.es. Expediente: 053/23-DG.](BOE-B-2023-30976.md)
+
+### MINISTERIO DE CIENCIA E INNOVACIÓN
+
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de mantenimiento de la plataforma de cromatografía líquida de alta resolución acoplada a detector de espectrometría de masas de alta sensibilidad con destino al Instituto de Ciencias de la Vid y del Vino (ICVV). Expediente: 31395/23.](BOE-B-2023-30977.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Suministro e instalación de un nanoindentador financiado por la Unión Europea, Proyecto Horizon Europe: Piezo4Spine (GA. 101098597), con destino al Instituto de Ciencia de Materiales de Madrid. Expediente: 31202/23.](BOE-B-2023-30978.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Suministro e instalación de un espectrómetro de masas híbrido de alta resolución para un servicio de ómicas avanzadas destinado al Instituto de Investigaciones Marinas, de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: 30945/23.](BOE-B-2023-30979.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de cualificaciones y calibraciones de equipamiento científico diverso, destinado al Centro de Investigación en Sanidad Animal del Centro Nacional Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT59/23.](BOE-B-2023-30980.md)
+
+### MINISTERIO DE IGUALDAD
+
+- [Anuncio de formalización de contratos de: Instituto de las Mujeres. Objeto: Contratación Del Servicio Del Portal Web Mapa De Cuidados Mediante Procedimiento Abierto Simplificado. Plan De Recuperación, Transformación Y Resiliencia Financiado Por La Unión Europea Nextgeneration Eu. Expediente: 010023CO0002.](BOE-B-2023-30981.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Valencia. Objeto: Servicio de gestión de las tareas de logística, almacén y colla de la Dirección Provincial de la Tesorería General de la Seguridad Social de Valencia . Expediente: 46-CG-059/2023.](BOE-B-2023-30982.md)
+- [Anuncio de formalización de contratos de: Dirección del Centro Nacional de Formación Marítima de Bamio (D.O. D.P. Vilagarcía de Arousa). Objeto: Servicio de limpieza del CNF de Bamio del 29.09.2023 a 28.09.2024. Expediente: 98/2023PA1001.](BOE-B-2023-30983.md)
+- [Anuncio de licitación de: Secretaria General de la Tesorería General de la Seguridad Social. Objeto: Suministro de sobres de distintos tipos con destino a los servicios centrales de la Tesorería General de la Seguridad Social. Expediente: 2023/60173S.](BOE-B-2023-30984.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Valencia. Objeto: Obra de subsanación de filtraciones y humedades que padece la Oficina de la Seguridad Social de Paterna, ubicada en avenida Vicente Mortes Alfonso, 21, de Paterna (Valencia). Expediente: 46CG04520236229.](BOE-B-2023-30985.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Cádiz. Objeto: El objeto del contrato es la prestación del servicio de mantenimiento de los escáneres y arcos detectores de metales ubicados en los siguientes centros administrativos: Edificio sede de la Dirección Provincial de la Tesorería General de la Seguridad Social de Cádiz y en la Oficina Integral de la Seguridad Social de Algeciras . Expediente: 2023AMS0091123.](BOE-B-2023-30986.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Ciudad Real. Objeto: Prórroga para la realización del servicio de limpieza de las oficinas y locales dependientes de la Dirección Provincial de la Tesorería General de la Seguridad Social / Instituto Nacional de la Seguridad Social de Ciudad Real para el periodo 01/12/2023 hasta el 30/11/2024. Expediente: PR-1/13/VC6/2022.](BOE-B-2023-30987.md)
+- [Anuncio de formalización de contratos de: INSS-Dirección provincial de Castellón. Objeto: Contrato basado para el suministro de energía eléctrica para los centros dependientes del Instituto Nacional de la Seguridad Social de Castellón. Agrupación de CUPS 6816. Expediente: 12I/AC-27/2023.](BOE-B-2023-30988.md)
+- [Anuncio de licitación de: Junta de Contratación del Ministerio de Inclusión, Seguridad Social y Migraciones. Objeto: Servicio de redacción del proyecto básico y de ejecución, dirección facultativa completa (dirección de obra y dirección de ejecución de obra) y coordinación de seguridad y salud en fase de ejecución de la obra para la construcción de un Centro de Acogida de Protección Internacional (CAPI) en Villablino (León), PRTR, C22, I05. Expediente: 202350JC0190.](BOE-B-2023-30989.md)
+
+### COMISIÓN NACIONAL DEL MERCADO DE VALORES
+
+- [Anuncio de formalización de contratos de: Comisión Nacional del Mercado de Valores. Objeto: vigilancia y seguridad de las oficinas de la Comisión Nacional del Mercado de Valores. Expediente: 15/23.](BOE-B-2023-30990.md)
+- [Anuncio de formalización de contratos de: Comisión Nacional del Mercado de Valores. Objeto: mantenimiento y programación de las aplicaciones informáticas de la Comisión Nacional del Mercado de Valores. Expediente: 23/23.](BOE-B-2023-30991.md)
+
+### OTROS PODERES ADJUDICADORES
+
+- [Anuncio de Metro de Madrid, Sociedad Anónima por el que se convoca la licitación para la contratación de un acuerdo marco para los servicios relacionados con el proyecto BIG DATA Tren Digital de Metro de Madrid. cofinanciable al 40% con cargo al programa operativo 2021-2027 FEDER de la Comunidad de Madrid (expediente 6012300322).](BOE-B-2023-30992.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Anuncio de la Delegación de Economía y Hacienda en Girona de inicio de un expediente de investigación patrimonial en relación a una finca urbana situada en el término municipal de Avinyonet de Puigventòs (Girona).](BOE-B-2023-30993.md)
+- [Anuncio de la Delegación de Economía y Hacienda en Girona de inicio de un expediente de investigación patrimonial en relación a una finca rústica situada en el término municipal de Avinyonet de Puigventòs (Girona).](BOE-B-2023-30994.md)
+- [Anuncio de la Delegación de Economía y Hacienda en Girona de inicio de un expediente de investigación patrimonial en relación a una finca rústica situada en el término municipal de Avinyonet de Puigventòs.](BOE-B-2023-30995.md)
+- [Anuncio de la Delegación de Economía y Hacienda en Girona de inicio de un expediente de investigación patrimonial en relación a una finca urbana situada en el término municipal de Avinyonet de Puigventòs.](BOE-B-2023-30996.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Anuncio de la Demarcación de Carreteras del Estado en Andalucía Oriental sobre aprobación del expediente de información pública y la aprobación definitiva del Estudio de Delimitación de Tramo Urbano y establecimiento de la línea límite de edificación en la parcela con referencia catastral 4463106UF5446S0001TL situada junto a la carretera A-7 p.k. 210+500 sentido Barcelona (M.D.) T.M. de Fuengirola (Málaga).](BOE-B-2023-30997.md)
+- [Anuncio de la Demarcación de Carreteras del Estado en Madrid sobre resolución de la Dirección General de Carreteras por la que se aprueba provisionalmente el Estudio Puntual de Delimitación de Tramo Urbano y la propuesta de fijación de la línea límite de edificación, Plaza de Madrid 1 y 3, Plaza de Madrid 5 y Cuesta de San Francisco 16, pp.kk. 18+285 al 18+328 A-6. T.M. Las Rozas (Madrid).](BOE-B-2023-30998.md)
+- [Anuncio de la Demarcación de Carreteras del Estado en Madrid sobre resolución de la Dirección General de Carreteras por la que se aprueba provisionalmente el Estudio de Delimitación de Tramo Urbano y establecimiento de línea límite de edificación en la autovía A-6, entre los pp.kk. 18+410 al 18+457, margen izquierda, para las parcelas de referencias catastrales 6430509VK2863S0001MW y 6430509VK2863S0002QE, ubicadas en el número 10 de la calle Madrid, y sobre la parcela de referencia catastral 6430508VK2863S0001FW, situada en el número 28 de la avenida de A Coruña, en término municipal de Las Rozas de Madrid (Madrid).](BOE-B-2023-30999.md)
+- [Anuncio de la Demarcación de Carreteras del Estado en Madrid sobre resolución de la Dirección General de Carreteras por la que se aprueba provisionalmente el Estudio de Delimitación de Tramo Urbano y establecimiento de línea límite de edificación en el nudo de la autovía A-6, en torno al p.k. 26+300, margen derecha, para la parcela de referencia catastral 4003511VK2930S0001XD, ubicada en la Avenida Peñascales, número 26, en término municipal de Las Rozas de Madrid (Madrid).](BOE-B-2023-31000.md)
+- [Anuncio de la Autoridad Portuaria de Sevilla de información pública de la solicitud presentada por Club Náutico de Sevilla Expediente E407.](BOE-B-2023-31001.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos de la asociación empresarial denominada ASOCIACIÓN ESPAÑOLA DE FRAGANCIAS Y AROMAS ALIMENTARIOS, en siglas AEFAA, con número de depósito 99002144 (antiguo número de depósito 2571).](BOE-B-2023-31002.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos de la asociación empresarial denominada ORGANIZACIÓN DE CONSULTORES DE PENSIONES, en siglas OCOPEN, con número de depósito 99003175 (antiguo número de depósito 3903).](BOE-B-2023-31003.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos de la asociación empresarial denominada ASOCIACIÓN DE COMPAÑÍAS DE EXPERIENCIA CON CLIENTE, en siglas CEX, con número de depósito 99003435 (antiguo número de depósito 4302).](BOE-B-2023-31004.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos de la asociación empresarial denominada ALIANZA DE LA INDUSTRIA AUDIOVISUAL, en siglas ALIA, con número de depósito 99105988.](BOE-B-2023-31005.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia la constitución de la confederación empresarial denominada CONFEDERACIÓN ESPAÑOLA DE TRANSPORTE DE ANIMALES VIVOS, en siglas CETAV, con número de depósito 99106242.](BOE-B-2023-31006.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Anuncio de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria por la que se hace pública la aprobación del proyecto "Depósito regulador de las aguas regeneradas de la EDAR del Barranco Seco en el Fondillo, T.M. Las Palmas de Gran Canaria". N.º de expediente SGRCNIR 22.P16.](BOE-B-2023-31007.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL
+
+- [Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Castilla-La Mancha sobre información pública de la solicitud de Autorización Administrativa Previa de las modificaciones de los proyectos de las Plantas Solares Fotovoltaicas ISF Ebisu, de 111,56 MWinst, y Ebisu II, de 164,84 MWinst, y su infraestructura de evacuación privativa, en los términos municipales de Casarrubios del Monte y La Torre de Esteban Hambrán (Toledo), cuyos peticionarios son ENERGÍA EBISU S.L. (Expediente: PFot-490) y ENVATIOS EBISU II, S.L. (Expediente: PFot-598).](BOE-B-2023-31008.md)
+- [Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Valladolid, por el que se somete a información pública la solicitud de modificación de autorización administrativa previa y autorización administrativa de construcción de la instalación solar fotovoltaica "Los Quincetos" de 56,51 MW de potencia pico y 50,1 MW de potencia instalada, y su infraestructura de evacuación, en los términos municipales de Marzales, Mota del Marqués y Vega de Valdetronco, en la provincia de Valladolid.](BOE-B-2023-31009.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de la Dirección General del Agua por el que se da publicidad a la Resolución del Secretario de Estado de Medio de Ambiente por la que se aprueba el Plan de Acción de Aguas Subterráneas 2023-2030.](BOE-B-2023-31010.md)
+- [Anuncio de la Demarcación de Costas en Asturias de INFORMACIÓN PÚBLICA sobre expedientes de concesión en aplicación de la disposición transitoria primera de la Ley de Costas, respecto de varias fincas ubicadas en Ardines, Picu Ramonón, t.m. de Ribadesella (Asturias).](BOE-B-2023-31011.md)
+- [Anuncio de la Confederación Hidrográfica del Segura, O.A. relativo a la Información Pública de posible extinción del derecho al aprovechamiento de aguas subterráneas para riego, situado en el T.M. de Fuente Álamo (Murcia) (CAD-0010/2023).](BOE-B-2023-31012.md)
+
+### COMUNIDAD AUTÓNOMA DE ANDALUCÍA
+
+- [Resolución de la Delegación Territorial de Economía, Hacienda y Fondos Europeos y de Industria, Energía y Minas en Sevilla, por la que se concede a favor de la mercantil Mama Quilla Solar, S.L., modificación de la Autorización Administrativa Previa y de Construcción y la declaración en concreto de Utilidad Pública para el trazado de línea que afecta al polígono 17 parcelas 36 y 37 de la infraestructura de evacuación de la planta solar fotovoltaica denominada "HSF GUILLENA SANTOS", ubicada en el término municipal de Guillena (Sevilla) y se convoca el levantamiento de actas previas a la ocupación de las fincas afectadas.](BOE-B-2023-31013.md)
+
+### UNIVERSIDADES
+
+- [Anuncio de la Universidad de Cádiz sobre extravío de título universitario.](BOE-B-2023-31014.md)
+- [Anuncio de la Facultad de Educación y Deporte de la Universidad del País Vasco sobre extravío de título universitario.](BOE-B-2023-31015.md)
+- [Anuncio de la Facultad de Filología de la Universidad Nacional de Educación a Distancia sobre extravío de título universitario.](BOE-B-2023-31016.md)
+- [Anuncio de la Universidad de Extremadura sobre extravío de título universitario.](BOE-B-2023-31017.md)
+- [Anuncio de la Universidad de Valladolid sobre extravío de título universitario.](BOE-B-2023-31018.md)
+- [Anuncio de Facultad de Filología de la Universidad Complutense de Madrid sobre extravío de título universitario.](BOE-B-2023-31019.md)
