@@ -1,0 +1,293 @@
+---
+fuente: "BOE"
+fecha: "2022-05-06"
+diario_numero: "108"
+total_documentos: 135
+---
+
+# BOE núm. 108 — 2022-05-06
+
+## I. Disposiciones generales
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Orden AUC/397/2022, de 21 de abril, por la que se crea la Oficina Consular Honoraria, con categoría de Consulado Honorario de España, en Bodrum, en la República de Turquía.](BOE-A-2022-7418.md)
+- [Orden AUC/398/2022, de 21 de abril, por la que se crea la Oficina Consular Honoraria, con categoría de Consulado Honorario de España, en Inhambane, en la República de Mozambique.](BOE-A-2022-7419.md)
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA
+
+- [Orden PCM/399/2022, de 5 de mayo, por la que se modifica el Anexo IV del Real Decreto 219/2013, de 22 de marzo, sobre restricciones a la utilización de determinadas sustancias peligrosas en aparatos eléctricos y electrónicos.](BOE-A-2022-7420.md)
+
+## II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Real Decreto 283/2022, de 12 de abril, por el que se nombra Decano de los Juzgados de Arganda del Rey al Magistrado don David Pérez García-Patrón.](BOE-A-2022-7421.md)
+- [Real Decreto 284/2022, de 12 de abril, por el que se nombra Decano de los Juzgados de Huelva al Magistrado don Javier Pérez Minaya.](BOE-A-2022-7422.md)
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Orden AUC/400/2022, de 4 de abril, por la que se acuerda el ascenso a la categoría diplomática de Secretario/a de Embajada de Primera Clase.](BOE-A-2022-7423.md)
+- [Resolución de 28 de abril de 2022, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 9 de diciembre de 2021.](BOE-A-2022-7424.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Resolución de 3 de mayo de 2022, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, de la Escala de Titulados Superiores del Instituto Nacional de Seguridad e Higiene en el Trabajo.](BOE-A-2022-7425.md)
+- [Resolución de 4 de mayo de 2022, de la Presidencia del Consejo de Transparencia y Buen Gobierno, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 29 de marzo de 2022.](BOE-A-2022-7426.md)
+
+### MINISTERIO DE IGUALDAD
+
+- [Resolución de 29 de abril de 2022, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de marzo de 2022.](BOE-A-2022-7427.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Resolución de 27 de abril de 2022, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 27 de septiembre de 2021, en la Gerencia de Informática de la Seguridad Social.](BOE-A-2022-7428.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 19 de abril de 2022, de la Universidad de Oviedo, por la que se nombra Catedrático de Universidad a don Luis Ignacio Álvarez González.](BOE-A-2022-7429.md)
+- [Resolución de 19 de abril de 2022, de la Universidad de Oviedo, por la que se nombra Catedrático de Universidad a don Pablo Marín González.](BOE-A-2022-7430.md)
+- [Resolución de 27 de abril de 2022, de la Universidad de Málaga, por la que se nombra Profesor Titular de Universidad a don Miguel Jesús Duro Moreno.](BOE-A-2022-7431.md)
+- [Resolución de 27 de abril de 2022, de la Universidad de Castilla-La Mancha, por la que se nombran funcionarios y funcionarias de cuerpos docentes universitarios.](BOE-A-2022-7432.md)
+- [Resolución de 27 de abril de 2022, de la Universidad de Santiago de Compostela, por la que se nombran Catedráticos y Catedráticas de Universidad.](BOE-A-2022-7433.md)
+
+## II. Autoridades y personal. - B. Oposiciones y concursos
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Acuerdo de 28 de abril de 2022, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convoca concurso para la provisión de puesto de trabajo en la Escuela Judicial.](BOE-A-2022-7434.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Resolución 400/38176/2022, de 4 de mayo, de la Subsecretaría, por la que se modifica la distribución por programas de las plazas correspondientes al proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Oficiales de Arsenales de la Armada, convocado por Resolución 400/38288/2021, de 14 de julio.](BOE-A-2022-7435.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Orden HFP/401/2022, de 4 de mayo, por la que se nombran asesores especialistas para la realización de la prueba complementaria de carácter voluntario, de las pruebas selectivas para el acceso libre a la subescala de Intervención-Tesorería, categoría de entrada, de la Escala de funcionarios de administración local con habilitación de carácter nacional, convocadas por Resolución de 29 de junio de 2021, de la Secretaría General de Función Pública.](BOE-A-2022-7436.md)
+- [Orden HFP/402/2022, de 4 de mayo, por la que se nombran asesores especialistas para la realización de la prueba complementaria de carácter voluntario, de las pruebas selectivas para el acceso libre a la subescala de Secretaría, categoría de entrada, de la Escala de funcionarios de administración local con habilitación de carácter nacional, convocadas por Resolución de 29 de junio de 2021, de la Secretaría General de Función Pública.](BOE-A-2022-7437.md)
+- [Orden HFP/403/2022, de 4 de mayo, por la que se nombran asesores especialistas para la realización de la prueba complementaria de carácter voluntario, de las pruebas selectivas para el acceso libre a la subescala de Secretaría-Intervención, de la Escala de funcionarios de administración local con habilitación de carácter nacional, convocadas por Resolución de 29 de junio de 2021, de la Secretaría General de Función Pública.](BOE-A-2022-7438.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Resolución de 27 de abril de 2022, de la Subsecretaría, por la que se modifica la composición del Tribunal calificador del proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala de Titulados Superiores del Instituto Nacional de Seguridad e Higiene en el Trabajo, convocado por Resolución de 16 de febrero de 2022.](BOE-A-2022-7439.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Resolución de 27 de abril de 2022, de la Subsecretaría, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en la Escala de Técnicos Facultativos Superiores de Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación.](BOE-A-2022-7440.md)
+
+### MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030
+
+- [Resolución de 27 de abril de 2022, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en el Instituto de Mayores y Servicios Sociales.](BOE-A-2022-7441.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Resolución de 22 de abril de 2022, del Ayuntamiento de Paracuellos de Jarama (Madrid), referente a la convocatoria para proveer una plaza.](BOE-A-2022-7442.md)
+- [Resolución de 25 de abril de 2022, del Ayuntamiento de Burgos, referente a la convocatoria para proveer una plaza.](BOE-A-2022-7443.md)
+- [Resolución de 25 de abril de 2022, del Ayuntamiento de Puertollano (Ciudad Real), referente a la convocatoria para proveer varias plazas.](BOE-A-2022-7444.md)
+- [Resolución de 27 de abril de 2022, del Ayuntamiento de Córdoba, referente a la convocatoria para proveer varias plazas.](BOE-A-2022-7445.md)
+- [Resolución de 28 de abril de 2022, de la Mancomunidad Norte Duero (Zamora), referente a la convocatoria para proveer varias plazas.](BOE-A-2022-7446.md)
+- [Resolución de 28 de abril de 2022, del Ayuntamiento de La Línea de la Concepción (Cádiz), referente a la convocatoria para proveer varias plazas.](BOE-A-2022-7447.md)
+- [Resolución de 28 de abril de 2022, del Ayuntamiento de Pedro Muñoz (Ciudad Real), referente a la convocatoria para proveer una plaza.](BOE-A-2022-7448.md)
+- [Resolución de 28 de abril de 2022, del Ayuntamiento de Santa Pola (Alicante), referente a la convocatoria para proveer varias plazas.](BOE-A-2022-7449.md)
+- [Resolución de 28 de abril de 2022, del Ayuntamiento de Villacarriedo (Cantabria), referente a la convocatoria para proveer una plaza.](BOE-A-2022-7450.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 25 de abril de 2022, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios.](BOE-A-2022-7451.md)
+- [Resolución de 25 de abril de 2022, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.](BOE-A-2022-7452.md)
+
+## III. Otras disposiciones
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Acuerdo de 21 de abril de 2022, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se publica el Acuerdo de la Sala de Gobierno del Tribunal Superior de Justicia del País Vasco, relativo a la modificación de las normas de reparto de asuntos entre las secciones de la Sala de lo Contencioso-Administrativo, para el año 2022.](BOE-A-2022-7453.md)
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Resolución de 25 de abril de 2022, del Instituto Cervantes, por la que se publica el Anejo al Convenio de encomienda de gestión a la Universidad de Jaén, para la realización de las pruebas de Conocimientos Constitucionales y Socioculturales de España y la realización de las pruebas para la obtención de los Diplomas de Español como Lengua Extranjera.](BOE-A-2022-7454.md)
+- [Resolución de 26 de abril de 2022, del Instituto Cervantes, por la que se publica el Anejo al Convenio de encomienda de gestión a la Universidad Pompeu Fabra, para la realización de las pruebas de Conocimientos Constitucionales y Socioculturales de España y la realización de las pruebas para la obtención de los Diplomas de Español como Lengua Extranjera.](BOE-A-2022-7455.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Resolución de 18 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad interina de Huércal-Overa, por la que se suspende la cancelación de una anotación preventiva de embargo cautelar.](BOE-A-2022-7456.md)
+- [Resolución de 18 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por la registradora de la propiedad interina de Huércal-Overa, por la que se suspende la cancelación de una anotación preventiva de embargo cautelar.](BOE-A-2022-7457.md)
+- [Resolución de 18 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por la registradora de la propiedad interina de Huércal-Overa, por la que se suspende la cancelación de una anotación preventiva de embargo cautelar.](BOE-A-2022-7458.md)
+- [Resolución de 18 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por la registradora de la propiedad interina de Huércal-Overa, por la que se suspende la cancelación de una anotación preventiva de embargo cautelar.](BOE-A-2022-7459.md)
+- [Resolución de 19 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación del registrador de la propiedad de Antequera, por la que se deniega la inscripción de una escritura de adición de herencia.](BOE-A-2022-7460.md)
+- [Resolución de 19 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Zaragoza n.º 10, por la que se deniega la rectificación o cancelación de notas marginales de afección fiscal.](BOE-A-2022-7461.md)
+- [Resolución de 19 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Vilalba, por la que se suspende la pretensión de que se rectifique una georreferenciación inscrita en una finca ajena.](BOE-A-2022-7462.md)
+- [Resolución de 20 de abril de 2022, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación de registradora de la propiedad de Las Palmas de Gran Canaria n.º 1, por la que se suspende la inscripción de una escritura de compraventa.](BOE-A-2022-7463.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Resolución de 3 de mayo de 2022, del Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria, por la que se publica la revocación de números de identificación fiscal.](BOE-A-2022-7464.md)
+- [Resolución de 4 de mayo de 2022, de la Intervención General de la Administración del Estado, por la que se publican las "Operaciones de ejecución del Presupuesto del Estado y de sus modificaciones y operaciones de Tesorería" del mes de marzo de 2022.](BOE-A-2022-7465.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Resolución de 10 de marzo de 2022, de la Dirección Provincial del Servicio Público de Empleo Estatal en Málaga, por la que se modifica la de 26 de junio de 2018, por la que se crea y regula la Mesa Provincial de Contratación y se designan miembros.](BOE-A-2022-7466.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Airbus Defence and Space, SAU, Airbus Operations, SL, y Airbus Helicopters España, SA.](BOE-A-2022-7467.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de actualización de las tablas salariales para el año 2022 del IX Convenio colectivo de Ilunion Outsourcing, SA.](BOE-A-2022-7468.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de modificación del Convenio colectivo de Delcom Operador Logístico, SA.](BOE-A-2022-7469.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de modificación del Convenio colectivo de Tradia Telecom, SAU.](BOE-A-2022-7470.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de prórroga y revisión salarial para el año 2022 del Convenio colectivo estatal para las Delegaciones Comerciales de la Sociedad Estatal Loterías y Apuestas del Estado.](BOE-A-2022-7471.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de revisión salarial para el año 2022 del Convenio colectivo de Enercon Windenergy Spain, SL.](BOE-A-2022-7472.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Refresco Iberia, SAU, para los centros de trabajo de Oliva (Valencia) y Alcolea (Córdoba).](BOE-A-2022-7473.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo del Grupo Marítima Dávila.](BOE-A-2022-7474.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo estatal del sector de desinfección, desinsectación y desratización.](BOE-A-2022-7475.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registran y publican las tablas salariales definitivas para el año 2021 del Convenio colectivo nacional para las industrias de pastas alimenticias.](BOE-A-2022-7476.md)
+- [Resolución de 22 de abril de 2022, de la Dirección General de Trabajo, por la que se registran y publican las tablas salariales definitivas para el año 2021 y las iniciales para el año 2022 del VII Convenio colectivo estatal para las empresas de gestión y mediación inmobiliaria.](BOE-A-2022-7477.md)
+- [Resolución de 25 de abril de 2022, de la Dirección General de Trabajo, por la que se registra y publica el Acta por la que se modifica el VI Convenio colectivo general del sector de la construcción.](BOE-A-2022-7478.md)
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA
+
+- [Resolución de 3 de mayo de 2022, de la Gerencia del Consejo de Administración del Patrimonio Nacional, por la que se publica el Convenio entre la Fundación Santa Cruz del Valle de los Caídos y la Universidad de Granada, para la realización de actuaciones de identificación de restos y, en su caso, exhumaciones en el Valle de los Caídos.](BOE-A-2022-7479.md)
+- [Resolución de 28 de abril de 2022, de la Gerencia del Consejo de Administración del Patrimonio Nacional, por la que se publica el Convenio con la Universidad de Alcalá, para la realización de prácticas académicas externas.](BOE-A-2022-7480.md)
+- [Resolución de 27 de abril de 2022, de la Subsecretaría, por la que se publica el Convenio entre el Ministerio de Defensa y AENA, S.M.E., SA, para establecer las claves de reparto y los criterios de compensación por la utilización de las bases aéreas abiertas al tráfico civil de Villanubla, León, Albacete, Matacán y Talavera, y el aeródromo de utilización conjunta de Zaragoza por aeronaves civiles.](BOE-A-2022-7481.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Resolución de 26 de abril de 2022, de la Dirección General del Agua, por la que se publica la Adenda de modificación al Convenio con la Confederación Hidrográfica del Guadalquivir, O.A., y la Ciudad de Melilla, para establecer las líneas de colaboración para la ejecución y posterior cesión del uso, explotación y mantenimiento del sistema de abastecimiento de la Ciudad de Melilla.](BOE-A-2022-7482.md)
+- [Resolución de 27 de abril de 2022, de la Dirección General de Política Energética y Minas, por la que se fija el precio medio de la energía a aplicar en el cálculo de la retribución del servicio de gestión de la demanda de interrumpibilidad prestado por los consumidores de los sistemas eléctricos de los territorios no peninsulares a los que resulta de aplicación la Orden ITC/2370/2007, de 26 de julio, durante el segundo trimestre de 2022.](BOE-A-2022-7483.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Resolución de 28 de abril de 2022, de la Dirección General de Patrimonio Cultural y Bellas Artes, por la que se publica el Convenio con la Fundación Katarina Gurska, para la realización de actividades musicales en el Museo Nacional del Romanticismo.](BOE-A-2022-7484.md)
+
+### BANCO DE ESPAÑA
+
+- [Resolución de 21 de abril de 2022, del Banco de España, por la que se publica la inscripción en el Registro de entidades de crédito de Miralta Finance Bank, SA.](BOE-A-2022-7485.md)
+- [Resolución de 5 de mayo de 2022, del Banco de España, por la que se publican los cambios del euro correspondientes al día 5 de mayo de 2022, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.](BOE-A-2022-7486.md)
+
+### AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS
+
+- [Resolución de 26 de abril de 2022, de la Agencia Española de Protección de Datos, por la que se publican las sanciones superiores a un millón de euros impuestas a personas jurídicas.](BOE-A-2022-7487.md)
+
+## V. Anuncios. - A. Contratación del Sector Público
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Anuncio de licitación de: Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID). Objeto: Seguro colectivo de asistencia sanitaria y de accidentes para becarios y lectores españoles que viajan al extranjero, o extranjeros que viajan a un país que no es España y otro personal que participe en programas, proyectos o actividades de cooperación de la Agencia Española de Cooperación Internacional para el Desarrollo. Expediente: 2022/CTR/0900027.](BOE-B-2022-13928.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Centro. Objeto: Servicio de clases prácticas de preparación para la obtención del permiso de conducir "B" para alumnos de la Academia de Infantería. Expediente: 2022/ETSAE0038/00000351E.](BOE-B-2022-13929.md)
+- [Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de repuestos para maquinaria pesada de ingenieros. Expediente: 2022/ETSAE0906/00000632E.](BOE-B-2022-13930.md)
+- [Anuncio de licitación de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire. Objeto: 20222109 Adquisición de chalecos salvavidas de alta flotabilidad para usuarios paracaidistas. Expediente: 2022/EA02/00000603E.](BOE-B-2022-13931.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Suministro de neumáticos de vehículos de dotación en la UME 2022 Y 2023. Expediente: 2021/SP03038000/00002782E.](BOE-B-2022-13932.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Illes Balears. Objeto: Mantenimiento de las puertas con sistema de apertura automática existentes en los edificios de Illes Balears. Expediente: 22A40011000.](BOE-B-2022-13933.md)
+- [Anuncio de licitación de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Suministro de dos terminales satelitales de banda ancha, y el Servicio de comunicaciones satelitarias (voz/datos) para los mismos mediante tarifa plana, (batp) para la flota de buques de operaciones especiales del Departamento de Aduanas e IIEE. Expediente: 22710016200-22710016400.](BOE-B-2022-13934.md)
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Estatal de la Administración Tributaria en Cantabria. Objeto: Revisión de la calidad del aire interior de los edificios de la Delegación Especial de la AEAT en Cantabria. Expediente: 22A60019000.](BOE-B-2022-13935.md)
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Estatal de Administración Tributaria en Cataluña. Objeto: Redacción proyecto de rehabilitación restauración, consolidación y saneado integral de fachadas, cubiertas, esculturas y elementos de piedra Aduana de Barcelona. Expediente: 22A90020600.](BOE-B-2022-13936.md)
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en el País Vasco. Objeto: Servicio de limpieza para los edificios y embarcaciones de la Agencia Tributaria en Bizkaia. Expediente: 22B50010400.](BOE-B-2022-13937.md)
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Estatal de Administración Tributaria en Cataluña. Objeto: Suministro e instalación de una unidad autónoma partida (tipo bomba de calor) para integrar en sistema de climatización de la Administración AEAT Colón. Expediente: 22A90023800.](BOE-B-2022-13938.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Anuncio de formalización de contratos de: Subdirección General de Planificación y Gestión Económica. Objeto: Acuerdo Marco para el Suministro de TIVICAY a los Centros Penitenciarios dependientes de la Secretaría General de Instituciones Penitenciarias. Expediente: 02012022AF22.](BOE-B-2022-13939.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Anuncio de licitación de: ADIF Alta Velocidad - Consejo de Administración. Objeto: Servicios de consultoría y asistencia técnica para la integración ambiental de los proyectos y de las obras encomendadas a Adif y Adif-AV. Expediente: 4.22/20830.0063.](BOE-B-2022-13940.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Acuerdo Marco de prestación de servicios de diseño, realización y asesoría de comunicación en eventos, presentaciones, RR.SS, y actos protocolarios de la Dirección de Comunicación y Reputación Corporativa. Expediente: 2.21/42110.0206.](BOE-B-2022-13941.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Consultoría y asistencia técnica para el control de la ejecución de las obras del proyecto constructivo de implantación de plataforma logística en Mérida y de las instalaciones de seguridad y señalización asociadas a la conexión con la Red Ferroviaria de Interés General. Expediente: 2.21/06110.0209.](BOE-B-2022-13942.md)
+- [Anuncio de formalización de contratos de: ADIF - Consejo de Administración. Objeto: Ejecución de obras del proyecto constructivo de duplicación de vía en el tramo Renedo-Guarnizo y otras actuaciones en la línea de cercanías C-1 entre Torrelavega y Renedo. Expediente: 3.21/27110.0231.](BOE-B-2022-13943.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Trabajos de actualización y mejora del software del control automatizado de Subestaciones Móviles. Expediente: 3.21/27520.0104.](BOE-B-2022-13944.md)
+- [Anuncio de licitación de: ADIF - Presidencia. Objeto: Implantación De Una Solución Integral Para La Gestión De Las Asistencias En Las Estaciones A Personas Con Movilidad Reducida En Un Contexto Multiempresa. Expediente: 4.22/41110.0017.](BOE-B-2022-13945.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Asistencia técnica para el control y vigilancia de la obra "Proyecto constructivo para renovación de la señalización en la Red de Cercanías de Madrid-Zona Norte". Expediente: 3.21/27507.0103.](BOE-B-2022-13946.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicios de Asistencia Técnica durante la realización de los trabajos para renovación integral de la línea aérea de contacto Girona-Figueres. Expediente: 3.21/27507.0158.](BOE-B-2022-13947.md)
+- [Anuncio de licitación de: ADIF - Consejo de Administración. Objeto: Suministro y transporte de traviesas para la mejora integral de la línea Huesca-Canfranc. Línea bif. Canfranc-Canfranc (L-204). Tramo: Ayerbe- Caldearenas. Expediente: 3.21/27510.0186.](BOE-B-2022-13948.md)
+- [Anuncio de licitación de: ADIF - Consejo de Administración. Objeto: Obras de ejecución de los proyectos de accesibilidad y de reforma del edificio de viajeros de la estación de Alcalá de Henares (Madrid). Expediente: 3.22/24108.0035.](BOE-B-2022-13949.md)
+- [Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 30.614/21-2; PYO 527/21 Control y vigilancia de las obras de conservación en la Demarcación de Carreteras del Estado en Castilla y León Oriental. Provincia de Burgos. Expediente: 230210927919.](BOE-B-2022-13950.md)
+
+### MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
+
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Educación y Formación Profesional. Objeto: Obras de renovación parcial de instalación de climatización del edificio del Ministerio de Educación y Formación Profesional de la calle Torrelaguna 58 de Madrid. Expediente: JS220006.](BOE-B-2022-13951.md)
+- [Anuncio de licitación de: Dirección General de Planificación y Gestión Educativa. Objeto: Prestación del servicio para la organización y realización de un Programa de Inmersión lingüística en lengua inglesa, organizado por el Ministerio de Educación y Formación Profesional, para alumnado de 6º de Educación Primaria y 2º de ESO, en colaboración con las Comunidades Autónomas y las Ciudades Autónomas de Ceuta y Melilla, durante el curso 2022/2023. Expediente: M220003.](BOE-B-2022-13952.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Anuncio de formalización de contratos de: Dirección General del Servicio Público de Empleo Estatal. Objeto: Servicio para la alfabetización digital de personas trabajadoras contratadas en el marco del plan de fomento del empleo agrario, profea (c19.i3, plan de recuperación, transformación y resiliencia de la economía española). Expediente: PA 3/22.](BOE-B-2022-13953.md)
+- [Anuncio de formalización de contratos de: Dirección Provincial del Servicio Público de Empleo Estatal en Córdoba. Objeto: servicio de Limpieza del Edificio Administrativo "Vagón". Expediente: PA 4/2022.](BOE-B-2022-13954.md)
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA
+
+- [Anuncio de formalización de contratos de: Dirección del Centro de Estudios Políticos y Constitucionales. Objeto: Suscripción, suministro y acceso a publicaciones periódicas y recursos integrables para el Centro de Estudios Políticos y Constitucionales. Expediente: 2021/102-SM.](BOE-B-2022-13955.md)
+
+### MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL
+
+- [Anuncio de formalización de contratos de: Instituto Nacional de Estadística INE. Objeto: Servicio de polifuncionales en las dependencias de la Delegación Provincial de La Rioja del Instituto Nacional de Estadística, por procedimiento abierto con pluralidad de criterios. Expediente: 2021N1071037.](BOE-B-2022-13956.md)
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Asuntos Económicos y Transformación Digital . Objeto: Servicios de asesoría jurídica para la elaboración de estudios en materia de Sociedad Digital. Expediente: 202100000525 .](BOE-B-2022-13957.md)
+
+### MINISTERIO DE CIENCIA E INNOVACIÓN
+
+- [Anuncio de licitación de: Dirección General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Redacción de proyecto básico y de ejecución, prestación de la dirección facultativa de la obra y la coordinación de seguridad y salud para la obra consistente en la habilitación de nuevos espacios de formación e investigación y reformas asociadas además de la mejora de la eficiencia energética en el edificio 1 del CIEMAT-MADRID. Expediente: 290810.](BOE-B-2022-13958.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Obras de derribo, consolidación, desescombrado y vaciado del antiguo convento de las Freylas de Santiago, para la nueva sede del instituto de Arqueología de Mérida con destino al CENTRO DE CIENCIAS HUMANAS Y SOCIALES. Expediente: 1800/22.](BOE-B-2022-13959.md)
+- [Anuncio de licitación de: Dirección General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Redacción del proyecto básico y de ejecución, prestación de la dirección facultativa de la obra y la coordinación de seguridad y salud para la obra consistente en la habilitación de nuevos espacios de investigación y reformas asociadas además de la mejora de la eficiencia energética en el edificio 3 del CIEMAT-MADRID. Expediente: 290811.](BOE-B-2022-13960.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Anuncio de licitación de: TGSS-Dirección provincial de Bizkaia. Objeto: Prestación de los servicios de vigilancia y seguridad de la Dirección Provincial y las Administraciones de la Tesorería General de la Seguridad Social en Bizkaia y de guarda del pabellón de depósito de bienes. Expediente: 48PA02/2023.](BOE-B-2022-13961.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Toledo. Objeto: Contratación del servicio de limpieza de las oficinas administrativas dependientes de la Dirección Provincial de la TGSS de Toledo . Expediente: 45-2021/50/CM.](BOE-B-2022-13962.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Ourense. Objeto: Servicio de vigilancia y seguridad de la Dirección Provincial de la TGSS y el INSS de Ourense. Expediente: 32T/PASVC-0001/22.](BOE-B-2022-13963.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Zaragoza. Objeto: Reconocimientos médicos laborales con analíticas de sangre y orina, específico oftalmológico, específico para la prevención del cáncer de próstata, específico para la prevención del cáncer ginecológico, para el personal dependiente de las unidades de la Dirección Provincial de la TGSS de Zaragoza. Expediente: 50/PAs-11/22T.](BOE-B-2022-13964.md)
+- [Anuncio de formalización de contratos de: INSS-Dirección provincial de Jaén. Objeto: Suministro e instalación de 20 bucles magnéticos en los puestos de trabajo de los centros dependientes de la Dirección Provincial del INSS de Jaén ubicados en calle Dr. Fleming, 8 de Andújar y Avda. Madrid, 70 de Jaén. Expediente: 23/UC-86/22.](BOE-B-2022-13965.md)
+- [Anuncio de formalización de contratos de: INSS-Dirección provincial de Jaén. Objeto: Exámenes para vigilancia de la salud al personal de la Dirección Provincial del Instituto Nacional de la Seguridad Social en Jaén y Centros dependientes de la misma para el año 2022, así como vigilancia de la salud en determinadas situaciones según lo previsto en el artículo 37.3.b) del RD 39/1997, de 17 de enero, por el que se aprueba el Reglamento de losServicios de Prevención. Expediente: 23/VC-195/22.](BOE-B-2022-13966.md)
+
+### OTROS PODERES ADJUDICADORES
+
+- [Anuncio de GRANOLLERS TRANSPORT S.L., sobre la licitación de un Acuerdo Marco para el suministro de 25 autobuses 100% eléctricos de Clase I de 12 metros y suministro e instalación de sus correspondientes 25 cargadores. Exp SAG2022/03.](BOE-B-2022-13967.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Anuncio de la Delegación de Economía y Hacienda en Pontevedra por el que se convoca segunda y tercera subasta de una finca urbana en Vilagarcía de Arousa.](BOE-B-2022-13968.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Extracto de la Resolución de 29 de abril de 2022, por la que se convocan subvenciones a las asociaciones profesionales de guardias civiles para el año 2022](BOE-B-2022-13969.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Resolución de la Autoridad Portuaria de Castellón, sobre delegación de competencias.](BOE-B-2022-13970.md)
+- [Anuncio de la Autoridad Portuaria de A Coruña por el que se publica el otorgamiento de una concesión en la Dársena de Oza.](BOE-B-2022-13971.md)
+- [Anuncio de la Autoridad Portuaria de A Coruña de inicio del trámite de competencia de proyectos para la solicitud de una concesión administrativa en el Puerto Exterior de A Coruña, a nombre de EUROASH RECYCLING CORPORATION, S.L. (CL022).](BOE-B-2022-13972.md)
+- [Resolución de la Autoridad Portuaria de la Bahía de Algeciras por la que se publica el concurso para la selección de una oferta para el otorgamiento de la concesión administrativa del saladero nº. 35, de 73,98 m2, en el Puerto de Tarifa con destino a la manipulación de pescado.](BOE-B-2022-13973.md)
+- [Resolución de la Autoridad Portuaria de Baleares por la que se otorga la licencia para la prestación del servicio portuario de recepción de desechos generados por buques y residuos de carga (Anexo IV Convenio Marpol) en los puertos de Palma, Alcúdia, Maó, Eivissa y la Savina a la empresa SERTEGO, SERVICIOS MEDIOAMBIENTALES, S.L.U.](BOE-B-2022-13974.md)
+- [Resolución de la Autoridad Portuaria de Baleares por la que se otorga la licencia para la prestación del servicio portuario de recepción de desechos generados por buques y residuos de carga (Anexos I y VI Convenio Marpol) en los puertos de Palma, Alcúdia, Maó, Eivissa y la Savina a la empresa SERVMAR BALEAR, S.L.](BOE-B-2022-13975.md)
+- [Anuncio de la Autoridad Portuaria de Santander, por el que se somete a información pública la solicitud presentada por la sociedad Noatum Terminal Santander, S.A.U., de modificación de la concesión, de la que es titular, en el Espigón norte de Raos del Puerto de Santander.](BOE-B-2022-13976.md)
+- [Resolución de la Autoridad Portuaria de Baleares por la que se otorga la licencia para la prestación del servicio portuario de recepción de desechos generados por buques y residuos de carga (Anexos I y VI Convenio Marpol) en los puertos de Palma, Alcúdia, Maó, Eivissa y la Savina a la empresa SERTEGO, SERVICIOS MEDIOAMBIENTALES, S.L.U.](BOE-B-2022-13977.md)
+- [Resolución de la Autoridad Portuaria de Baleares de otorgamiento de concesión administrativa a la Cofradía de Pescadores de Formentera.](BOE-B-2022-13978.md)
+- [Resolución de la Autoridad Portuaria de Cartagena por la que se hace público el otorgamiento de concesión administrativa a "Agrupación de Boteros Amarradores del Puerto de Cartagena, S.L.", con destino al "Uso del edificio que incluye fosa séptica, ubicado en el Dique-Muelle de Curra", como base para la prestación del servicio portuario de amarre y desamarre de buques en el Puerto de Cartagena".](BOE-B-2022-13979.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Extracto de la Resolución de 29 de Abril de 2022 de la Subsecretaría de Trabajo y Economía Social de la convocatoria para el ejercicio 2022 de concesión de subvenciones a las organizaciones sindicales en proporción a su representatividad, por la realización de actividades de carácter sindical](BOE-B-2022-13980.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL
+
+- [Anuncio del Área de Industria y Energía de la Delegación del Gobierno en Castilla-La Mancha por el que se somete a información pública la modificación de la infraestructura de evacuación incluida en la solicitud de Autorización Administrativa Previa y Declaración de Impacto Ambiental de las plantas fotovoltaicas FV Sextante Solar de 100 MWp, FV Zuncho Solar de 100 MWp, FV Sentina Solar de 100 MWp, FV Perdiguero Solar 100 MWp y de las infraestructuras de evacuación Subestación transformadora Camarena 220/30 kV, Línea aérea-subterránea en 220 kV Camarena - Moraleja REE220, Subestación transformadora San Andrés 220/30 kV, E/S en la ST San Andrés de la L/220kV Camarena - MoralejaREE220. La modificación afecta a los términos municipales de Chozas de Canales, Lominchar, Palomeque, Cedillo del Condado, El Viso de San Juan y Carranque (Toledo), y Serranillos del Valle, Batres, Griñón y Moraleja de Enmedio (Madrid) acumuladas en el expediente asociado PFot-248 AC.](BOE-B-2022-13981.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Resolución de la Confederación Hidrográfica del Segura, O.A., por la que se inicia el expediente de expropiación forzosa y se declara la necesidad de ocupación de las parcelas afectadas por el Proyecto de sustitución de la tubería de impulsión vinculada a las estaciones de bombeo de la red de drenajes del campo de Cartagena. Tramo: P.K. 0+000 a P.K. 1+600, en N-332 y Av. Jose Sazatornil. TT.MM. de Cartagena y Los Alcázares (Murcia).](BOE-B-2022-13982.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Extracto de la resolución, de 29 de abril de 2022, de la Presidencia del Consejo Superior de Deportes, por la que se convocan subvenciones a las Federaciones Deportivas Españolas para el desarrollo de los Campeonatos de España en edad escolar por selecciones autonómicas correspondientes al año 2022.](BOE-B-2022-13983.md)
+
+### UNIVERSIDADES
+
+- [Anuncio de la Facultad de Geografia e Historia de la Universidad de Barcelona sobre extravío de título universitario.](BOE-B-2022-13984.md)
+- [Anuncio de la Facultad de Traducción y de Interpretación de la Universidad Autónoma de Barcelona sobre extravío de título universitario.](BOE-B-2022-13985.md)
+- [Anuncio de la Facultad de Medicina y Ciencias de la Salud de la Universidad de Barcelona sobre extravío de título universitario.](BOE-B-2022-13986.md)
+- [Anuncio de la Facultad de Filología y Comunicación de la Universidad de Barcelona sobre extravío de título universitario.](BOE-B-2022-13987.md)
+- [Anuncio de la Universidad de Cádiz sobre extravío de título universitario.](BOE-B-2022-13988.md)
+- [Anuncio de la Secretaría General de la Universidad de Málaga sobre extravío de título universitario.](BOE-B-2022-13989.md)
+- [Anuncio de Escuela de Enfermería La Fe de la Universidad de Valencia sobre extravío de título universitario.](BOE-B-2022-13990.md)
+- [Anuncio de la Facultad de Medicina de la Universidad de Murcia sobre extravío de título universitario.](BOE-B-2022-13991.md)
+- [Anuncio de la Escuela Técnica Superior de Ingenieros Industriales de la Universidad Politécnica de Madrid sobre extravío de título universitario.](BOE-B-2022-13992.md)
