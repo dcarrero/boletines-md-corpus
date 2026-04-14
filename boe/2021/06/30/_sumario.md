@@ -1,0 +1,321 @@
+---
+fuente: "BOE"
+fecha: "2021-06-30"
+diario_numero: "155"
+total_documentos: 133
+---
+
+# BOE núm. 155 — 2021-06-30
+
+## I. Disposiciones generales
+
+### JEFATURA DEL ESTADO
+
+- [Corrección de errores del Real Decreto-ley 13/2021, de 24 de junio, por el que se modifican la Ley 2/2021, de 29 de marzo, de medidas urgentes de prevención, contención y coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19, y el Real Decreto-ley 26/2020, de 7 de julio, de medidas de reactivación económica para hacer frente al impacto del COVID-19 en los ámbitos de transportes y vivienda.](BOE-A-2021-10818.md)
+
+### TRIBUNAL CONSTITUCIONAL
+
+- [Recurso de inconstitucionalidad n.º 2901-2021, contra el artículo único, apartado cinco, de la Ley 8/2021, de 25 de febrero, de modificación de la Ley 8/2008, de 10 de julio, de salud de Galicia, en la redacción que da al apartado 2 del artículo 38 de la Ley 8/2008.](BOE-A-2021-10819.md)
+- [Recurso de inconstitucionalidad n.º 4057-2021, contra Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia; y, subsidiariamente, contra los artículos 1; 3, apartados b), c), d), e) y h); 5, apartados 1 c) y 2; 4.1; 6.4; 7.2; 8.4, 9; 12 a) apartado 4; 16; 17; 18 a) párrafo 4; disposiciones adicionales primera y sexta; y disposición final tercera (en relación con el artículo 16.1 y disposición adicional sexta) de la mencionada ley orgánica.](BOE-A-2021-10820.md)
+- [Cuestión de inconstitucionalidad n.º 3492-2021, en relación con la disposición adicional trigésima, apartados 2, 3, 4 y 5, de la Ley del Parlamento de Cataluña 12/2009, redactados por el art. 172.3 de la Ley del Parlamento de Cataluña 5/2020.](BOE-A-2021-10821.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Real Decreto 469/2021, de 29 de junio, por el que se modifica el Real Decreto 664/2015, de 17 de julio, por el que se aprueba el Reglamento de Circulación Ferroviaria.](BOE-A-2021-10822.md)
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA
+
+- [Real Decreto 471/2021, de 29 de junio, por el que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio para el curso 2021-2022, y se modifica parcialmente el Real Decreto 1721/2007, de 21 de diciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas.](BOE-A-2021-10823.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Real Decreto 477/2021, de 29 de junio, por el que se aprueba la concesión directa a las comunidades autónomas y a las ciudades de Ceuta y Melilla de ayudas para la ejecución de diversos programas de incentivos ligados al autoconsumo y al almacenamiento, con fuentes de energía renovable, así como a la implantación de sistemas térmicos renovables en el sector residencial, en el marco del Plan de Recuperación, Transformación y Resiliencia.](BOE-A-2021-10824.md)
+- [Resolución de 24 de junio de 2021, de la Dirección General de Política Energética y Minas, por la que se publica la tarifa de último recurso de gas natural.](BOE-A-2021-10825.md)
+
+### MINISTERIO DE SANIDAD
+
+- [Orden SND/682/2021, de 29 de junio, de declaración de medicamentos, productos y servicios sanitarios como bienes de contratación centralizada.](BOE-A-2021-10826.md)
+
+## II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Acuerdo de 3 de junio de 2021, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se procede al nombramiento urgente de Jueces y Juezas sustitutos/as para el año judicial 2020/2021, en el ámbito del Tribunal Superior de Justicia de Canarias.](BOE-A-2021-10827.md)
+- [Acuerdo de 24 de marzo de 2021, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria del Magistrado don Joaquín Luis Astor Landete.](BOE-A-2021-10828.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Real Decreto 478/2021, de 29 de junio, por el que se dispone el cese de doña Ana María Galdeano Santamaría como Fiscal adscrita a la Fiscal de Sala contra la Violencia sobre la Mujer de la Fiscalía General del Estado.](BOE-A-2021-10829.md)
+- [Orden JUS/683/2021, de 22 de junio, por la que se reingresa al servicio activo en la Carrera Fiscal a doña María Ana Linares-Rivas Tovar.](BOE-A-2021-10830.md)
+
+### MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
+
+- [Orden EFP/684/2021, de 23 de junio, por la que se dispone el cese y nombramiento de Consejeros titulares y sustitutos del Consejo Escolar del Estado, por el grupo de titulares de centros docentes privados y el grupo de representantes de organizaciones empresariales.](BOE-A-2021-10831.md)
+- [Orden EFP/685/2021, de 23 de junio, por la que se publica el cese y nombramiento de Consejero titular del Consejo Escolar del Estado, por el grupo de los Presidentes de los Consejos Escolares de ámbito autonómico.](BOE-A-2021-10832.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Real Decreto 479/2021, de 29 de junio, por el que se dispone el cese de doña Blanca Cano Sánchez como Secretaria General Técnica del Ministerio de Trabajo y Economía Social.](BOE-A-2021-10833.md)
+- [Real Decreto 480/2021, de 29 de junio, por el que se nombra Secretaria General Técnica a doña Consolación Rodríguez Alba.](BOE-A-2021-10834.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA
+
+- [Resolución de 24 de junio de 2021, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se nombran funcionarios de carrera, por el sistema general de acceso libre y promoción interna, del Cuerpo Superior de Vigilancia Aduanera, especialidades de Investigación, Navegación y Propulsión.](BOE-A-2021-10835.md)
+- [Resolución de 24 de junio de 2021, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se nombran funcionarios de carrera, por el sistema general de acceso libre, del Cuerpo Especial Facultativo de Marina Civil.](BOE-A-2021-10836.md)
+- [Resolución de 24 de junio de 2021, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se nombran funcionarios de carrera, por el sistema general de acceso libre, del Cuerpo de Ingenieros Navales.](BOE-A-2021-10837.md)
+- [Resolución de 29 de junio de 2021, de la Secretaría de Estado de Política Territorial y Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, de la Escala de Agentes Medioambientales de Organismos Autónomos del Ministerio de Medio Ambiente.](BOE-A-2021-10838.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 17 de junio de 2021, de la Universidad Carlos III de Madrid, por la que se nombran funcionarios de cuerpos docentes universitarios.](BOE-A-2021-10839.md)
+- [Resolución de 17 de junio de 2021, de la Universidad Autónoma de Madrid, por la que se nombra Profesor Titular de Universidad a don Carlos Gil Burmann.](BOE-A-2021-10840.md)
+- [Resolución de 21 de junio de 2021, de la Universidad de Jaén, por la que se nombra Profesor Titular de Universidad a don José Ignacio Jiménez González.](BOE-A-2021-10841.md)
+- [Resolución de 21 de junio de 2021, de la Universidad de Málaga, por la que se nombra Profesora Titular de Universidad a doña Ana María Casado Molina.](BOE-A-2021-10842.md)
+- [Resolución de 22 de junio de 2021, de la Universidad Complutense de Madrid, por la que se nombra Profesor Titular de Universidad a don Javier Olea Ariza. Se cambia la fecha de publicación a petición de la SGSAAyDD.](BOE-A-2021-10843.md)
+- [Resolución de 22 de junio de 2021, de la Universidad Complutense de Madrid, por la que se nombran Profesores Titulares de Universidad.](BOE-A-2021-10844.md)
+
+## II. Autoridades y personal. - B. Oposiciones y concursos
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Resolución de 22 de junio de 2021, del Instituto Cervantes, por la que se convocan plazas de directores/as de centros en el exterior.](BOE-A-2021-10845.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Resolución 430/38243/2021, de 21 de junio, de la Dirección General de Personal, por la que se convoca vacante en los órganos judiciales de la jurisdicción militar.](BOE-A-2021-10846.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Resolución de 24 de junio de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se aprueba la relación de admitidos y excluidos y se anuncia fecha, hora y lugar de celebración del primer ejercicio del proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Agentes del Servicio de Vigilancia Aduanera, especialidades de Investigación y Marítima, convocado por Resolución de 22 de abril de 2021.](BOE-A-2021-10847.md)
+- [Resolución de 24 de junio de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se publica la relación de aprobados en la fase de oposición y en las fases de oposición y concurso, de los procesos selectivos para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Técnico de Hacienda, convocados por Resolución de 20 de diciembre de 2019.](BOE-A-2021-10848.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Resolución de 23 de junio de 2021, de la Subsecretaría, por la que se modifica la composición del Tribunal calificador del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Facultativo de Archiveros, Bibliotecarios y Arqueólogos, convocado por Resolución de 7 de mayo de 2021.](BOE-A-2021-10849.md)
+
+### MINISTERIO DE SANIDAD
+
+- [Corrección de errores de la Resolución de 13 de mayo de 2021, del Instituto Nacional de Gestión Sanitaria, por la que se convoca proceso selectivo para acceso a la condición de personal estatutario fijo, en plazas de la categoría de Grupo Técnico de la Función Administrativa.](BOE-A-2021-10850.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 17 de junio de 2021, de la Universitat de València, por la que se convocan pruebas selectivas de acceso, por el sistema general de acceso libre, a la Escala de Ayudantes de Archivos, Bibliotecas y Museos (Subgrupo A2).](BOE-A-2021-10851.md)
+
+## III. Otras disposiciones
+
+### CORTES GENERALES
+
+- [Resolución de 24 de junio de 2021, del Defensor del Pueblo, por la que se convoca procedimiento de designación de Vocales para la renovación parcial del Consejo Asesor del Mecanismo Nacional de Prevención de la Tortura.](BOE-A-2021-10852.md)
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Real Decreto 481/2021, de 29 de junio, por el que se concede la Gran Cruz de la Orden de Isabel la Católica a don Alfredo Pérez de Armiñán y de la Serna.](BOE-A-2021-10853.md)
+- [Real Decreto 482/2021, de 29 de junio, por el que se concede la Gran Cruz de la Orden de Isabel la Católica a don Emilio Lamo de Espinosa y Michels de Champourcin.](BOE-A-2021-10854.md)
+- [Resolución de 21 de junio de 2021, de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo, por la que se publica el Convenio con la Asociación Cesal, para la colaboración en el mantenimiento y despliegue del hospital EMT2 Start en emergencias humanitarias.](BOE-A-2021-10855.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Resolución de 21 de junio de 2021, de la Dirección General para el Servicio Público de Justicia, por la que se aprueban las relaciones de puestos de trabajo del Cuerpo de Letrados de la Administración de Justicia de las oficinas judiciales de La Bisbal d'Empordà y Berga.](BOE-A-2021-10856.md)
+- [Resolución de 22 de junio de 2021, de la Dirección General para el Servicio Público de Justicia, por la que se aprueban las relaciones de puestos de trabajo del Cuerpo de Letrados de la Administración de Justicia de la Secretaría de Gobierno de la Comunidad Valenciana y el partido judicial de Segorbe.](BOE-A-2021-10857.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Resolución 420/38247/2021, de 8 de marzo, de la Secretaría General Técnica, por la que se publica el Convenio entre el Instituto Nacional de Técnica Aeroespacial "Esteban Terradas" y la Universidad Autónoma de Madrid, para colaborar en el ámbito de la astrobiología.](BOE-A-2021-10858.md)
+- [Resolución 420/38249/2021, de 24 de junio, de la Secretaría General Técnica, por la que se publica el Convenio entre la Universidad Politécnica de Madrid y el Instituto Nacional de Técnica Aeroespacial "Esteban Terradas", para desarrollar el proyecto "Auscultación de procesos activos sobre la ladera y la costa acantilada del entorno próximo a la base española Gabriel de Castilla".](BOE-A-2021-10859.md)
+- [Resolución 420/38251/2021, de 24 de junio, de la Secretaría General Técnica, por la que se publica el Convenio con la Universidad de Deusto, para el desarrollo de actividades docentes de investigación, difusión y debate sobre seguridad y defensa, y prácticas de formación curricular.](BOE-A-2021-10860.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Resolución de 10 de junio de 2021, de la Dirección General del Patrimonio del Estado, por la que se publican las cesiones gratuitas acordadas durante el año 2020.](BOE-A-2021-10861.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Resolución de 18 de mayo de 2021, de la Autoridad Portuaria de Ceuta, por la que se publica el Convenio con la Asociación Ambilamp, para implantar mecanismos que faciliten la recogida selectiva de residuos de aparatos eléctricos y electrónicos.](BOE-A-2021-10862.md)
+
+### MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
+
+- [Orden EFP/686/2021, de 18 de junio, por la que se autoriza la implantación de enseñanzas de formación profesional en centros públicos de Ceuta y Melilla a partir del curso 2021/2022.](BOE-A-2021-10863.md)
+- [Orden EFP/687/2021, de 18 de junio, por la que se autoriza la implantación de programas formativos de formación profesional para alumnos y alumnas con necesidades educativas especiales en el Centro de Educación Especial San Antonio de Ceuta y el Centro Integrado de Formación Profesional Reina Victoria Eugenia de Melilla.](BOE-A-2021-10864.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Resolución de 25 de junio de 2021, de la Secretaría General de Agricultura y Alimentación, por la que se publica la Adenda de modificación y prórroga al Convenio con CaixaBank, SA, para el desarrollo de actuaciones en materia de mejora competitiva, implementación financiera y gestión de información relativa al sector agrario, pesquero y agroalimentario.](BOE-A-2021-10865.md)
+- [Resolución de 19 de junio de 2021, de la Secretaría General de Pesca, por la que se lleva a cabo el reparto de la cuota de rape de la zona 7 de ICES (ANF/07) a cambio de stocks repartidos y no repartidos por intercambio con Francia y Bélgica.](BOE-A-2021-10866.md)
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES Y MEMORIA DEMOCRÁTICA
+
+- [Orden PCM/688/2021, de 29 de junio, por la que se publica el Acuerdo del Consejo de Ministros de 22 de junio de 2021, por el que se crea una Comisión de trabajo para el asesoramiento forense sobre las actuaciones previstas para la exhumación y la identificación de los restos de personas en las criptas del Valle de los Caídos.](BOE-A-2021-10867.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Resolución de 22 de junio de 2021, del Museo Nacional Centro de Arte Reina Sofía, por la que se publica el Convenio con el Centro Europeo para la Difusión de las Ciencias Sociales, para la colaboración en proyectos culturales conjuntos.](BOE-A-2021-10868.md)
+
+### MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL
+
+- [Resolución de 29 de junio de 2021, de la Secretaría General del Tesoro y Financiación Internacional, por la que se publica el tipo legal de interés de demora aplicable a las operaciones comerciales durante el segundo semestre natural del año 2021.](BOE-A-2021-10869.md)
+- [Circular 1/2021, de 17 de junio, de la Dirección General de Seguros y Fondos de Pensiones, relativa a aspectos cuantitativos y cualitativos necesarios para garantizar la adecuación de las hipótesis biométricas aplicadas en el cálculo de las tarifas de primas, de las provisiones técnicas contables y de las provisiones técnicas de solvencia; y de modificación de la Circular 1/2018, de 17 de abril, por la que se desarrollan los modelos de informes, las guías de actuación y la periodicidad del alcance del informe especial de revisión del informe sobre la situación financiera y de solvencia, individual y de grupos, y el responsable de su elaboración.](BOE-A-2021-10870.md)
+
+### MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030
+
+- [Resolución de 17 de junio de 2021, del Instituto de Mayores y Servicios Sociales, por la que se convocan plazas para personas mayores que deseen participar en el Programa de Turismo.](BOE-A-2021-10871.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Resolución de 23 de junio de 2021, de la Secretaría General Técnica, por la que se publica el Convenio entre la Tesorería General de la Seguridad Social, el Instituto Social de la Marina y la Generalitat Valenciana, en materia estadística.](BOE-A-2021-10872.md)
+
+### BANCO DE ESPAÑA
+
+- [Resolución de 29 de junio de 2021, del Banco de España, por la que se publican los cambios del euro correspondientes al día 29 de junio de 2021, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.](BOE-A-2021-10873.md)
+
+### COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA
+
+- [Resolución de 18 de junio de 2021, de la Secretaría del Consejo de la Comisión Nacional de los Mercados y la Competencia, por la que se emplaza a los interesados en el recurso contencioso-administrativo 4/917/2021, interpuesto ante la Audiencia Nacional contra la Resolución de 25 de marzo de 2021, por la que se establece el valor del Índice Global de Ratios de 2021 de las empresas que realizan las actividades de transporte y distribución de energía eléctrica y las actividades de transporte, regasificación, almacenamiento subterráneo y distribución de gas natural.](BOE-A-2021-10874.md)
+
+### COMUNIDAD AUTÓNOMA DE CATALUÑA
+
+- [Resolución CLT/1858/2021, de 10 de junio, por la que se incoa expediente de declaración de bien cultural de interés nacional a favor del mural Acid, de Keith Haring, situado en la calle Atenes, 27, de Barcelona.](BOE-A-2021-10875.md)
+
+## V. Anuncios. - A. Contratación del Sector Público
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Anuncio de licitación de: Dirección General del Servicio Exterior. Objeto: Servicio de mantenimiento integral de los edificios de la cancillería, residencia y vivienda del cónsul adjunto del Consulado General de España en Londres. Expediente: SER-21/005.](BOE-B-2021-31494.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Justicia. Objeto: Suministro por lotes (2) de gasóleo de calefacción en edificios administrativos y sedes judiciales adscritos a Gerencias Territoriales del Ministerio de Justicia. Expediente: ASU/2020/222.](BOE-B-2021-31495.md)
+- [Anuncio de licitación de: Junta de Contratación del Ministerio de Justicia. Objeto: Servicio de información multicanal del Ministerio de Justicia. Expediente: ASE-2021-029.](BOE-B-2021-31496.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de materiales de diversa naturaleza (carpintería de madera, elementos de cerrajería y metal, sistemas de climatización, electricidad, ferretería, fontanería y saneamiento, revestimientos de pintura y cubiertas) para la B.A. Armilla. Expediente: 2021/EA24/00000308E.](BOE-B-2021-31497.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de materiales de diversa naturaleza (carpintería de madera, elementos de cerrajería y metal, sistemas de climatización, electricidad, ferretería, fontanería y saneamiento, revestimientos de pintura y cubiertas) para la B.A. Armilla. Expediente: 2021/EA24/00000308E.](BOE-B-2021-31498.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de materiales de diversa naturaleza (carpintería de madera, elementos de cerrajería y metal, sistemas de climatización, electricidad, ferretería, fontanería y saneamiento, revestimientos de pintura y cubiertas) para la B.A. Armilla. Expediente: 2021/EA24/00000308E.](BOE-B-2021-31499.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de materiales de diversa naturaleza (carpintería de madera, elementos de cerrajería y metal, sistemas de climatización, electricidad, ferretería, fontanería y saneamiento, revestimientos de pintura y cubiertas) para la B.A. Armilla. Expediente: 2021/EA24/00000308E.](BOE-B-2021-31500.md)
+- [Anuncio de formalización de contratos de la Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de materiales de diversa naturaleza (carpintería de madera, elementos de cerrajería y metal, sistemas de climatización, electricidad, ferretería, fontanería y saneamiento, revestimientos de pintura y cubiertas) para la B.A. Armilla. Expediente: 2021/EA24/00000308E.](BOE-B-2021-31501.md)
+- [Anuncio de formalización de contratos de la Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de materiales de diversa naturaleza (carpintería de madera, elementos de cerrajería y metal, sistemas de climatización, electricidad, ferretería, fontanería y saneamiento, revestimientos de pintura y cubiertas) para la B.A. Armilla. Expediente: 2021/EA24/00000308E.](BOE-B-2021-31502.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de materiales de diversa naturaleza (carpintería de madera, elementos de cerrajería y metal, sistemas de climatización, electricidad, ferretería, fontanería y saneamiento, revestimientos de pintura y cubiertas) para la B.A. Armilla. Expediente: 2021/EA24/00000308E.](BOE-B-2021-31503.md)
+- [Anuncio de formalización de contratos de: Dirección General del INTA M.P. Objeto: Calibración controladores vibración abacus. Expediente: 582021026100.](BOE-B-2021-31504.md)
+- [Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: Servicio de Peluquerías en diversas BAE,s del área de responsabilidad geográfica de la 2.ª Subinspección General del Ejercito Sur (SUIGESUR). Por Lotes. Expediente: 2022620018700.](BOE-B-2021-31505.md)
+- [Anuncio de licitación de: Intendente de Rota. Objeto: Servicio de mantenimiento del sistema de control de plataformas de buques apoyados por el Arsenal de Cádiz. Expediente: 2021/AR46U/00000471E.](BOE-B-2021-31506.md)
+- [Anuncio de licitación de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire. Objeto: 20212034 Repuestos de célula para el helicóptero SIKORSKY S-76 (HE.24). Expediente: 2021/EA02/00000734E.](BOE-B-2021-31507.md)
+- [Anuncio de licitación de la Jefatura de la Sección Económico Financiera de la Dirección General de Infraestructura. Objeto: Servicios de asistencia técnica y soporte del sistema gestor unificado de información de imágenes de la i3d del Ministerio de Defensa (GUÍA-SIGESTREDI). Expediente: 2021/SP03032003/00000969E.](BOE-B-2021-31508.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Anuncio de formalización de contratos de: Delegación Especial de la Agencia Estatal de Administración Tributaria en Murcia. Objeto: Mantenimiento Arcos Ceia Hipe Multizone y RX Hiscan Delegación Especial AEAT Murcia. Expediente: 21B30037500.](BOE-B-2021-31509.md)
+- [Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Suministro de distintas prendas de uniformidad. Expediente: 20710105800.](BOE-B-2021-31510.md)
+- [Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Suministro de 2 Equipos M. de Inspección por Retrodispersión para las Aduanas de Algeciras y Barcelona. Expediente: 21710012400.](BOE-B-2021-31511.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Anuncio de formalización de contratos de la Subdirección General de Planificación y Gestión Económica. Objeto: Primer Contrato derivado de Acuerdo Marco de suministro de EVIPLERA para los Centros Penitenciarios dependientes de la Secretaria General de Instituciones Penitenciarias. Expediente: 020121AF2101.](BOE-B-2021-31512.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Suministro e instalación de tres filtros de armónicos de 50 hz en las subestaciones de Guadajoz y Lora del Río de la JAM de Sevilla y en la subestación de Palma del Río de JAM de Córdoba. Expediente: 3.20/27510.0072.](BOE-B-2021-31513.md)
+- [Anuncio de licitación de ADIF-Consejo de Administración. Objeto: Gestión integral de las instalaciones de protección y seguridad de los túneles pertenecientes a la Red Convencional y Ancho Métrico. 6 lotes. Expediente: 4.20/28520.0113.](BOE-B-2021-31514.md)
+- [Anuncio de licitación de ADIF-Presidencia. Objeto: Ejecución de las obras del Proyecto de construcción de supresión del paso a nivel en p.k. 30/493 de la Línea Gandía a Silla (número de línea 344), término municipal Cullera (Valencia). Expediente: 3.21/27507.0144.](BOE-B-2021-31515.md)
+- [Anuncio de formalización de contratos de la Dirección General de Carreteras. Objeto: 51-SG-0205; 30.1179/20-2 Ejecución de diversas operaciones de conservación y explotación en las carreteras del sector SG-02. Provincia de Segovia. Expediente: 230204002050.](BOE-B-2021-31516.md)
+- [Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 30.654/20-6; AT-Z-4360 Control y vigilancia de las obras: Autovía A-68, Tramo: El Burgo de Ebro-Fuentes de Ebro. Provincia de Zaragoza. Expediente: 630205043600.](BOE-B-2021-31517.md)
+- [Anuncio de licitación de: ADIF - Presidencia. Objeto: Ejecución de las Obras del Proyecto de Construcción de supresión del paso a nivel en p.k. 32/082 de la Línea Gandía a Silla (número de línea 344), Término Municipal. Cullera (Valencia). Expediente: 3.21/27507.0148.](BOE-B-2021-31518.md)
+- [Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 30.15/19-3; PR-309/18 Asistencia técnica para la realización de auditorías de seguridad viaria de anteproyectos, proyectos de trazado y proyectos de construcción de la Dirección General de Carreteras. Expediente: 330199326Z38.](BOE-B-2021-31519.md)
+- [Anuncio de licitación de: ADIF Alta Velocidad - Presidencia. Objeto: Consultoría y asistencia para el control de las obras del Proyecto de Construcción de Plataforma de integración urbana y acondicionamiento de la red ferroviaria de Ourense. Tramo: Túnel de Rante- Conexión Seixalbo. Expediente: 3.21/20830.0083.](BOE-B-2021-31520.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Proyecto constructivo de adecuación y puesta en servicio de las salidas de emergencia Can Tunis 1, Can Tunis 2 y túnel. Base de Can Tunis a Castellbisbal. Expediente: 3.20/27507.0068.](BOE-B-2021-31521.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Anuncio de formalización de contratos de: Subdirección General de Administración Financiera. Objeto: Servicios profesionales de asistencia técnica microinformática tras el ciberataque mediante ramsonware al Ministerio de Trabajo y Economía Social. Expediente: 10000458/2021.](BOE-B-2021-31522.md)
+- [Anuncio de formalización de contratos de: Dirección General del Servicio Público de Empleo Estatal. Objeto: Mantenimiento de sistemas y equipos informáticos (hardware y software de base) en el Servicio Público de Empleo Estatal. Expediente: IPA 4/21.](BOE-B-2021-31523.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA
+
+- [Anuncio de licitación de: Delegación del Gobierno en La Rioja. Objeto: Servicio de limpieza de los edificios y dependencias que ocupa la Delegación del Gobierno en La Rioja durante el periodo de un año (del 01/10/2021 al 30/09/2022). Expediente: 202126000001.](BOE-B-2021-31524.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de formalización de contratos de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Obras correspondientes al Proyecto 11/18 de ampliación del abastecimiento a Blanca (Mu/Blanca). Expediente: O-11/18-12.](BOE-B-2021-31525.md)
+- [Anuncio de corrección de errores de: Dirección General del Agua. Objeto: Realización de informes de 1.ª revisión y análisis general de seguridad de presas de diferentes sistemas de la demarcación del Guadalquivir y Melilla y cuya titularidad ostenta el organismo de cuenca. Expediente: 05.963-0037/0411.](BOE-B-2021-31526.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Guadiana. Objeto: Ejecución de trabajos de geofísica de superficie y sondeos mecánicos para la mejora del conocimiento en determinadas masas de agua subterránea del Alto Guadiana. Expediente: 202000000263.](BOE-B-2021-31527.md)
+- [Anuncio de formalización de contratos de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Obras correspondientes al proyecto 04/18 de renovación del ramal de abastecimiento Ojós- Ricote reversible (Mu/Varios). Expediente: O-04/18-02.](BOE-B-2021-31528.md)
+- [Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Contrato de obras para la adecuación del tratamiento de las EDAR de Sevilla para el vertido a zona sensible en el entorno de Doñana. Nueva estación de bombeo Tamarguillo. Programa Operativo Plurirregional de España 2014-2020; Objetivo Temático 6, en la Prioridad de Inversión 6b, dentro de su Objetivo Específico OE.6.2.1. Expediente: SE(DT)-6513.](BOE-B-2021-31529.md)
+- [Anuncio de licitación de la Presidencia de la Confederación Hidrográfica del Guadiana. Objeto: Adquisición de equipos analíticos instrumentales para el laboratorio de análisis de aguas de la C.H.G. Expediente: 202100000054.](BOE-B-2021-31530.md)
+
+### MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL
+
+- [Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de soporte y mantenimiento del sistema de gestión para la infraestructura de red de nivel 2 y nivel 3 de redirisnova 100. Expediente: 030/21-RI.](BOE-B-2021-31531.md)
+- [Anuncio de formalización de contratos de: Subsecretaría del Ministerio de Asuntos Económicos y Transformación Digital. Objeto: Adecuación, optimización y modernización de espacios en la planta segunda del edificio satélite del Complejo Cuzco asignados al Ministerio de Asuntos Económicos y Transformación Digital. Expediente: 202100000074.](BOE-B-2021-31532.md)
+- [Anuncio de formalización de contratos del Instituto Nacional de Estadística INE. Objeto: Servicio de limpieza integral de las dependencias que ocupan 27 Delegaciones provinciales del Instituto Nacional de Estadística. Expediente: 2019N0073080.](BOE-B-2021-31533.md)
+- [Anuncio de formalización de contratos de: Instituto Nacional de Estadística INE. Objeto: Servicio de limpieza integral de las dependencias que ocupan 16 Delegaciones Provinciales del Instituto Nacional de Estadística. Expediente: 2020N1073100.](BOE-B-2021-31534.md)
+
+### MINISTERIO DE SANIDAD
+
+- [Anuncio de formalización de contratos de: Gerencia de Atención Sanitaria del Instituto Nacional de Gestión Sanitaria en Ceuta. Objeto: Adquisición de un sistema de extracción automatizada STARLET Y UN Termociclador sistema CFX965 . Expediente: 12-COVID-19.](BOE-B-2021-31535.md)
+
+### MINISTERIO DE CIENCIA E INNOVACIÓN
+
+- [Anuncio de licitación de: Dirección General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Adquisición de dos Aerogeneradores comerciales: Aerogenerador comercial de 100 KW (Lote 1, Expte. 287543) y aerogenerador comercial de 100 KW con posibilidad de gestión de otras fuentes renovables (Lote 2, Expte. 287545). Plan de recuperación, Transformación y Resiliencia. Expediente: 287543-545.](BOE-B-2021-31536.md)
+- [Anuncio de licitación de: Dirección del Instituto de Astrofísica de Canarias. Objeto: Suministro de un interferometro fizeau, con financiación procedente del mecanismo de Recuperación y Resiliencia de la Unión Europea - Nextgenerationeu. Expediente: LIC-21-024.](BOE-B-2021-31537.md)
+- [Anuncio de licitación de: Agencia Estatal de Investigación. Objeto: Servicio para la realización de trabajos de soporte a la revisión, análisis y modificación de expedientes y justificaciones científico-técnicas de ayudas correspondientes a convocatorias en materia de Recursos Humanos para la Investigación. Expediente: 2021C0000010.](BOE-B-2021-31538.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Asturias. Objeto: Suministro e instalación de luminarias y equipos auxiliares para la renovación del sistema de iluminación por tecnología LED, del edificio de la Oficina Integral de la Seguridad Social de Gijón, dependiente de la Dirección Provincial de la Tesorería General de la Seguridad Social de Asturias. Expediente: PAS 4013/2021.](BOE-B-2021-31539.md)
+- [Anuncio de licitación de: INSS-Dirección provincial en Illes Balears. Objeto: Servicio de limpieza integral en el edificio de la Dirección Provincial del INSS en Illes Balears y su red de Centros. Expediente: 07/VC-16/22.](BOE-B-2021-31540.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Pontevedra. Objeto: suministro e instalación de luminarias led y detectores de presencia en las administraciones 36/04 y 05 de Pontevedra. Expediente: 36PASS2021-047.](BOE-B-2021-31541.md)
+- [Anuncio de formalización de contratos de: INSS-Dirección Provincial de Castellón. Objeto: Servicio de limpieza, desratización, desinfección y desinsectación de los CAISS y la UMEVI dependientes de la Dirección Provincial del INSS de Castellón. Expediente: 12/VC-101/2021.](BOE-B-2021-31542.md)
+
+### OTROS PODERES ADJUDICADORES
+
+- [Anuncio de licitación de: Subdirección de Compras de la Sociedad Estatal Correos y Telégrafos, S.A. Objeto: Adquisición de material de oficina no inventariable para la S.E. Correos y Telégrafos, S.A., S.M.E. Expediente: IM210006.](BOE-B-2021-31543.md)
+- [Anuncio de licitación de: Subdirección de Compras de la Sociedad Estatal Correos y Telégrafos, S.A. Objeto: Adquisición de 8.000 Carros de reparto para la S.E Correos y Telégrafos, S.A., S.M.E. Expediente: ME210002.](BOE-B-2021-31544.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE JUSTICIA
+
+- [Resolución de la Secretaría General para la Innovación y Calidad del Servicio Público de Justicia sobre la prescripción por abandono de depósitos y consignaciones judiciales.](BOE-B-2021-31545.md)
+- [Anuncio de la Subsecretaría (División de Derechos de Gracia y otros Derechos), sobre solicitud de sucesión en el título de Conde de Villafranqueza, con Grandeza de España.](BOE-B-2021-31546.md)
+- [Anuncio de la Subsecretaría (División de Derechos de Gracia y otros Derechos), sobre solicitud de sucesión en el título de Marqués de Ciriñuela.](BOE-B-2021-31547.md)
+- [Anuncio de la Subsecretaría (División de Derechos de Gracia y otros Derechos), sobre solicitud de sucesión en el título de Conde de Cirat.](BOE-B-2021-31548.md)
+- [Anuncio de la Subsecretaría (División de Derechos de Gracia y otros Derechos), sobre solicitud de sucesión en el título de Conde de Limpias.](BOE-B-2021-31549.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Resolución del Juzgado Marítimo Permanente núm. 6 de Ferrol en Prorroga de Jurisdicción, sobre Asistencia Marítima (buque pesquero de bandera española denominada "SEMPRE GÜETO").](BOE-B-2021-31550.md)
+
+### MINISTERIO DE HACIENDA
+
+- [Anuncio del Consorcio de la Zona Franca de Cádiz por el que se somete a información pública la modificación del contrato de arrendamiento de unas instalaciones adaptadas a escuela infantil, en el Recinto Interior.](BOE-B-2021-31551.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Resolución de la Autoridad Portuaria de Cádiz por la que se acuerda la modificación sustancial de la concesión administrativa de la que es titular la Federación Andaluza de Vela en el Puerto de la Bahía de Cádiz.](BOE-B-2021-31552.md)
+
+### MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
+
+- [Extracto de la Resolución de 25 de junio de 2021 de la Subsecretaría del Ministerio de Educación y Formación Profesional por la que se convoca el procedimiento de concesión de subvenciones a Organizaciones Sindicales representativas del personal funcionario docente de los centros públicos de enseñanza no universitaria, correspondiente al año 2021](BOE-B-2021-31553.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL Y FUNCIÓN PÚBLICA
+
+- [Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Valladolid, por el que se somete a información pública la solicitud de autorización administrativa previa y declaración de impacto ambiental de la planta solar fotovoltaica "Andarríos Solar" de 62 MWp, y sus infraestructuras de evacuación asociadas, en los términos municipales de Villalba de los Alcores, Valdenebro de los Valles y La Mudarra, en la provincia de Valladolid.](BOE-B-2021-31554.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de la Demarcación de Costas en Cantabria sobre autorización para mantener instalaciones destinadas a promover el anidamiento del águila pescadora en las marismas de Carasa, en el término municipal de Voto. Peticionario: SEO/BirdLife. Expediente AUT02/21/39/0054.](BOE-B-2021-31555.md)
+- [Anuncio de la Subdirección General de Dominio Público Hidráulico e Infraestructuras de la Dirección General del Agua del Ministerio para la Transición Ecológica y el Reto Demográfico, relativo a la información pública del "PROYECTO DE CONSTRUCCIÓN DE INFRAESTRUCTURAS DE SANEAMIENTO Y EVACUACIÓN DE PLUVIALES EN ALGECIRAS, 1ª FASE (CÁDIZ)" y de la relación de bienes y derechos afectados. CLAVE: 06.311-0269/2111.](BOE-B-2021-31556.md)
+- [Anuncio de la Subdirección General de Energía Eléctrica por el que se da publicidad a la Resolución de 29 de junio de 2021, de la Secretaría de Estado de Energía, por la que se acuerda la celebración de concurso de capacidad de acceso en determinados nudos de la red de transporte.](BOE-B-2021-31557.md)
+
+### UNIVERSIDADES
+
+- [Anuncio de la Facultad de Derecho de la Universidad Autónoma de Madrid sobre extravío de título universitario.](BOE-B-2021-31558.md)
+- [Anuncio de la Universidad de Deusto sobre extravío de título universitario de Diplomada en Turismo.](BOE-B-2021-31559.md)
+- [Anuncio de la Escuela Técnica Superior de Ingeniería de Barcelona de la Universidad Politécnica de Cataluña sobre extravío de título universitario.](BOE-B-2021-31560.md)
+- [Anuncio de la Facultad de Óptica y Optometría de la Universidad Complutense de Madrid sobre extravío de título universitario.](BOE-B-2021-31561.md)
+- [Anuncio de la Escuela Técnica Superior de Ingeniería de Caminos, Canales y Puertos de la Universidad de Granada sobre extravío de título universitario.](BOE-B-2021-31562.md)
+- [Anuncio de la Secretaría General de la Universidad de Málaga sobre extravío de título universitario.](BOE-B-2021-31563.md)
+- [Anuncio de la Sección de Títulos de la Universidad de Alcalá sobre extravío de título universitario.](BOE-B-2021-31564.md)
+- [Anuncio de la Facultad de Bellas Artes de la Universidad Complutense de Madrid sobre extravío de título universitario.](BOE-B-2021-31565.md)
+- [Anuncio de la ETS de Ingeniería de Montes, Forestal y del Medio Natural de la Universidad Politécnica de Madrid sobre extravío de título universitario.](BOE-B-2021-31566.md)
+- [Anuncio del Centro Internacional de Postgrado de la Universidad Oviedo sobre extravío de título universitario.](BOE-B-2021-31567.md)
+- [Anuncio de la E.T.S.I. Informáticos de la Universidad Politécnica de Madrid sobre extravío de título universitario.](BOE-B-2021-31568.md)
