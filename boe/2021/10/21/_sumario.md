@@ -1,0 +1,314 @@
+---
+fuente: "BOE"
+fecha: "2021-10-21"
+diario_numero: "252"
+total_documentos: 156
+---
+
+# BOE núm. 252 — 2021-10-21
+
+## I. Disposiciones generales
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Aplicación provisional del Acuerdo relativo a los controles de exportación en el ámbito de defensa, hecho en París el 17 de septiembre de 2021.](BOE-A-2021-17111.md)
+- [Enmienda al anexo del Acuerdo entre los Estados miembros de la Unión Europea, reunidos en el seno del Consejo, sobre la protección de la información clasificada intercambiada en interés de la Unión Europea, hecho en Bruselas el 25 de mayo de 2011.](BOE-A-2021-17112.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Resolución de 14 de octubre de 2021, de la Dirección General de Trabajo, por la que se publica la relación de fiestas laborales para el año 2022.](BOE-A-2021-17113.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Orden TED/1136/2021, de 18 de octubre, por la que se autoriza un trasvase desde los embalses de Entrepeñas-Buendía, a través del Acueducto Tajo-Segura, de 12 hm³ para el mes de octubre de 2021.](BOE-A-2021-17114.md)
+
+## II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias
+
+### MINISTERIO DE JUSTICIA
+
+- [Orden JUS/1137/2021, de 8 de octubre, por la que se reingresa al servicio activo en la Carrera Fiscal a doña Arantxa Márquez Vicente.](BOE-A-2021-17115.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 30 de septiembre de 2021, de la Universidad Politécnica de Cartagena, por la que se nombra Profesor Titular de Universidad a don Juan Francisco Sánchez Pérez.](BOE-A-2021-17116.md)
+- [Resolución de 5 de octubre de 2021, de la Universidad de Málaga, por la que se nombra Catedrática de Universidad a doña María Aurelia Martín Casares.](BOE-A-2021-17117.md)
+- [Resolución de 6 de octubre de 2021, de la Universidad Pompeu Fabra, por la que se nombra Catedrática de Universidad a doña Emma Rodero Anton.](BOE-A-2021-17118.md)
+- [Resolución de 6 de octubre de 2021, de la Universidad Pompeu Fabra, por la que se nombra Catedrático de Universidad a don Josep Pich Mitjana.](BOE-A-2021-17119.md)
+- [Resolución de 7 de octubre de 2021, de la Universidad de Castilla-La Mancha, por la que se nombra Profesor Titular de Universidad a don Ricardo Pérez del Castillo.](BOE-A-2021-17120.md)
+- [Resolución de 7 de octubre de 2021, de la Universidad de Castilla-La Mancha, por la que se nombra Profesora Titular de Universidad a doña Ascensión Gallego Córcoles.](BOE-A-2021-17121.md)
+- [Resolución de 7 de octubre de 2021, de la Universidad de Castilla-La Mancha, por la que se nombra Profesora Titular de Universidad a doña Beatriz Navarro Bravo.](BOE-A-2021-17122.md)
+- [Resolución de 7 de octubre de 2021, de la Universidad de Castilla-La Mancha, por la que se nombra Profesora Titular de Universidad a doña Isabel María Úbeda Bañón.](BOE-A-2021-17123.md)
+- [Resolución de 7 de octubre de 2021, de la Universidad de Castilla-La Mancha, por la que se nombra Profesora Titular de Universidad a doña María Jesús Ruiz Fuensanta.](BOE-A-2021-17124.md)
+- [Resolución de 8 de octubre de 2021, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad a doña María Jesús Such Devesa.](BOE-A-2021-17125.md)
+- [Resolución de 8 de octubre de 2021, de la Universidad de Burgos, por la que se nombra Profesor Titular de Universidad a don Pedro Latorre Carmona.](BOE-A-2021-17126.md)
+- [Resolución de 8 de octubre de 2021, de la Universidad de Granada, por la que se nombra Catedrática de Universidad a doña Rosa Medina Domenech.](BOE-A-2021-17127.md)
+- [Resolución de 8 de octubre de 2021, de la Universidad de Granada, por la que se nombran Profesores y Profesoras Titulares de Universidad.](BOE-A-2021-17128.md)
+- [Resolución de 8 de octubre de 2021, de la Universidad de Sevilla, por la que se nombra Catedrático de Universidad a don Alfonso Moriana Elvira.](BOE-A-2021-17129.md)
+- [Resolución de 8 de octubre de 2021, de la Universidad de Sevilla, por la que se nombran Profesores y Profesoras Titulares de Universidad.](BOE-A-2021-17130.md)
+- [Resolución de 8 de octubre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra Profesora Titular de Universidad a doña Diana Fernández Romero.](BOE-A-2021-17131.md)
+- [Resolución de 30 de septiembre de 2021, de la Universidad Politécnica de Cartagena, por la que se integra en el Cuerpo de Profesores Titulares de Universidad a don Miguel Ángel Tobarra González.](BOE-A-2021-17132.md)
+
+## II. Autoridades y personal. - B. Oposiciones y concursos
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Resolución de 9 de octubre de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se convoca concurso específico para la provisión de puestos de trabajo.](BOE-A-2021-17133.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Resolución de 9 de octubre de 2021, de la Subsecretaría, por la que se publica la relación de los aspirantes que han superado la fase de oposición de las pruebas selectivas para ingreso, por el sistema general de acceso libre, en el Cuerpo General Administrativo de la Administración del Estado, especialidad de Tráfico.](BOE-A-2021-17134.md)
+- [Resolución de 11 de octubre de 2021, de la Subsecretaría, por la que se publica la relación de los aspirantes que han superado las fases de concurso y oposición de las pruebas selectivas para acceso, por el sistema de promoción interna, en el Cuerpo General Administrativo de la Administración del Estado, especialidad de Tráfico.](BOE-A-2021-17135.md)
+
+### MINISTERIO DE SANIDAD
+
+- [Resolución de 15 de octubre de 2021, de la Subsecretaría, por la que se corrigen errores en la de 29 de septiembre de 2021, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.](BOE-A-2021-17136.md)
+- [Resolución de 14 de octubre de 2021, de la Organización Nacional de Trasplantes, por la que se aprueba la relación provisional de aspirantes admitidos y excluidos y se anuncia fecha, hora y lugar de celebración del primer ejercicio del proceso selectivo, en el marco de estabilización de empleo temporal, para el acceso a la condición de personal estatutario fijo, en las categorías de personal sanitario facultativo, personal sanitario no facultativo y personal no sanitario, convocado por Resolución de 29 de junio de 2021.](BOE-A-2021-17137.md)
+
+### COMUNIDAD AUTÓNOMA DE CANARIAS
+
+- [Resolución de 13 de octubre de 2021, de la Dirección General de Relaciones con la Administración de Justicia de la Consejería de Administraciones Públicas, Justicia y Seguridad, por la que se corrigen errores en la de 30 de septiembre de 2021, por la que se convoca concurso de traslado entre personal funcionario de los Cuerpos y Escalas de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial de la Administración de Justicia.](BOE-A-2021-17138.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Resolución de 14 de octubre de 2021, de la Diputación Provincial de A Coruña, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.](BOE-A-2021-17139.md)
+- [Resolución de 14 de octubre de 2021, de la Diputación Provincial de A Coruña, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.](BOE-A-2021-17140.md)
+- [Resolución de 14 de octubre de 2021, de la Diputación Provincial de Burgos, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.](BOE-A-2021-17141.md)
+- [Resolución de 14 de octubre de 2021, del Ayuntamiento de Las Rozas de Madrid (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.](BOE-A-2021-17142.md)
+- [Resolución de 7 de octubre de 2021, de la Diputación Provincial de Alicante, referente a la convocatoria para proveer varias plazas.](BOE-A-2021-17143.md)
+- [Resolución de 7 de octubre de 2021, de la Diputación Provincial de Alicante, referente a la convocatoria para proveer varias plazas.](BOE-A-2021-17144.md)
+- [Resolución de 7 de octubre de 2021, de la Diputación Provincial de Alicante, referente a la convocatoria para proveer varias plazas.](BOE-A-2021-17145.md)
+- [Resolución de 11 de octubre de 2021, del Ayuntamiento de San Fernando (Cádiz), referente a la convocatoria para proveer varias plazas.](BOE-A-2021-17146.md)
+- [Resolución de 13 de octubre de 2021, del Ayuntamiento de Granada, referente a la convocatoria para proveer varias plazas.](BOE-A-2021-17147.md)
+- [Resolución de 14 de octubre de 2021, del Ayuntamiento de Castro-Urdiales (Cantabria), referente a la convocatoria para proveer varias plazas.](BOE-A-2021-17148.md)
+- [Resolución de 14 de octubre de 2021, del Ayuntamiento de Foz Calanda (Teruel), referente a la convocatoria para proveer una plaza.](BOE-A-2021-17149.md)
+- [Resolución de 14 de octubre de 2021, del Ayuntamiento de Santander (Cantabria), referente a la convocatoria para proveer varias plazas.](BOE-A-2021-17150.md)
+- [Resolución de 14 de octubre de 2021, del Ayuntamiento de Fiñana (Almería), referente a la convocatoria para proveer una plaza.](BOE-A-2021-17151.md)
+- [Resolución de 15 de octubre de 2021, del Ayuntamiento de Banyoles (Girona), referente a la convocatoria para proveer una plaza.](BOE-A-2021-17152.md)
+- [Resolución de 15 de octubre de 2021, del Ayuntamiento de Perales del Alfambra (Teruel), referente a la convocatoria para proveer una plaza.](BOE-A-2021-17153.md)
+- [Resolución de 15 de octubre de 2021, del Ayuntamiento de Algarrobo (Málaga), de corrección de errores de la de 7 de octubre de 2021, referente a la convocatoria para proveer una plaza.](BOE-A-2021-17154.md)
+
+## III. Otras disposiciones
+
+### CONSEJO GENERAL DEL PODER JUDICIAL
+
+- [Acuerdo de 7 de octubre de 2021, de la Comisión Permanente del Consejo General del Poder Judicial, relativo a la modificación de turno de ponencias y distribución de asuntos entre los Magistrados de la Sección Segunda de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.](BOE-A-2021-17155.md)
+- [Acuerdo de 14 de octubre de 2021, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se atribuye, en virtud de lo previsto en el artículo 98.1 de la Ley Orgánica del Poder Judicial, al Juzgado de lo Mercantil número 18 de Madrid, el conocimiento con carácter exclusivo y no excluyente de los asuntos relativos a transporte aéreo (clase de reparto A31) con la finalidad de canalizar su registro, tramitación y resolución a través de la unidad funcional constituida para su tramitación y resolución.](BOE-A-2021-17156.md)
+- [Acuerdo de 7 de octubre de 2021, de la Comisión Permanente del Consejo General del Poder Judicial, relativo a la modificación de la composición de las Secciones de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Cataluña.](BOE-A-2021-17157.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Resolución de 9 de septiembre de 2021, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa del registrador mercantil y de bienes muebles I de Santa Cruz de Tenerife a cancelar por caducidad una hipoteca naval.](BOE-A-2021-17158.md)
+
+### MINISTERIO DE DEFENSA
+
+- [Resolución 420/38380/2021, de 15 de octubre, de la Secretaría General Técnica, por la que se publica el Convenio con la Universidad Politécnica de Valencia, para la realización de prácticas académicas tuteladas en unidades, centros y organismos del Ejército del Aire.](BOE-A-2021-17159.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Resolución de 8 de octubre de 2021, de la Dirección General de Bellas Artes, por la que se publica la Adenda de prórroga del Convenio con Samsung Electronics Iberia, SAU, para el desarrollo de proyectos tecnológicos en el Museo Arqueológico Nacional.](BOE-A-2021-17160.md)
+- [Resolución de 13 de octubre de 2021, de la Dirección General del Libro y Fomento de la Lectura, por la que se publica el Convenio con la Provincia de Hermanos Menores Capuchinos de España, para regular el suministro y uso de metadatos y miniaturas.](BOE-A-2021-17161.md)
+
+### MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL
+
+- [Resolución de 14 de octubre de 2021, del Instituto de Contabilidad y Auditoría de Cuentas, por la que se publican las Normas Técnicas de Auditoría, resultado de la adaptación de las Normas Internacionales de Auditoría para su aplicación en España, "Consideración de las disposiciones legales y reglamentarias en la auditoría de estados financieros", NIA-ES 250 (revisada), "Identificación y valoración del riesgo de incorrección material", NIA-ES 315 (revisada) y "Utilización del trabajo de los auditores internos", NIA-ES 610 (revisada).](BOE-A-2021-17162.md)
+
+### MINISTERIO DE SANIDAD
+
+- [Resolución de 10 de octubre de 2021, de la Secretaría de Estado de Sanidad, por la que se publica el Convenio para el año 2021 entre la Delegación del Gobierno para el Plan Nacional sobre Drogas y la Comunidad de Madrid, en materia de drogodependencias y con cargo al fondo de bienes decomisados.](BOE-A-2021-17163.md)
+
+### MINISTERIO DE DERECHOS SOCIALES Y AGENDA 2030
+
+- [Resolución de 13 de octubre de 2021, del Instituto de la Juventud, por la que se publica el Convenio con la Federación Española de Municipios y Provincias, por el que se canaliza la subvención nominativa establecida en los Presupuestos Generales del Estado para el año 2021, para la realización de actuaciones dirigidas a los y las jóvenes mediante el desarrollo de programas en el ámbito local.](BOE-A-2021-17164.md)
+
+### BANCO DE ESPAÑA
+
+- [Resolución de 13 de octubre de 2021, de la Comisión Ejecutiva del Banco de España, de modificación de las cláusulas generales relativas a las condiciones uniformes para la apertura y el funcionamiento de una cuenta del módulo de pagos, de una cuenta dedicada de efectivo de T2S y de una cuenta dedicada de efectivo de TIPS en TARGET2-Banco de España.](BOE-A-2021-17165.md)
+- [Resolución de 20 de octubre de 2021, del Banco de España, por la que se publican los cambios del euro correspondientes al día 20 de octubre de 2021, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.](BOE-A-2021-17166.md)
+
+### COMUNIDAD DE CASTILLA Y LEÓN
+
+- [Resolución de 4 de octubre de 2021, de la Dirección General de Patrimonio Cultural, de la Consejería de Cultura y Turismo, por la que se incoa procedimiento para la declaración del campo petrolífero de Ayoluengo, en el municipio de Sargentes de la Lora (Burgos), como bien de interés cultural con la categoría de conjunto etnológico.](BOE-A-2021-17167.md)
+
+## V. Anuncios. - A. Contratación del Sector Público
+
+### MINISTERIO DE DEFENSA
+
+- [Anuncio de formalización de contratos del Intendente de Rota. Objeto: Adquisición de tractores de arrastre de aeronaves de la Armada con capacidad aérea que participan en OMP. Expediente: 2021/AR46U/00000506E.](BOE-B-2021-42742.md)
+- [Anuncio de formalización de contratos de la Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire. Objeto: 20212101 Adquisición de accesorios, dispositivos de seguridad y equipos paracaidistas para la EMP, EZAPAC, EADA y PAEA. Expediente: 2021/EA02/00000329E.](BOE-B-2021-42743.md)
+- [Anuncio de formalización de contratos de: Sección de Asuntos Económicos de la Jefatura Sistemas de Información, Telecomunicaciones y Asistencia Técnica. Objeto: Adquisición de equipo de diagnosis para el mantenimiento de vehículos. Expediente: 2021/ETSAE0904/00000546E.](BOE-B-2021-42744.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Mantenimiento de maquinaria de ingeniería y SATRA del SEADA. Expediente: 2021/EA24/00001477E.](BOE-B-2021-42745.md)
+- [Anuncio de licitación de: Subdirección General de Gestión Económica. Objeto: Contratación de servicios y suministros para la evolución del sistema de gestión de identidades del Ministerio de Defensa. Los conceptos objeto de licitación son: Suministro de licencias software; Servicios de diseño, desarrollo e implantación de una solución tecnológica, y Servicios de soporte pos implantación a dicha solución. Expediente: 2021/SP03032001/00000152.](BOE-B-2021-42746.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Adquisición de traje de parquista para el GIETMA. Expediente: 2021/SP03038000/00001728E.](BOE-B-2021-42747.md)
+- [Anuncio de formalización de contratos de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire. Objeto: 20216362 Adquisición 2 remolcadores para T.23. Expediente: 2021/EA02/00001209E.](BOE-B-2021-42748.md)
+- [Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 24 de la Base Aérea de Morón. Objeto: Adquisición de material no aeronáutico para el Escuadrón de Mantenimiento del Grupo de Materialdel Ala 78. Expediente: 2021/EA24/00001542E.](BOE-B-2021-42749.md)
+- [Anuncio de formalización de contratos de: Director de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Ampliación Sistema Bemis por perfilometría láser para calibre 155 mm con desino Sección de Armas y Sitemas Carraca. Expediente: 2021/AR40U/00001358E.](BOE-B-2021-42750.md)
+- [Anuncio de formalización de contratos de: Sección de Asuntos Económicos de la Jefatura Sistemas de Información, Telecomunicaciones y Asistencia Técnica. Objeto: Adquisición de ordenadores portátiles para la plataforma de simulación en apoyo a ZO. Expediente: 2021/ETSAE0904/00000284E.](BOE-B-2021-42751.md)
+- [Anuncio de licitación de: Director de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Adquisición de equipos de medida para el centro de medidas electromagnéticas (CEMEDEM). Expediente: 2098/2021.](BOE-B-2021-42752.md)
+- [Anuncio de licitación de: Director de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Adquisición de nodos remotos de telemedicina para los BUIs de la Armada. Expediente: 2250/2021.](BOE-B-2021-42753.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Modernización de dos ascensores en el edificio del Laboratorio Central de Aduanas de la AEAT en Madrid. Expediente: 21700007200.](BOE-B-2021-42754.md)
+
+### MINISTERIO DEL INTERIOR
+
+- [Anuncio de formalización de contratos de: Subdirección General de Gestión Económica y Patrimonial. Objeto: Obras de terminación de la Comisaría Local de Policía Nacional de ALMENDRALEJO (Badajoz). Expediente: 00000021M012.](BOE-B-2021-42755.md)
+- [Anuncio de licitación de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: La contratación del mantenimiento y soporte de la plataforma de backupdel Servicio de Informática de la Guardia Civil, compuesta por el software de backup "VeritasNetBackup", y 2 appliances 5240, utilizados para realizar la salvaguarda de los sistemas y bases dedatos. Expediente: I/0044/A/21/2.](BOE-B-2021-42756.md)
+- [Anuncio de licitación de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Adquisición de un mínimo de 9.000 linternas tácticas para dotación de personal de diversas Unidades de la Guardia Civil. Expediente: R/0045/A/21/6.](BOE-B-2021-42757.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Anuncio de licitación de: ADIF Alta Velocidad - Consejo de Administración. Objeto: Suministro y transporte de traviesas a la línea de alta velocidad Madrid-Sevilla. Fase 2. Expediente: 3.21/20810.0055.](BOE-B-2021-42758.md)
+- [Anuncio de licitación de: ADIF Alta Velocidad - Presidencia. Objeto: Servicios para la redacción de los proyectos básico y constructivo de una base de montaje y acopios de balasto para el montaje de vía de la LAV Murcia-Almería. Tramo: Murcia-Lorca. Expediente: 3.21/20830.0169.](BOE-B-2021-42759.md)
+- [Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Obras del proyecto constructivo de accesibilidad en la Estación de Tardienta, Huesca. Expediente: 3.21/06108.0018.](BOE-B-2021-42760.md)
+- [Anuncio de licitación de: ADIF - Presidencia. Objeto: Acuerdo Marco de servicios de control de plagas en locales y espacios de ADIF. Expediente: 2.21/04110.0166.](BOE-B-2021-42761.md)
+- [Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicio de limpieza de los edificios de oficinas, Gabinetes Sanitarios, locales sindicales y Centros de Formación de ADIF en el ámbito territorial. (Dos lotes). Expediente: 2.21/04110.0084.](BOE-B-2021-42762.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Anuncio de formalización de contratos de: Dirección Provincial del Servicio Público de Empleo Estatal en Barcelona. Objeto: Servicio de mantenimiento integral (preventivo, conductivo, correctivo y técnico legal) de los edificios y zonas ajardinadas de la Dirección Provincial del Servicio Público de Empleo Estatal en Barcelona y el almacén situado en Sant Andreu de la Barca. Expediente: PA 2/2021.](BOE-B-2021-42763.md)
+
+### MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+
+- [Anuncio de formalización de contratos de: Junta de Contratación del Fondo Español de Garantía Agraria. Objeto: Actualización y mantenimiento de licencias ORACLE del FEGA. Expediente: 2020/13_98946 Prorroga.](BOE-B-2021-42764.md)
+- [Anuncio de formalización de contratos de: Junta de Contratación del Fondo Español de Garantía Agraria. Objeto: Actualización y mantenimiento de licencias ORACLE del FEGA. Expediente: 2020/13_98946 Prorroga.](BOE-B-2021-42765.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Anuncio de licitación de: Dirección General de Biodiversidad, Bosques y Desertificación. Objeto: Trabajos de adquisición de información sobre el estado de los bosques españoles en base a la Red Integrada de Seguimiento del Estado de los Bosques. Red de Nivel I. Expediente: 21PFSV402.](BOE-B-2021-42766.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal de Meteorología. Objeto: Suministro de instrumentación para la medida de radiación solar para la estación BSRN del Centro de Investigación Atmosférica de Izaña. Expediente: 202100000071.](BOE-B-2021-42767.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal de Meteorología. Objeto: Suministro e instalación de un espectrómetro de infrarrojo por transformada de Fourier (FTIR)de alta resolución espectral para el Centro de Investigación Atmosférica de Izaña. Expediente: 202100000075.](BOE-B-2021-42768.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: TZ. Coproducción del espectáculo "El cielo de Sefarad". Expediente: 2021AC000172.](BOE-B-2021-42769.md)
+- [Anuncio de formalización de contratos de: Presidencia del Consejo Superior de Deportes. Objeto: Renovación licencias Presto. Expediente: 202100000118.](BOE-B-2021-42770.md)
+
+### MINISTERIO DE ASUNTOS ECONÓMICOS Y TRANSFORMACIÓN DIGITAL
+
+- [Anuncio de licitación de la Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de creatividad y producción de piezas para la campaña de publicidad España Digital 2025, kit digital. Expediente: 085/21-CO.](BOE-B-2021-42771.md)
+
+### MINISTERIO DE SANIDAD
+
+- [Anuncio de licitación de: Dirección del Instituto Nacional de Gestión Sanitaria (INGESA). Objeto: Servicios de asistencia técnica para la gestión y operación de un centro de soporte a usuarios (CSU) de los Sistemas y Tecnologías de la Información en el ámbito del Instituto Nacional de Gestión Sanitaria. Expediente: PA 2021/070.](BOE-B-2021-42772.md)
+- [Anuncio de formalización de contratos de: Secretaría General de la Agencia Española de Medicamentos y Productos Sanitarios. Objeto: Servicio de verificación/calibración y mantenimiento preventivo y correctivo de los equipos WATERS instalados en los Laboratorios de la División de Química y Tecnología Farmacéutica de la Agencia Española de Medicamentos y Productos Sanitarios. Expediente: 2021/213/00015.](BOE-B-2021-42773.md)
+
+### MINISTERIO DE CIENCIA E INNOVACIÓN
+
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Suministro e instalación de una infraestructura ultrasónica que permita la realización, caracterización y monitorización de procedimientos de terapia transcraneal con ultrasonidos, destinado al Instituto de Instrumentación para Imagen Molecular. Expediente: LOT57/21.](BOE-B-2021-42774.md)
+- [Anuncio de licitación de la Dirección General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Suministro de Gasóleo C (Calefacción) y Gasóleo A (Maquinaria y grupos electrógenos) para el CIEMAT-Madrid. Expediente: 288291.](BOE-B-2021-42775.md)
+- [Anuncio de licitación de la Dirección General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Suministro e instalación de un simulador solar pulsado de gran área con acondicionamiento térmicos para la caracterización de módulos fotovoltaicos. Plan de Recuperación, Transformación y Resiliencia. Expediente: 289155.](BOE-B-2021-42776.md)
+- [Anuncio de licitación de la Secretaría General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Mantenimiento integral del servicio de animalario del CIEMAT y el Laboratorio de cultivos celulares asociado, en la Unidad de Innovación Biomédica. Expediente: 288916.](BOE-B-2021-42777.md)
+- [Anuncio de formalización de contratos de: Dirección del Instituto de Astrofísica de Canarias. Objeto: Suministro de equipamiento de Metrología Óptica para el Instituto de Astrofísica de Canarias. Expediente: LIC-21-014.](BOE-B-2021-42778.md)
+- [Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de mantenimiento de servidores, cabinas de almacenamiento y librerías de cintas de back-up con destino al CN de Instituto Español de Oceanografía . Expediente: CN006/21.](BOE-B-2021-42779.md)
+- [Anuncio de formalización de contratos de: Secretaría General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Suministro e instalación de un sistema de dosimetría personal OSL basado en detectores BeO (Plan de Recuperación, Transformación y Resiliencia). Expediente: 287718.](BOE-B-2021-42780.md)
+- [Anuncio de formalización de contratos de: Secretaría General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Suministro e instalación de un sistema de análisis digital en gota mediante reacción en cadena de la polimerasa (digital droplet PCR (ddPCR)). Expediente: 286624.](BOE-B-2021-42781.md)
+
+### MINISTERIO DE IGUALDAD
+
+- [Anuncio de formalización de contratos de: Secretaría de Estado de Igualdad y Contra la Violencia de Género. Objeto: Servicio integral del sistema de seguimiento por medios telemáticos del cumplimiento de las medidas cautelares y penas de prohibición de aproximación en materia de violencia de género. Expediente: 202103PA0003.](BOE-B-2021-42782.md)
+
+### MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES
+
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Cáceres. Objeto: Mantenimiento integral de los centros dependientes de las Direcciones Provinciales de la TGSS y del INSS de Cáceres, durante 2021 y 2022. Expediente: 002/10VC2/21X.](BOE-B-2021-42783.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Valladolid. Objeto: Mantenimiento de los sistemas de alimentación ininterrumpida (SAI´S) de las direcciones provinciales de la Tesorería General de la Seguridad Social e Instituto Nacional de la Seguridad Social de Valladolid. Expediente: 47/SSV-3/22.](BOE-B-2021-42784.md)
+- [Anuncio de formalización de contratos de: INSS-Servicios Centrales-Dirección General. Objeto: Mantenimiento integral de los elementos e instalaciones dependientes de la Dirección General del Instituto Nacional de la Seguridad Social. Expediente: 60/VC-63/21.](BOE-B-2021-42785.md)
+- [Anuncio de licitación de: Secretaria General de la Tesorería General de la Seguridad Social. Objeto: Servicio de mantenimiento y reposición de las zonas ajardinadas y plantas en los Servicios Centrales de la Tesorería General de la Seguridad Social, y en el Centro de Formación de Pozuelo. Expediente: 2021/0245PA.](BOE-B-2021-42786.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de Valladolid. Objeto: Servicio vigilancia y seguridad de las Direcciones Provinciales de la TGSS y del INSS, así como de los centros dependientes de ambas Entidades en Valladolid y provincia. Expediente: 47/VC-3/22.](BOE-B-2021-42787.md)
+- [Anuncio de formalización de contratos de: TGSS-Dirección provincial de A Coruña. Objeto: Servicio de limpieza para la Dirección Provincial de la TGSS de A Coruña y centros dependientes para periodo 01/11/2021, o fecha de formalización del contrato, de ser ésta posterior, hasta al 31/10/2022. Expediente: 15-PA2021/051.](BOE-B-2021-42788.md)
+- [Anuncio de formalización de contratos de: Instituto Social de la Marina -Dirección Provincial de Vilagarcia de Arousa. Objeto: 1º PRORRG. Transporte de alumnos para cursos del Centro Nacional de Formación de Bamio Y DirecciónProvincial del Instituto Social de la Marina en Vilagarcía de Arousa. Expediente: 56/2019/PA/1003 (1º PRORRG.).](BOE-B-2021-42789.md)
+- [Anuncio de formalización de contratos de: Instituto Social de la Marina, Dirección Provincial de Vilagarcía de Arousa. Objeto: 1.ª prórroga. Mantenimiento de los jardines y recinto exterior del Centro Nacional de Formación Marítima de Bamio. Expediente: 56/ 2019 PA 1005 (1.ª prórroga).](BOE-B-2021-42790.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Anuncio de formalización de contratos de: Presidencia de Diputación Provincial de Albacete. Objeto: Contrato privado de servicios de seguro de responsabilidad civil de la Diputación de Albacete, sus organismos autónomos y entidades dependientes. Expediente: 847846P.](BOE-B-2021-42791.md)
+
+### OTROS PODERES ADJUDICADORES
+
+- [Anuncio de Metro de Madrid, Sociedad Anónima, de ampliación de plazo de presentación de las ofertas de licitación de unas obras de implantación de ascensores y modernización de la estación de Ventas, de Metro de Madrid, financiable al 50% con cargo al programa operativo 2014-2020 FEDER de la Comunidad de Madrid. (Expediente: 6012100243).](BOE-B-2021-42792.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN
+
+- [Extracto de la Orden de 15 de octubre de 2021, por la que se aprueba la convocatoria del Programa de becas de prácticas 2022 para nacionales españoles que estén en posesión del título del "Máster Interuniversitario en Diplomacia y Relaciones Internacionales" impartido en la Escuela Diplomática, y del título del "Máster en Diplomacia y Función Pública Internacional" impartido en el CEI-Fundación Privada Centro de Estudios Internacionales.](BOE-B-2021-42793.md)
+
+### MINISTERIO DE JUSTICIA
+
+- [Anuncio de la Subsecretaría (División de Derechos de Gracia y otros Derechos), sobre renuncia al título de Conde de Sierrabella.](BOE-B-2021-42794.md)
+
+### MINISTERIO DE HACIENDA Y FUNCIÓN PÚBLICA
+
+- [Anuncio de la Delegación de Economía y Hacienda de Valencia (Unidad de Patrimonio del Estado), en relación con el expediente de venta de un inmueble patrimonial de la Administración General del Estado.](BOE-B-2021-42795.md)
+- [Anuncio de la Delegación de Economía y Hacienda de Valencia (Unidad de Patrimonio del Estado), en relación con el expediente de venta de un inmueble patrimonial de la Administración General del Estado.](BOE-B-2021-42796.md)
+- [Resolución de la Delegación de Economía y Hacienda de León, por la que se anuncia subasta pública al alza mediante el procedimiento de presentación de ofertas en sobre cerrado, para la enajenación de bienes inmuebles urbanos y rústicos, atribuidos a la Administración General del Estado como heredera abintestato de los mismos, en la provincia de León.](BOE-B-2021-42797.md)
+- [Resolución de la Delegación de Economía y Hacienda de León, por la que se anuncia subasta pública al alza mediante el procedimiento de presentación de ofertas en sobre cerrado, para la enajenación de bienes inmuebles urbanos en la provincia de León.](BOE-B-2021-42798.md)
+
+### MINISTERIO DE TRANSPORTES, MOVILIDAD Y AGENDA URBANA
+
+- [Anuncio de la Autoridad Portuaria de Valencia de modificación del Pliego de Bases que rige el concurso público para el otorgamiento de una concesión administrativa para la construcción y explotación de una terminal pública polivalente en el Muelle Centro 2 del Puerto de Sagunto y establecimiento de nuevo plazo para presentar ofertas.](BOE-B-2021-42799.md)
+- [Anuncio de la Demarcación de Carreteras del Estado en Andalucía Occidental por el que se publica la Resolución del Ministerio de Transportes, Movilidad y Agenda Urbana por la que se aprueba el Proyecto de Construcción "Reforma del enlace de la Autovía del Sur (A-4) con la SE-20 (p.k. 0)". Provincia de Sevilla. Clave: 25-SE-5100.](BOE-B-2021-42800.md)
+- [Resolución de la Dirección General de Planificación y Evaluación de la Red Ferroviaria por la que se abre Información Pública correspondiente al Expediente de Expropiación Forzosa 233ADIF2198, motivado por las obras del "Proyecto Básico de Modificación del Tramo 21-24 de la l/400 y 220 kV Doble Circuito Los Barrios-Pinar del Rey", en los términos municipales de Los Barrios y Castellar de la Frontera (Cádiz).](BOE-B-2021-42801.md)
+- [Resolución de la Dirección General de Planificación y Evaluación de la Red Ferroviaria por la que se abre Información Pública correspondiente al Expediente de Expropiación Forzosa 306ADIF2104 motivado por las obras del "Proyecto de construcción de plataforma de la Línea de Alta Velocidad Madrid-Castilla La Mancha-Comunidad Valenciana-Región de Murcia.Tramo: Conexión entre la Línea de Alta Velocidad Madrid-Levante y la Línea de Alta Velocidad Madrid-Barcelona, en el término municipal de Madrid. Fase 2", en los términos municipales de Madrid y Getafe (Madrid).](BOE-B-2021-42802.md)
+- [Resolución de la Autoridad Portuaria de Tarragona referente al trámite de información pública relativa a la solicitud presentada por TERMINALES PORTUARIAS, S.A., de ampliación de superficie inicialmente autorizada en la concesión administrativa "Terminal Marítima de Manipulación de Productos Químicos a Granel al noroeste del Muelle de la Química'' (expediente administrativo núm. 226).](BOE-B-2021-42803.md)
+
+### MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
+
+- [Extracto de la Resolución de 15 de octubre de 2021, de la Secretaría General de Formación Profesional, por la que se convocan ayudas a entidades locales territoriales y entidades públicas dependientes de las entidades locales territoriales para la creación de aulas de formación abierta, flexible y a distancia mediante tecnologías de la información y la comunicación a través de Aula Mentor.](BOE-B-2021-42804.md)
+
+### MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL
+
+- [Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los Estatutos de la asociación empresarial denominada "Asociación Empresarial de Publicidad", con número de depósito 99005693 (antiguo número de depósito 8310).](BOE-B-2021-42805.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los Estatutos del sindicato denominado "Asociación Profesional de Inspectores de Pesca", en siglas APIPES, con número de depósito 99105740.](BOE-B-2021-42806.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia la constitución de la asociación empresarial denominada "Asociación de Integración Agrícola y Social", en siglas ASIAS, con número de depósito 99106078.](BOE-B-2021-42807.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos de la asociación empresarial denominada "Unión de Fabricantes de Espejos y Almacenistas de Cristal", en siglas UNFEAC, con número de depósito 99000386 (antiguo número de depósito 354).](BOE-B-2021-42808.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia la constitución del sindicato denominado "Sindicato Español de Jugadoras y Jugadores de Padel", en siglas SEJJP, con número de depósito 99106076.](BOE-B-2021-42809.md)
+- [Anuncio del Fondo de Garantía Salarial O.A. (FOGASA) por el que se convoca la venta en subasta pública al alza mediante presentación inicial de ofertas en sobre cerrado, en seis lotes separados, de varios bienes inmuebles propiedad del FOGASA, ubicados en la provincia de Barcelona. (N.º de procedimiento: Subasta 7/2021).](BOE-B-2021-42810.md)
+- [Resolución de la Dirección General de Trabajo por la que se anuncia la constitución de la confederación empresarial denominada "Confederación de Empleadores Sociales sin Ánimo de Lucro de España", en siglas CESSLE, con número de depósito 99106077.](BOE-B-2021-42811.md)
+
+### MINISTERIO DE INDUSTRIA, COMERCIO Y TURISMO
+
+- [Extracto de la Orden ICT/1116/2021 del Ministerio de Industria, Comercio y Turismo, de 7 de octubre de 2021, por la que se establecen las bases reguladoras de las líneas de ayudas para la apertura de mercados exteriores y se procede a su convocatoria en el año 2021.](BOE-B-2021-42812.md)
+
+### MINISTERIO DE POLÍTICA TERRITORIAL
+
+- [Resolución de 15 de octubre de 2021, de la Delegación del Gobierno en Canarias, Dirección Insular de la Administración General del Estado en La Palma, sobre revocación de procedimientos administrativos sancionadores y anulación de las resoluciones sancionadoras emitidas en los mismos.](BOE-B-2021-42813.md)
+- [Resolución de 18 de octubre de 2021, de la Delegación del Gobierno en Illes Balears, sobre finalización y archivo de procedimientos sancionadores.](BOE-B-2021-42814.md)
+- [Resolución de 13 de octubre de 2021, de la Subdelegación del Gobierno en Guadalajara, sobre finalización y archivo de procedimientos administrativos sancionadores.](BOE-B-2021-42815.md)
+- [Anuncio del Área Funcional de Industria y Energía de la Delegación del Gobierno en Madrid, por el que se somete a información pública la solicitud de Autorización Administrativa Previa y Declaración de Impacto Ambiental del proyecto Planta Solar Fotovoltaica FSFV Aena Aeropuerto Madrid Barajas de 142,42 MWp/120 MWnom y su Infraestructura de Evacuación, en la provincia de Madrid.](BOE-B-2021-42816.md)
+- [Resolución de 15 de octubre de 2021, de la Subdelegación del Gobierno en Guadalajara, sobre finalización y archivo de procedimientos administrativos sancionadores.](BOE-B-2021-42817.md)
+- [Resolución de 18 de octubre de 2021, de la Subdelegación del Gobierno en Guadalajara, sobre revocación de procedimientos administrativos sancionadores y anulación de las resoluciones sancionadoras emitidas en los mismos.](BOE-B-2021-42818.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO
+
+- [Extracto de la Resolución de 14 de octubre de 2021, del Consejo de Seguridad Nuclear, por la que se convocan subvenciones, en régimen de concurrencia competitiva, para la realización de actividades de formación, información y divulgación, relacionadas con la seguridad nuclear y la protección radiológica para el año 2021.](BOE-B-2021-42819.md)
+- [Anuncio de la Demarcación de Costas de Canarias en el trámite de información pública sobre expediente para la determinación de derechos que pudieran corresponder al Ayuntamiento de San Bartolomé de Tirajana en aplicación de la disposición transitoria primera de la Ley de Costas en diversas fincas en el Anexo II en Playa del Inglés, T.M. de San Bartolomé de Tirajana.](BOE-B-2021-42820.md)
+- [Anuncio de la Demarcación de Costas en Asturias sobre inicio de expediente de concesión de Hidrocantábrico Distribución Eléctrica, S.A.U, de ocupación del dominio público marítimo-terrestre para la reforma del centro de transformación existente "Malecón" (24kv), en el término municipal de Ribadesella. Ref. CNC02/21/33/0003. Peticionario: Hidrocantábrico Distribución Eléctrica, S.A.U..](BOE-B-2021-42821.md)
+- [Anuncio del Servicio Provincial de Costas de Gipuzkoa sobre otorgamiento de concesión de dominio público marítimo-terrestre con destino al saneamiento de Aginaga, en el término municipal de Usurbil (Gipuzkoa).](BOE-B-2021-42822.md)
+- [Anuncio del Servicio Provincial de Costas de Gipuzkoa sobre otorgamiento de prórroga con base en el artículo 2 de la Ley 2/2013, de 29 de Mayo, de la concesión otorgada por Orden Ministerial de 31 de enero de 2005 con destino a la realización de las obras comprendidas en el proyecto denominado "Proyecto de Ejecución de Aseos Públicos en la Playa de la Zurriola, Donostia", en el término municipal de Donostia-San Sebastián (Gipuzkoa).](BOE-B-2021-42823.md)
+
+### MINISTERIO DE CULTURA Y DEPORTE
+
+- [Extracto de la Resolución de 14 de octubre de 2021, de la Presidencia del Consejo Superior de Deportes, por la que se convocan en el año 2021 ayudas a clubes de la Liga ACB.](BOE-B-2021-42824.md)
+- [Extracto de la Resolución de 17 de octubre de 2021, de la Presidencia del Consejo Superior de Deportes, por la que se convocan en el año 2021 ayudas a clubes participantes en la Liga ASOBAL.](BOE-B-2021-42825.md)
+
+### MINISTERIO DE CIENCIA E INNOVACIÓN
+
+- [Extracto de la Resolución de 17 de octubre de 2021 de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la convocatoria del año 2021 de ayudas para contratos predoctorales para la formación de doctores.](BOE-B-2021-42826.md)
+
+### UNIVERSIDADES
+
+- [Anuncio de la Universidad de Las Palmas de Gran Canaria sobre extravío de título universitario de Licenciado en Derecho.](BOE-B-2021-42827.md)
+- [Anuncio de la Escuela Técnica Superior de Ingeniería Agronómica de la Universidad de Sevilla sobre extravío de título universitario.](BOE-B-2021-42828.md)
+- [Anuncio de Escuela Técnica Superior de Arquitectura de la Universidad Politécnica de Madrid sobre extravío de título universitario.](BOE-B-2021-42829.md)
+- [Anuncio de la Escuela Técnica Superior de Ingeniería Industrial, Informática y de Telecomunicación de la Universidad Pública de Navarra sobre extravío de título universitario.](BOE-B-2021-42830.md)
+- [Anuncio de la Facultat de Ciències Socials de la Universitat de València (Estudi General) sobre extravío de título universitario.](BOE-B-2021-42831.md)
+- [Anuncio de la Facultad de Derecho de la Universidad Complutense de Madrid sobre extravío de título universitario.](BOE-B-2021-42832.md)
+- [Anuncio de la Facultad de Educación y Deporte de la Universidad del País Vasco sobre extravío de título universitario.](BOE-B-2021-42833.md)
+- [Anuncio de la Facultad de Educación y Deporte de la Universidad de la Universidad del País Vasco sobre extravío de título universitario.](BOE-B-2021-42834.md)
+- [Anuncio de la Secretaría General de la Universidad de Málaga sobre extravío de título universitario.](BOE-B-2021-42835.md)
+- [Anuncio de la Escuela Técnica Superior de Ingenieros Industriales de la Universidad Politécnica de Cataluña sobre extravío de título universitario.](BOE-B-2021-42836.md)
+- [Anuncio de la Facultad de Educación y Deporte de la Universidad del País Vasco sobre extravío de título universitario.](BOE-B-2021-42837.md)
+- [Anuncio de la Facultad de Economía y Empresa de la Universidad de Oviedo sobre extravío de título universitario.](BOE-B-2021-42838.md)
+- [Anuncio de ESCUELA TÉCNICA SUPERIOR INGENIEROS TELECOMUNICACIÓN de la Universidad POLITÉCNICA sobre extravío de título universitario.](BOE-B-2021-42839.md)
+- [Anuncio de la Facultad de Ciencias Políticas y Sociología de la Universidad de Granada sobre extravío de título universitario.](BOE-B-2021-42840.md)
