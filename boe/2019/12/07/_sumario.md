@@ -1,0 +1,266 @@
+---
+fuente: "BOE"
+fecha: "2019-12-07"
+diario_numero: "294"
+total_documentos: 205
+---
+
+# BOE núm. 294 — 2019-12-07
+
+## II. Autoridades y personal. - B. Oposiciones y concursos
+
+### MINISTERIO DE JUSTICIA
+
+- [Orden JUS/1178/2019, de 4 de diciembre, por la que se modifica la Orden JUS/982/2019, de 19 de septiembre, por la que se nombran los Tribunales calificadores Únicos, Delegados y las Unidades de colaboración de los procesos selectivos, por el sistema de acceso libre, para ingreso en los Cuerpos de Gestión Procesal y Administrativa y de Tramitación Procesal y Administrativa.](BOE-A-2019-17643.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [Resolución de 26 de noviembre de 2019, del Ayuntamiento de Llagostera (Girona), referente a la convocatoria para proveer una plaza.](BOE-A-2019-17644.md)
+
+### UNIVERSIDADES
+
+- [Resolución de 30 de octubre de 2019, de la Universidad Politécnica de Cataluña, por la que se anula plaza de Catedrático de Universidad, convocada por Resolución de 16 de julio de 2019.](BOE-A-2019-17645.md)
+
+## III. Otras disposiciones
+
+### MINISTERIO DE LA PRESIDENCIA, RELACIONES CON LAS CORTES E IGUALDAD
+
+- [Resolución de 27 de noviembre de 2019, de la Subsecretaría, por la que se publica el Convenio entre el Real Patronato sobre Discapacidad y el Instituto Nacional de las Artes Escénicas y de la Música (Centro Dramático Nacional), para las actividades del Festival "Una mirada diferente".](BOE-A-2019-17646.md)
+- [Resolución de 27 de noviembre de 2019, de la Subsecretaría, por la que se publica el Convenio entre la Secretaría General de Administración Digital y el Centro de Estudios Jurídicos, para la prestación de los servicios asociados a la utilización de la aplicación de nómina estándar de la Administración General del Estado NEDAES.](BOE-A-2019-17647.md)
+- [Resolución de 27 de noviembre de 2019, de la Subsecretaría, por la que se publica el Convenio entre la Secretaría General de Administración Digital y el Centro de Estudios Políticos y Constitucionales, para la prestación de los servicios asociados a la utilización de la aplicación de nómina estándar de la Administración General del Estado NEDAES.](BOE-A-2019-17648.md)
+- [Resolución de 27 de noviembre de 2019, de la Subsecretaría, por la que se publica el Convenio entre los Ministerios de Educación y Formación Profesional y de Fomento y el Organismo Autónomo Parques Nacionales, para el desarrollo del programa de recuperación y utilización educativa de pueblos abandonados en los pueblos de Umbralejo (Guadalajara) y Granadilla (Cáceres).](BOE-A-2019-17649.md)
+- [Resolución de 27 de noviembre de 2019, de la Subsecretaría, por la que se publica la Adenda modificativa del Convenio de colaboración entre la Seguridad Social y el Instituto Nacional de Estadística, en materia estadística, para su adaptación a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.](BOE-A-2019-17650.md)
+
+### MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA
+
+- [Resolución de 15 de noviembre de 2019, de la Dirección General de Biodiversidad y Calidad Ambiental, por la que se formula informe ambiental estratégico de la reprogramación del Programa Operativo Plurirregional de España 2019 (POPE) 2014-2020.](BOE-A-2019-17651.md)
+
+## IV. Administración de Justicia
+
+### AUDIENCIAS PROVINCIALES
+
+- [MALAGA](BOE-B-2019-52743.md)
+
+### JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN
+
+- [ALCALA DE GUADAIRA](BOE-B-2019-52744.md)
+- [ALICANTE/ALACANT](BOE-B-2019-52745.md)
+- [ANTEQUERA](BOE-B-2019-52746.md)
+- [BADAJOZ](BOE-B-2019-52747.md)
+- [BENIDORM](BOE-B-2019-52748.md)
+- [CACERES](BOE-B-2019-52749.md)
+- [CASTELLON DE LA PLANA](BOE-B-2019-52750.md)
+- [CASTELLON DE LA PLANA](BOE-B-2019-52751.md)
+- [CHICLANA DE LA FRONTERA](BOE-B-2019-52752.md)
+- [CORDOBA](BOE-B-2019-52753.md)
+- [DENIA](BOE-B-2019-52754.md)
+- [ECIJA](BOE-B-2019-52755.md)
+- [EL PUERTO DE SANTA MARIA](BOE-B-2019-52756.md)
+- [EL VENDRELL](BOE-B-2019-52757.md)
+- [EL VENDRELL](BOE-B-2019-52758.md)
+- [ELX](BOE-B-2019-52759.md)
+- [ELX](BOE-B-2019-52760.md)
+- [FUENGIROLA](BOE-B-2019-52761.md)
+- [GANDIA](BOE-B-2019-52762.md)
+- [GAVA](BOE-B-2019-52763.md)
+- [GIRONA](BOE-B-2019-52764.md)
+- [GRANADA](BOE-B-2019-52765.md)
+- [GRANADA](BOE-B-2019-52766.md)
+- [GUIMAR](BOE-B-2019-52767.md)
+- [HOSPITALET DE LLOBREGAT (L')](BOE-B-2019-52768.md)
+- [IGUALADA](BOE-B-2019-52769.md)
+- [LAREDO](BOE-B-2019-52770.md)
+- [LEON](BOE-B-2019-52771.md)
+- [LLIRIA](BOE-B-2019-52772.md)
+- [LLIRIA](BOE-B-2019-52773.md)
+- [MADRID](BOE-B-2019-52774.md)
+- [MADRID](BOE-B-2019-52775.md)
+- [MALAGA](BOE-B-2019-52776.md)
+- [MANRESA](BOE-B-2019-52777.md)
+- [MANRESA](BOE-B-2019-52778.md)
+- [MANRESA](BOE-B-2019-52779.md)
+- [MARBELLA](BOE-B-2019-52780.md)
+- [MONZON](BOE-B-2019-52781.md)
+- [MOTILLA PALANCAR](BOE-B-2019-52782.md)
+- [NULES](BOE-B-2019-52783.md)
+- [NULES](BOE-B-2019-52784.md)
+- [ORIHUELA](BOE-B-2019-52785.md)
+- [PADRON](BOE-B-2019-52786.md)
+- [PALENCIA](BOE-B-2019-52787.md)
+- [POZUELO ALARCON](BOE-B-2019-52788.md)
+- [PUERTO DEL ROSARIO](BOE-B-2019-52789.md)
+- [PUERTO DEL ROSARIO](BOE-B-2019-52790.md)
+- [PUERTOLLANO](BOE-B-2019-52791.md)
+- [PUERTOLLANO](BOE-B-2019-52792.md)
+- [PUIGCERDA](BOE-B-2019-52793.md)
+- [REUS](BOE-B-2019-52794.md)
+- [ROQUETAS DE MAR](BOE-B-2019-52795.md)
+- [ROTA](BOE-B-2019-52796.md)
+- [SALAMANCA](BOE-B-2019-52797.md)
+- [SANLUCAR MAYOR](BOE-B-2019-52798.md)
+- [SANT BOI DE LLOBREGAT](BOE-B-2019-52799.md)
+- [SANTANDER](BOE-B-2019-52800.md)
+- [SANTANDER](BOE-B-2019-52801.md)
+- [SANTANDER](BOE-B-2019-52802.md)
+- [SEGOVIA](BOE-B-2019-52803.md)
+- [SEVILLA](BOE-B-2019-52804.md)
+- [SEVILLA](BOE-B-2019-52805.md)
+- [SEVILLA](BOE-B-2019-52806.md)
+- [SEVILLA](BOE-B-2019-52807.md)
+- [SORIA](BOE-B-2019-52808.md)
+- [SUECA](BOE-B-2019-52809.md)
+- [TOLEDO](BOE-B-2019-52810.md)
+- [TOMELLOSO](BOE-B-2019-52811.md)
+- [TORREJON DE ARDOZ](BOE-B-2019-52812.md)
+- [TORREJON DE ARDOZ](BOE-B-2019-52813.md)
+- [TORREMOLINOS](BOE-B-2019-52814.md)
+- [TORTOSA](BOE-B-2019-52815.md)
+- [VALLS](BOE-B-2019-52816.md)
+- [VERIN](BOE-B-2019-52817.md)
+- [VILAFRANCA DEL PENEDES](BOE-B-2019-52818.md)
+- [VILA-REAL](BOE-B-2019-52819.md)
+- [VINAROS](BOE-B-2019-52820.md)
+- [VITORIA GASTEIZ](BOE-B-2019-52821.md)
+- [ZARAGOZA](BOE-B-2019-52822.md)
+- [ZARAGOZA](BOE-B-2019-52823.md)
+
+### JUZGADOS DE LO MERCANTIL
+
+- [ALICANTE/ALACANT](BOE-B-2019-52824.md)
+- [MADRID](BOE-B-2019-52825.md)
+
+### JUZGADOS DE LO PENAL
+
+- [FERROL](BOE-B-2019-52826.md)
+
+### JUZGADOS DE LO SOCIAL
+
+- [ALICANTE/ALACANT](BOE-B-2019-52827.md)
+- [BARCELONA](BOE-B-2019-52828.md)
+- [CUENCA](BOE-B-2019-52829.md)
+- [MALAGA](BOE-B-2019-52830.md)
+- [ZAMORA](BOE-B-2019-52831.md)
+
+### UNIDAD DE SUBASTAS
+
+- [MURCIA](BOE-B-2019-52832.md)
+
+### SERVICIOS COMUNES PROCESALES
+
+- [MURCIA](BOE-B-2019-52833.md)
+- [MURCIA](BOE-B-2019-52834.md)
+- [MURCIA](BOE-B-2019-52835.md)
+- [MURCIA](BOE-B-2019-52836.md)
+- [MURCIA](BOE-B-2019-52837.md)
+- [VALENCIA](BOE-B-2019-52838.md)
+- [VALENCIA](BOE-B-2019-52839.md)
+- [VALENCIA](BOE-B-2019-52840.md)
+
+## V. Anuncios. - B. Otros anuncios oficiales
+
+### MINISTERIO DE HACIENDA
+
+- [U.R. SUBASTAS PAIS VASCO](BOE-B-2019-52841.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52842.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52843.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52844.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52845.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52846.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52847.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52848.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52849.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52850.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52851.md)
+- [U.R. SUBASTAS CATALUÑA](BOE-B-2019-52852.md)
+- [U.R. SUBASTAS CATALUÑA](BOE-B-2019-52853.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52854.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52855.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52856.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52857.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52858.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52859.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52860.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52861.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52862.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52863.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52864.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52865.md)
+- [U.R. SUBASTAS VALENCIA](BOE-B-2019-52866.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52867.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52868.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52869.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52870.md)
+- [U.R. SUBASTAS CATALUÑA](BOE-B-2019-52871.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52872.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52873.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52874.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52875.md)
+- [U.R. SUBASTAS ANDALUCIA 29](BOE-B-2019-52876.md)
+- [U.R. SUBASTAS CATALUÑA](BOE-B-2019-52877.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52878.md)
+- [U.R. SUBASTAS MURCIA](BOE-B-2019-52879.md)
+- [U.R. SUBASTAS MURCIA](BOE-B-2019-52880.md)
+- [U.R. SUBASTAS MURCIA](BOE-B-2019-52881.md)
+- [U.R. SUBASTAS MURCIA](BOE-B-2019-52882.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52883.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52884.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52885.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52886.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52887.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52888.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52889.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52890.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52891.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52892.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52893.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52894.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52895.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52896.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52897.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52898.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52899.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52900.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52901.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52902.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52903.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52904.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52905.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52906.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52907.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52908.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52909.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52910.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52911.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52912.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52913.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52914.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52915.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52916.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52917.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52918.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52919.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52920.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52921.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52922.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52923.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52924.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52925.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52926.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52927.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52928.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52929.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52930.md)
+- [U.R. SUBASTAS MADRID](BOE-B-2019-52931.md)
+- [U.R. SUBASTAS CASTILLA-MANCHA](BOE-B-2019-52932.md)
+
+### COMUNIDAD DE MADRID
+
+- [SUBDIRECCIÓN GENERAL DE RECAUDACIÓN. DIRECCIÓN GENERAL DE TRIBUTOS](BOE-B-2019-52933.md)
+- [SUBDIRECCIÓN GENERAL DE RECAUDACIÓN. DIRECCIÓN GENERAL DE TRIBUTOS](BOE-B-2019-52934.md)
+- [SUBDIRECCIÓN GENERAL DE RECAUDACIÓN. DIRECCIÓN GENERAL DE TRIBUTOS](BOE-B-2019-52935.md)
+- [SUBDIRECCIÓN GENERAL DE RECAUDACIÓN. DIRECCIÓN GENERAL DE TRIBUTOS](BOE-B-2019-52936.md)
+- [SUBDIRECCIÓN GENERAL DE RECAUDACIÓN. DIRECCIÓN GENERAL DE TRIBUTOS](BOE-B-2019-52937.md)
+
+### ADMINISTRACIÓN LOCAL
+
+- [AYUNTAMIENTO DE ZARAGOZA](BOE-B-2019-52938.md)
